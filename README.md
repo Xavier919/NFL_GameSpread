@@ -1,5 +1,4 @@
-# NFL_GameSpread
-# NFL Game Spread Prediction
+# NFL Game Spread Modeling
 ## Overview
 This repository contains code for modeling NFL game spreads using historical data from the past 10 NFL seasons. The project aims to analyze and predict point spreads in NFL games using various statistical and machine learning approaches.
 ## What is a Spread?
