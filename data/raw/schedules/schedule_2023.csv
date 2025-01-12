@@ -1,0 +1,287 @@
+season,week,date,time,away_team,home_team,game_url
+2023,1,2023-09-07,8:20PM,Detroit Lions,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202309070kan.htm
+2023,1,2023-09-10,1:00PM,Carolina Panthers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202309100atl.htm
+2023,1,2023-09-10,1:00PM,Cincinnati Bengals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202309100cle.htm
+2023,1,2023-09-10,1:00PM,Jacksonville Jaguars,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202309100clt.htm
+2023,1,2023-09-10,1:00PM,Arizona Cardinals,Washington Commanders,https://www.pro-football-reference.com/boxscores/202309100was.htm
+2023,1,2023-09-10,1:00PM,Houston Texans,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202309100rav.htm
+2023,1,2023-09-10,1:00PM,Tampa Bay Buccaneers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202309100min.htm
+2023,1,2023-09-10,1:00PM,Tennessee Titans,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202309100nor.htm
+2023,1,2023-09-10,1:00PM,San Francisco 49ers,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202309100pit.htm
+2023,1,2023-09-10,4:25PM,Green Bay Packers,Chicago Bears,https://www.pro-football-reference.com/boxscores/202309100chi.htm
+2023,1,2023-09-10,4:25PM,Las Vegas Raiders,Denver Broncos,https://www.pro-football-reference.com/boxscores/202309100den.htm
+2023,1,2023-09-10,4:25PM,Miami Dolphins,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202309100sdg.htm
+2023,1,2023-09-10,4:25PM,Philadelphia Eagles,New England Patriots,https://www.pro-football-reference.com/boxscores/202309100nwe.htm
+2023,1,2023-09-10,4:25PM,Los Angeles Rams,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202309100sea.htm
+2023,1,2023-09-10,8:20PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/202309100nyg.htm
+2023,1,2023-09-11,8:15PM,Buffalo Bills,New York Jets,https://www.pro-football-reference.com/boxscores/202309110nyj.htm
+2023,2,2023-09-14,8:15PM,Minnesota Vikings,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202309140phi.htm
+2023,2,2023-09-17,1:00PM,Green Bay Packers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202309170atl.htm
+2023,2,2023-09-17,1:00PM,Las Vegas Raiders,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202309170buf.htm
+2023,2,2023-09-17,1:00PM,Chicago Bears,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202309170tam.htm
+2023,2,2023-09-17,1:00PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202309170cin.htm
+2023,2,2023-09-17,1:00PM,Indianapolis Colts,Houston Texans,https://www.pro-football-reference.com/boxscores/202309170htx.htm
+2023,2,2023-09-17,1:00PM,Seattle Seahawks,Detroit Lions,https://www.pro-football-reference.com/boxscores/202309170det.htm
+2023,2,2023-09-17,1:00PM,Kansas City Chiefs,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202309170jax.htm
+2023,2,2023-09-17,1:00PM,Los Angeles Chargers,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202309170oti.htm
+2023,2,2023-09-17,4:05PM,New York Giants,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202309170crd.htm
+2023,2,2023-09-17,4:05PM,San Francisco 49ers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202309170ram.htm
+2023,2,2023-09-17,4:25PM,New York Jets,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202309170dal.htm
+2023,2,2023-09-17,4:25PM,Washington Commanders,Denver Broncos,https://www.pro-football-reference.com/boxscores/202309170den.htm
+2023,2,2023-09-17,8:20PM,Miami Dolphins,New England Patriots,https://www.pro-football-reference.com/boxscores/202309170nwe.htm
+2023,2,2023-09-18,7:15PM,New Orleans Saints,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202309180car.htm
+2023,2,2023-09-18,8:15PM,Cleveland Browns,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202309180pit.htm
+2023,3,2023-09-21,8:15PM,New York Giants,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202309210sfo.htm
+2023,3,2023-09-24,1:00PM,Atlanta Falcons,Detroit Lions,https://www.pro-football-reference.com/boxscores/202309240det.htm
+2023,3,2023-09-24,1:00PM,Buffalo Bills,Washington Commanders,https://www.pro-football-reference.com/boxscores/202309240was.htm
+2023,3,2023-09-24,1:00PM,Tennessee Titans,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202309240cle.htm
+2023,3,2023-09-24,1:00PM,Indianapolis Colts,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202309240rav.htm
+2023,3,2023-09-24,1:00PM,Denver Broncos,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202309240mia.htm
+2023,3,2023-09-24,1:00PM,New Orleans Saints,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202309240gnb.htm
+2023,3,2023-09-24,1:00PM,Houston Texans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202309240jax.htm
+2023,3,2023-09-24,1:00PM,Los Angeles Chargers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202309240min.htm
+2023,3,2023-09-24,1:00PM,New England Patriots,New York Jets,https://www.pro-football-reference.com/boxscores/202309240nyj.htm
+2023,3,2023-09-24,4:05PM,Carolina Panthers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202309240sea.htm
+2023,3,2023-09-24,4:25PM,Chicago Bears,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202309240kan.htm
+2023,3,2023-09-24,4:25PM,Dallas Cowboys,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202309240crd.htm
+2023,3,2023-09-24,8:20PM,Pittsburgh Steelers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202309240rai.htm
+2023,3,2023-09-25,7:15PM,Philadelphia Eagles,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202309250tam.htm
+2023,3,2023-09-25,8:15PM,Los Angeles Rams,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202309250cin.htm
+2023,4,2023-09-28,8:15PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202309280gnb.htm
+2023,4,2023-10-01,9:30AM,Atlanta Falcons,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202310010jax.htm
+2023,4,2023-10-01,1:00PM,Miami Dolphins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202310010buf.htm
+2023,4,2023-10-01,1:00PM,Minnesota Vikings,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202310010car.htm
+2023,4,2023-10-01,1:00PM,Denver Broncos,Chicago Bears,https://www.pro-football-reference.com/boxscores/202310010chi.htm
+2023,4,2023-10-01,1:00PM,Cincinnati Bengals,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202310010oti.htm
+2023,4,2023-10-01,1:00PM,Baltimore Ravens,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202310010cle.htm
+2023,4,2023-10-01,1:00PM,Los Angeles Rams,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202310010clt.htm
+2023,4,2023-10-01,1:00PM,Pittsburgh Steelers,Houston Texans,https://www.pro-football-reference.com/boxscores/202310010htx.htm
+2023,4,2023-10-01,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202310010nor.htm
+2023,4,2023-10-01,1:00PM,Washington Commanders,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202310010phi.htm
+2023,4,2023-10-01,4:05PM,Las Vegas Raiders,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202310010sdg.htm
+2023,4,2023-10-01,4:25PM,Arizona Cardinals,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202310010sfo.htm
+2023,4,2023-10-01,4:25PM,New England Patriots,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202310010dal.htm
+2023,4,2023-10-01,8:20PM,Kansas City Chiefs,New York Jets,https://www.pro-football-reference.com/boxscores/202310010nyj.htm
+2023,4,2023-10-02,8:15PM,Seattle Seahawks,New York Giants,https://www.pro-football-reference.com/boxscores/202310020nyg.htm
+2023,5,2023-10-05,8:15PM,Chicago Bears,Washington Commanders,https://www.pro-football-reference.com/boxscores/202310050was.htm
+2023,5,2023-10-08,9:30AM,Jacksonville Jaguars,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202310080buf.htm
+2023,5,2023-10-08,1:00PM,Houston Texans,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202310080atl.htm
+2023,5,2023-10-08,1:00PM,Carolina Panthers,Detroit Lions,https://www.pro-football-reference.com/boxscores/202310080det.htm
+2023,5,2023-10-08,1:00PM,Tennessee Titans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202310080clt.htm
+2023,5,2023-10-08,1:00PM,New York Giants,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202310080mia.htm
+2023,5,2023-10-08,1:00PM,New Orleans Saints,New England Patriots,https://www.pro-football-reference.com/boxscores/202310080nwe.htm
+2023,5,2023-10-08,1:00PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202310080pit.htm
+2023,5,2023-10-08,4:05PM,Cincinnati Bengals,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202310080crd.htm
+2023,5,2023-10-08,4:05PM,Philadelphia Eagles,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202310080ram.htm
+2023,5,2023-10-08,4:25PM,New York Jets,Denver Broncos,https://www.pro-football-reference.com/boxscores/202310080den.htm
+2023,5,2023-10-08,4:25PM,Kansas City Chiefs,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202310080min.htm
+2023,5,2023-10-08,8:20PM,Dallas Cowboys,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202310080sfo.htm
+2023,5,2023-10-09,8:15PM,Green Bay Packers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202310090rai.htm
+2023,6,2023-10-12,8:15PM,Denver Broncos,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202310120kan.htm
+2023,6,2023-10-15,9:30AM,Baltimore Ravens,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202310150oti.htm
+2023,6,2023-10-15,1:00PM,San Francisco 49ers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202310150cle.htm
+2023,6,2023-10-15,1:00PM,Washington Commanders,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202310150atl.htm
+2023,6,2023-10-15,1:00PM,Carolina Panthers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202310150mia.htm
+2023,6,2023-10-15,1:00PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/202310150chi.htm
+2023,6,2023-10-15,1:00PM,Seattle Seahawks,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202310150cin.htm
+2023,6,2023-10-15,1:00PM,Indianapolis Colts,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202310150jax.htm
+2023,6,2023-10-15,1:00PM,New Orleans Saints,Houston Texans,https://www.pro-football-reference.com/boxscores/202310150htx.htm
+2023,6,2023-10-15,4:05PM,New England Patriots,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202310150rai.htm
+2023,6,2023-10-15,4:25PM,Arizona Cardinals,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202310150ram.htm
+2023,6,2023-10-15,4:25PM,Detroit Lions,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202310150tam.htm
+2023,6,2023-10-15,4:25PM,Philadelphia Eagles,New York Jets,https://www.pro-football-reference.com/boxscores/202310150nyj.htm
+2023,6,2023-10-15,8:20PM,New York Giants,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202310150buf.htm
+2023,6,2023-10-16,8:15PM,Dallas Cowboys,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202310160sdg.htm
+2023,7,2023-10-19,8:15PM,Jacksonville Jaguars,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202310190nor.htm
+2023,7,2023-10-22,1:00PM,Cleveland Browns,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202310220clt.htm
+2023,7,2023-10-22,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202310220tam.htm
+2023,7,2023-10-22,1:00PM,Buffalo Bills,New England Patriots,https://www.pro-football-reference.com/boxscores/202310220nwe.htm
+2023,7,2023-10-22,1:00PM,Las Vegas Raiders,Chicago Bears,https://www.pro-football-reference.com/boxscores/202310220chi.htm
+2023,7,2023-10-22,1:00PM,Detroit Lions,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202310220rav.htm
+2023,7,2023-10-22,1:00PM,Washington Commanders,New York Giants,https://www.pro-football-reference.com/boxscores/202310220nyg.htm
+2023,7,2023-10-22,4:05PM,Pittsburgh Steelers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202310220ram.htm
+2023,7,2023-10-22,4:05PM,Arizona Cardinals,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202310220sea.htm
+2023,7,2023-10-22,4:25PM,Green Bay Packers,Denver Broncos,https://www.pro-football-reference.com/boxscores/202310220den.htm
+2023,7,2023-10-22,4:25PM,Los Angeles Chargers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202310220kan.htm
+2023,7,2023-10-22,8:20PM,Miami Dolphins,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202310220phi.htm
+2023,7,2023-10-23,8:15PM,San Francisco 49ers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202310230min.htm
+2023,8,2023-10-26,8:15PM,Tampa Bay Buccaneers,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202310260buf.htm
+2023,8,2023-10-29,1:00PM,Houston Texans,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202310290car.htm
+2023,8,2023-10-29,1:00PM,Los Angeles Rams,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202310290dal.htm
+2023,8,2023-10-29,1:00PM,Minnesota Vikings,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202310290gnb.htm
+2023,8,2023-10-29,1:00PM,Atlanta Falcons,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202310290oti.htm
+2023,8,2023-10-29,1:00PM,New Orleans Saints,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202310290clt.htm
+2023,8,2023-10-29,1:00PM,Jacksonville Jaguars,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202310290pit.htm
+2023,8,2023-10-29,1:00PM,New England Patriots,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202310290mia.htm
+2023,8,2023-10-29,1:00PM,New York Jets,New York Giants,https://www.pro-football-reference.com/boxscores/202310290nyg.htm
+2023,8,2023-10-29,1:00PM,Philadelphia Eagles,Washington Commanders,https://www.pro-football-reference.com/boxscores/202310290was.htm
+2023,8,2023-10-29,4:05PM,Cleveland Browns,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202310290sea.htm
+2023,8,2023-10-29,4:25PM,Cincinnati Bengals,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202310290sfo.htm
+2023,8,2023-10-29,4:25PM,Baltimore Ravens,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202310290crd.htm
+2023,8,2023-10-29,4:25PM,Kansas City Chiefs,Denver Broncos,https://www.pro-football-reference.com/boxscores/202310290den.htm
+2023,8,2023-10-29,8:20PM,Chicago Bears,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202310290sdg.htm
+2023,8,2023-10-30,8:15PM,Las Vegas Raiders,Detroit Lions,https://www.pro-football-reference.com/boxscores/202310300det.htm
+2023,9,2023-11-02,8:15PM,Tennessee Titans,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202311020pit.htm
+2023,9,2023-11-05,9:30AM,Miami Dolphins,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202311050kan.htm
+2023,9,2023-11-05,1:00PM,Arizona Cardinals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202311050cle.htm
+2023,9,2023-11-05,1:00PM,Los Angeles Rams,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202311050gnb.htm
+2023,9,2023-11-05,1:00PM,Tampa Bay Buccaneers,Houston Texans,https://www.pro-football-reference.com/boxscores/202311050htx.htm
+2023,9,2023-11-05,1:00PM,Minnesota Vikings,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202311050atl.htm
+2023,9,2023-11-05,1:00PM,Chicago Bears,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202311050nor.htm
+2023,9,2023-11-05,1:00PM,Washington Commanders,New England Patriots,https://www.pro-football-reference.com/boxscores/202311050nwe.htm
+2023,9,2023-11-05,1:00PM,Seattle Seahawks,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202311050rav.htm
+2023,9,2023-11-05,4:05PM,Indianapolis Colts,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202311050car.htm
+2023,9,2023-11-05,4:25PM,Dallas Cowboys,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202311050phi.htm
+2023,9,2023-11-05,4:25PM,New York Giants,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202311050rai.htm
+2023,9,2023-11-05,8:20PM,Buffalo Bills,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202311050cin.htm
+2023,9,2023-11-06,8:15PM,Los Angeles Chargers,New York Jets,https://www.pro-football-reference.com/boxscores/202311060nyj.htm
+2023,10,2023-11-09,8:15PM,Carolina Panthers,Chicago Bears,https://www.pro-football-reference.com/boxscores/202311090chi.htm
+2023,10,2023-11-12,9:30AM,Indianapolis Colts,New England Patriots,https://www.pro-football-reference.com/boxscores/202311120nwe.htm
+2023,10,2023-11-12,1:00PM,Houston Texans,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202311120cin.htm
+2023,10,2023-11-12,1:00PM,Cleveland Browns,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202311120rav.htm
+2023,10,2023-11-12,1:00PM,Green Bay Packers,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202311120pit.htm
+2023,10,2023-11-12,1:00PM,San Francisco 49ers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202311120jax.htm
+2023,10,2023-11-12,1:00PM,Tennessee Titans,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202311120tam.htm
+2023,10,2023-11-12,1:00PM,New Orleans Saints,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202311120min.htm
+2023,10,2023-11-12,4:05PM,Detroit Lions,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202311120sdg.htm
+2023,10,2023-11-12,4:05PM,Atlanta Falcons,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202311120crd.htm
+2023,10,2023-11-12,4:25PM,New York Giants,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202311120dal.htm
+2023,10,2023-11-12,4:25PM,Washington Commanders,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202311120sea.htm
+2023,10,2023-11-12,8:20PM,New York Jets,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202311120rai.htm
+2023,10,2023-11-13,8:15PM,Denver Broncos,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202311130buf.htm
+2023,11,2023-11-16,8:15PM,Cincinnati Bengals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202311160rav.htm
+2023,11,2023-11-19,1:00PM,Dallas Cowboys,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202311190car.htm
+2023,11,2023-11-19,1:00PM,Pittsburgh Steelers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202311190cle.htm
+2023,11,2023-11-19,1:00PM,Los Angeles Chargers,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202311190gnb.htm
+2023,11,2023-11-19,1:00PM,Tennessee Titans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202311190jax.htm
+2023,11,2023-11-19,1:00PM,Las Vegas Raiders,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202311190mia.htm
+2023,11,2023-11-19,1:00PM,Chicago Bears,Detroit Lions,https://www.pro-football-reference.com/boxscores/202311190det.htm
+2023,11,2023-11-19,1:00PM,Arizona Cardinals,Houston Texans,https://www.pro-football-reference.com/boxscores/202311190htx.htm
+2023,11,2023-11-19,1:00PM,New York Giants,Washington Commanders,https://www.pro-football-reference.com/boxscores/202311190was.htm
+2023,11,2023-11-19,4:05PM,Tampa Bay Buccaneers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202311190sfo.htm
+2023,11,2023-11-19,4:25PM,Seattle Seahawks,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202311190ram.htm
+2023,11,2023-11-19,4:25PM,New York Jets,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202311190buf.htm
+2023,11,2023-11-19,8:20PM,Minnesota Vikings,Denver Broncos,https://www.pro-football-reference.com/boxscores/202311190den.htm
+2023,11,2023-11-20,8:15PM,Philadelphia Eagles,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202311200kan.htm
+2023,12,2023-11-23,12:30PM,Green Bay Packers,Detroit Lions,https://www.pro-football-reference.com/boxscores/202311230det.htm
+2023,12,2023-11-23,4:30PM,Washington Commanders,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202311230dal.htm
+2023,12,2023-11-23,8:20PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202311230sea.htm
+2023,12,2023-11-24,3:00PM,Miami Dolphins,New York Jets,https://www.pro-football-reference.com/boxscores/202311240nyj.htm
+2023,12,2023-11-26,1:00PM,New Orleans Saints,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202311260atl.htm
+2023,12,2023-11-26,1:00PM,Carolina Panthers,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202311260oti.htm
+2023,12,2023-11-26,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202311260cin.htm
+2023,12,2023-11-26,1:00PM,Tampa Bay Buccaneers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202311260clt.htm
+2023,12,2023-11-26,1:00PM,Jacksonville Jaguars,Houston Texans,https://www.pro-football-reference.com/boxscores/202311260htx.htm
+2023,12,2023-11-26,1:00PM,New England Patriots,New York Giants,https://www.pro-football-reference.com/boxscores/202311260nyg.htm
+2023,12,2023-11-26,4:05PM,Cleveland Browns,Denver Broncos,https://www.pro-football-reference.com/boxscores/202311260den.htm
+2023,12,2023-11-26,4:05PM,Los Angeles Rams,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202311260crd.htm
+2023,12,2023-11-26,4:25PM,Kansas City Chiefs,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202311260rai.htm
+2023,12,2023-11-26,4:25PM,Buffalo Bills,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202311260phi.htm
+2023,12,2023-11-26,8:20PM,Baltimore Ravens,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202311260sdg.htm
+2023,12,2023-11-27,8:15PM,Chicago Bears,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202311270min.htm
+2023,13,2023-11-30,8:15PM,Seattle Seahawks,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202311300dal.htm
+2023,13,2023-12-03,1:00PM,Atlanta Falcons,New York Jets,https://www.pro-football-reference.com/boxscores/202312030nyj.htm
+2023,13,2023-12-03,1:00PM,Indianapolis Colts,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202312030oti.htm
+2023,13,2023-12-03,1:00PM,Denver Broncos,Houston Texans,https://www.pro-football-reference.com/boxscores/202312030htx.htm
+2023,13,2023-12-03,1:00PM,Detroit Lions,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202312030nor.htm
+2023,13,2023-12-03,1:00PM,Miami Dolphins,Washington Commanders,https://www.pro-football-reference.com/boxscores/202312030was.htm
+2023,13,2023-12-03,1:00PM,Los Angeles Chargers,New England Patriots,https://www.pro-football-reference.com/boxscores/202312030nwe.htm
+2023,13,2023-12-03,1:00PM,Arizona Cardinals,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202312030pit.htm
+2023,13,2023-12-03,4:05PM,Carolina Panthers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202312030tam.htm
+2023,13,2023-12-03,4:25PM,Cleveland Browns,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202312030ram.htm
+2023,13,2023-12-03,4:25PM,San Francisco 49ers,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202312030phi.htm
+2023,13,2023-12-03,8:20PM,Kansas City Chiefs,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202312030gnb.htm
+2023,13,2023-12-04,8:15PM,Cincinnati Bengals,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202312040jax.htm
+2023,14,2023-12-07,8:15PM,New England Patriots,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202312070pit.htm
+2023,14,2023-12-10,1:00PM,Tampa Bay Buccaneers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202312100atl.htm
+2023,14,2023-12-10,1:00PM,Carolina Panthers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202312100nor.htm
+2023,14,2023-12-10,1:00PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/202312100chi.htm
+2023,14,2023-12-10,1:00PM,Indianapolis Colts,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202312100cin.htm
+2023,14,2023-12-10,1:00PM,Jacksonville Jaguars,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202312100cle.htm
+2023,14,2023-12-10,1:00PM,Houston Texans,New York Jets,https://www.pro-football-reference.com/boxscores/202312100nyj.htm
+2023,14,2023-12-10,1:00PM,Los Angeles Rams,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202312100rav.htm
+2023,14,2023-12-10,4:05PM,Minnesota Vikings,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202312100rai.htm
+2023,14,2023-12-10,4:05PM,Seattle Seahawks,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202312100sfo.htm
+2023,14,2023-12-10,4:25PM,Buffalo Bills,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202312100kan.htm
+2023,14,2023-12-10,4:25PM,Denver Broncos,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202312100sdg.htm
+2023,14,2023-12-10,8:20PM,Philadelphia Eagles,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202312100dal.htm
+2023,14,2023-12-11,8:15PM,Green Bay Packers,New York Giants,https://www.pro-football-reference.com/boxscores/202312110nyg.htm
+2023,14,2023-12-11,8:15PM,Tennessee Titans,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202312110mia.htm
+2023,15,2023-12-14,8:15PM,Los Angeles Chargers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202312140rai.htm
+2023,15,2023-12-16,1:00PM,Minnesota Vikings,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202312160cin.htm
+2023,15,2023-12-16,4:30PM,Pittsburgh Steelers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202312160clt.htm
+2023,15,2023-12-16,8:15PM,Denver Broncos,Detroit Lions,https://www.pro-football-reference.com/boxscores/202312160det.htm
+2023,15,2023-12-17,1:00PM,Atlanta Falcons,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202312170car.htm
+2023,15,2023-12-17,1:00PM,Chicago Bears,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202312170cle.htm
+2023,15,2023-12-17,1:00PM,Tampa Bay Buccaneers,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202312170gnb.htm
+2023,15,2023-12-17,1:00PM,Houston Texans,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202312170oti.htm
+2023,15,2023-12-17,1:00PM,Kansas City Chiefs,New England Patriots,https://www.pro-football-reference.com/boxscores/202312170nwe.htm
+2023,15,2023-12-17,1:00PM,New York Jets,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202312170mia.htm
+2023,15,2023-12-17,1:00PM,New York Giants,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202312170nor.htm
+2023,15,2023-12-17,4:05PM,San Francisco 49ers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202312170crd.htm
+2023,15,2023-12-17,4:05PM,Washington Commanders,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202312170ram.htm
+2023,15,2023-12-17,4:25PM,Dallas Cowboys,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202312170buf.htm
+2023,15,2023-12-17,8:20PM,Baltimore Ravens,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202312170jax.htm
+2023,15,2023-12-18,8:15PM,Philadelphia Eagles,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202312180sea.htm
+2023,16,2023-12-21,8:15PM,New Orleans Saints,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202312210ram.htm
+2023,16,2023-12-23,4:30PM,Cincinnati Bengals,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202312230pit.htm
+2023,16,2023-12-23,8:00PM,Buffalo Bills,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202312230sdg.htm
+2023,16,2023-12-24,1:00PM,Indianapolis Colts,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202312240atl.htm
+2023,16,2023-12-24,1:00PM,Green Bay Packers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202312240car.htm
+2023,16,2023-12-24,1:00PM,Cleveland Browns,Houston Texans,https://www.pro-football-reference.com/boxscores/202312240htx.htm
+2023,16,2023-12-24,1:00PM,Detroit Lions,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202312240min.htm
+2023,16,2023-12-24,1:00PM,Washington Commanders,New York Jets,https://www.pro-football-reference.com/boxscores/202312240nyj.htm
+2023,16,2023-12-24,1:00PM,Seattle Seahawks,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202312240oti.htm
+2023,16,2023-12-24,4:05PM,Jacksonville Jaguars,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202312240tam.htm
+2023,16,2023-12-24,4:25PM,Arizona Cardinals,Chicago Bears,https://www.pro-football-reference.com/boxscores/202312240chi.htm
+2023,16,2023-12-24,4:25PM,Dallas Cowboys,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202312240mia.htm
+2023,16,2023-12-24,8:15PM,New England Patriots,Denver Broncos,https://www.pro-football-reference.com/boxscores/202312240den.htm
+2023,16,2023-12-25,1:00PM,Las Vegas Raiders,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202312250kan.htm
+2023,16,2023-12-25,4:30PM,New York Giants,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202312250phi.htm
+2023,16,2023-12-25,8:15PM,Baltimore Ravens,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202312250sfo.htm
+2023,17,2023-12-28,8:15PM,New York Jets,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202312280cle.htm
+2023,17,2023-12-30,8:15PM,Detroit Lions,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202312300dal.htm
+2023,17,2023-12-31,1:00PM,Atlanta Falcons,Chicago Bears,https://www.pro-football-reference.com/boxscores/202312310chi.htm
+2023,17,2023-12-31,1:00PM,New England Patriots,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202312310buf.htm
+2023,17,2023-12-31,1:00PM,Carolina Panthers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202312310jax.htm
+2023,17,2023-12-31,1:00PM,Las Vegas Raiders,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202312310clt.htm
+2023,17,2023-12-31,1:00PM,Arizona Cardinals,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202312310phi.htm
+2023,17,2023-12-31,1:00PM,Tennessee Titans,Houston Texans,https://www.pro-football-reference.com/boxscores/202312310htx.htm
+2023,17,2023-12-31,1:00PM,Miami Dolphins,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202312310rav.htm
+2023,17,2023-12-31,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202312310tam.htm
+2023,17,2023-12-31,1:00PM,Los Angeles Rams,New York Giants,https://www.pro-football-reference.com/boxscores/202312310nyg.htm
+2023,17,2023-12-31,1:00PM,San Francisco 49ers,Washington Commanders,https://www.pro-football-reference.com/boxscores/202312310was.htm
+2023,17,2023-12-31,4:05PM,Pittsburgh Steelers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202312310sea.htm
+2023,17,2023-12-31,4:25PM,Cincinnati Bengals,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202312310kan.htm
+2023,17,2023-12-31,4:25PM,Los Angeles Chargers,Denver Broncos,https://www.pro-football-reference.com/boxscores/202312310den.htm
+2023,17,2023-12-31,8:20PM,Green Bay Packers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202312310min.htm
+2023,18,2024-01-06,4:30PM,Pittsburgh Steelers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202401060rav.htm
+2023,18,2024-01-06,8:15PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202401060clt.htm
+2023,18,2024-01-07,1:00PM,Atlanta Falcons,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202401070nor.htm
+2023,18,2024-01-07,1:00PM,Tampa Bay Buccaneers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202401070car.htm
+2023,18,2024-01-07,1:00PM,Cleveland Browns,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202401070cin.htm
+2023,18,2024-01-07,1:00PM,Minnesota Vikings,Detroit Lions,https://www.pro-football-reference.com/boxscores/202401070det.htm
+2023,18,2024-01-07,1:00PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202401070oti.htm
+2023,18,2024-01-07,1:00PM,New York Jets,New England Patriots,https://www.pro-football-reference.com/boxscores/202401070nwe.htm
+2023,18,2024-01-07,4:25PM,Chicago Bears,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202401070gnb.htm
+2023,18,2024-01-07,4:25PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202401070crd.htm
+2023,18,2024-01-07,4:25PM,Dallas Cowboys,Washington Commanders,https://www.pro-football-reference.com/boxscores/202401070was.htm
+2023,18,2024-01-07,4:25PM,Denver Broncos,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202401070rai.htm
+2023,18,2024-01-07,4:25PM,Kansas City Chiefs,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202401070sdg.htm
+2023,18,2024-01-07,4:25PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/202401070nyg.htm
+2023,18,2024-01-07,4:25PM,Los Angeles Rams,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202401070sfo.htm
+2023,18,2024-01-07,8:20PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202401070mia.htm
+2023,,Playoffs,,,,
+2023,WildCard,2024-01-13,4:30PM,Cleveland Browns,Houston Texans,https://www.pro-football-reference.com/boxscores/202401130htx.htm
+2023,WildCard,2024-01-13,8:10PM,Miami Dolphins,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202401130kan.htm
+2023,WildCard,2024-01-14,4:30PM,Green Bay Packers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202401140dal.htm
+2023,WildCard,2024-01-14,8:15PM,Los Angeles Rams,Detroit Lions,https://www.pro-football-reference.com/boxscores/202401140det.htm
+2023,WildCard,2024-01-15,4:30PM,Pittsburgh Steelers,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202401150buf.htm
+2023,WildCard,2024-01-15,8:15PM,Philadelphia Eagles,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202401150tam.htm
+2023,Division,2024-01-20,4:30PM,Houston Texans,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202401200rav.htm
+2023,Division,2024-01-20,8:15PM,Green Bay Packers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202401200sfo.htm
+2023,Division,2024-01-21,3:00PM,Tampa Bay Buccaneers,Detroit Lions,https://www.pro-football-reference.com/boxscores/202401210det.htm
+2023,Division,2024-01-21,6:30PM,Kansas City Chiefs,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202401210buf.htm
+2023,ConfChamp,2024-01-28,3:00PM,Kansas City Chiefs,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202401280rav.htm
+2023,ConfChamp,2024-01-28,6:30PM,Detroit Lions,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202401280sfo.htm
+2023,SuperBowl,2024-02-11,6:30PM,San Francisco 49ers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202402110kan.htm

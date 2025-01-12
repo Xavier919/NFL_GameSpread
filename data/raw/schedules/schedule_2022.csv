@@ -1,0 +1,286 @@
+season,week,date,time,away_team,home_team,game_url
+2022,1,2022-09-08,8:20PM,Buffalo Bills,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202209080ram.htm
+2022,1,2022-09-11,1:00PM,New Orleans Saints,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202209110atl.htm
+2022,1,2022-09-11,1:00PM,Cleveland Browns,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202209110car.htm
+2022,1,2022-09-11,1:00PM,San Francisco 49ers,Chicago Bears,https://www.pro-football-reference.com/boxscores/202209110chi.htm
+2022,1,2022-09-11,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202209110cin.htm
+2022,1,2022-09-11,1:00PM,Indianapolis Colts,Houston Texans,https://www.pro-football-reference.com/boxscores/202209110htx.htm
+2022,1,2022-09-11,1:00PM,Philadelphia Eagles,Detroit Lions,https://www.pro-football-reference.com/boxscores/202209110det.htm
+2022,1,2022-09-11,1:00PM,Jacksonville Jaguars,Washington Commanders,https://www.pro-football-reference.com/boxscores/202209110was.htm
+2022,1,2022-09-11,1:00PM,New England Patriots,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202209110mia.htm
+2022,1,2022-09-11,1:00PM,Baltimore Ravens,New York Jets,https://www.pro-football-reference.com/boxscores/202209110nyj.htm
+2022,1,2022-09-11,4:25PM,Kansas City Chiefs,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202209110crd.htm
+2022,1,2022-09-11,4:25PM,Green Bay Packers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202209110min.htm
+2022,1,2022-09-11,4:25PM,New York Giants,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202209110oti.htm
+2022,1,2022-09-11,4:25PM,Las Vegas Raiders,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202209110sdg.htm
+2022,1,2022-09-11,8:20PM,Tampa Bay Buccaneers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202209110dal.htm
+2022,1,2022-09-12,8:20PM,Denver Broncos,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202209120sea.htm
+2022,2,2022-09-15,8:15PM,Los Angeles Chargers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202209150kan.htm
+2022,2,2022-09-18,1:00PM,Carolina Panthers,New York Giants,https://www.pro-football-reference.com/boxscores/202209180nyg.htm
+2022,2,2022-09-18,1:00PM,New York Jets,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202209180cle.htm
+2022,2,2022-09-18,1:00PM,Indianapolis Colts,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202209180jax.htm
+2022,2,2022-09-18,1:00PM,Washington Commanders,Detroit Lions,https://www.pro-football-reference.com/boxscores/202209180det.htm
+2022,2,2022-09-18,1:00PM,Miami Dolphins,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202209180rav.htm
+2022,2,2022-09-18,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202209180nor.htm
+2022,2,2022-09-18,1:00PM,New England Patriots,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202209180pit.htm
+2022,2,2022-09-18,4:05PM,Atlanta Falcons,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202209180ram.htm
+2022,2,2022-09-18,4:05PM,Seattle Seahawks,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202209180sfo.htm
+2022,2,2022-09-18,4:25PM,Cincinnati Bengals,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202209180dal.htm
+2022,2,2022-09-18,4:25PM,Arizona Cardinals,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202209180rai.htm
+2022,2,2022-09-18,4:25PM,Houston Texans,Denver Broncos,https://www.pro-football-reference.com/boxscores/202209180den.htm
+2022,2,2022-09-18,8:20PM,Chicago Bears,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202209180gnb.htm
+2022,2,2022-09-19,7:15PM,Tennessee Titans,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202209190buf.htm
+2022,2,2022-09-19,8:30PM,Minnesota Vikings,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202209190phi.htm
+2022,3,2022-09-22,8:15PM,Pittsburgh Steelers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202209220cle.htm
+2022,3,2022-09-25,1:00PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202209250mia.htm
+2022,3,2022-09-25,1:00PM,New Orleans Saints,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202209250car.htm
+2022,3,2022-09-25,1:00PM,Houston Texans,Chicago Bears,https://www.pro-football-reference.com/boxscores/202209250chi.htm
+2022,3,2022-09-25,1:00PM,Cincinnati Bengals,New York Jets,https://www.pro-football-reference.com/boxscores/202209250nyj.htm
+2022,3,2022-09-25,1:00PM,Kansas City Chiefs,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202209250clt.htm
+2022,3,2022-09-25,1:00PM,Detroit Lions,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202209250min.htm
+2022,3,2022-09-25,1:00PM,Baltimore Ravens,New England Patriots,https://www.pro-football-reference.com/boxscores/202209250nwe.htm
+2022,3,2022-09-25,1:00PM,Las Vegas Raiders,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202209250oti.htm
+2022,3,2022-09-25,1:00PM,Philadelphia Eagles,Washington Commanders,https://www.pro-football-reference.com/boxscores/202209250was.htm
+2022,3,2022-09-25,4:05PM,Jacksonville Jaguars,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202209250sdg.htm
+2022,3,2022-09-25,4:25PM,Atlanta Falcons,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202209250sea.htm
+2022,3,2022-09-25,4:25PM,Los Angeles Rams,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202209250crd.htm
+2022,3,2022-09-25,4:25PM,Green Bay Packers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202209250tam.htm
+2022,3,2022-09-25,8:20PM,San Francisco 49ers,Denver Broncos,https://www.pro-football-reference.com/boxscores/202209250den.htm
+2022,3,2022-09-26,8:15PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/202209260nyg.htm
+2022,4,2022-09-29,8:15PM,Miami Dolphins,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202209290cin.htm
+2022,4,2022-10-02,9:30AM,Minnesota Vikings,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202210020nor.htm
+2022,4,2022-10-02,1:00PM,Cleveland Browns,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202210020atl.htm
+2022,4,2022-10-02,1:00PM,Buffalo Bills,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202210020rav.htm
+2022,4,2022-10-02,1:00PM,Chicago Bears,New York Giants,https://www.pro-football-reference.com/boxscores/202210020nyg.htm
+2022,4,2022-10-02,1:00PM,Tennessee Titans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202210020clt.htm
+2022,4,2022-10-02,1:00PM,Washington Commanders,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202210020dal.htm
+2022,4,2022-10-02,1:00PM,Seattle Seahawks,Detroit Lions,https://www.pro-football-reference.com/boxscores/202210020det.htm
+2022,4,2022-10-02,1:00PM,Los Angeles Chargers,Houston Texans,https://www.pro-football-reference.com/boxscores/202210020htx.htm
+2022,4,2022-10-02,1:00PM,Jacksonville Jaguars,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202210020phi.htm
+2022,4,2022-10-02,1:00PM,New York Jets,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202210020pit.htm
+2022,4,2022-10-02,4:05PM,Arizona Cardinals,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202210020car.htm
+2022,4,2022-10-02,4:25PM,Denver Broncos,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202210020rai.htm
+2022,4,2022-10-02,4:25PM,New England Patriots,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202210020gnb.htm
+2022,4,2022-10-02,8:20PM,Kansas City Chiefs,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202210020tam.htm
+2022,4,2022-10-03,8:15PM,Los Angeles Rams,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202210030sfo.htm
+2022,5,2022-10-06,8:15PM,Indianapolis Colts,Denver Broncos,https://www.pro-football-reference.com/boxscores/202210060den.htm
+2022,5,2022-10-09,9:30AM,New York Giants,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202210090gnb.htm
+2022,5,2022-10-09,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202210090tam.htm
+2022,5,2022-10-09,1:00PM,Pittsburgh Steelers,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202210090buf.htm
+2022,5,2022-10-09,1:00PM,Chicago Bears,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202210090min.htm
+2022,5,2022-10-09,1:00PM,Los Angeles Chargers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202210090cle.htm
+2022,5,2022-10-09,1:00PM,Detroit Lions,New England Patriots,https://www.pro-football-reference.com/boxscores/202210090nwe.htm
+2022,5,2022-10-09,1:00PM,Houston Texans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202210090jax.htm
+2022,5,2022-10-09,1:00PM,Miami Dolphins,New York Jets,https://www.pro-football-reference.com/boxscores/202210090nyj.htm
+2022,5,2022-10-09,1:00PM,Seattle Seahawks,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202210090nor.htm
+2022,5,2022-10-09,1:00PM,Tennessee Titans,Washington Commanders,https://www.pro-football-reference.com/boxscores/202210090was.htm
+2022,5,2022-10-09,4:05PM,San Francisco 49ers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202210090car.htm
+2022,5,2022-10-09,4:25PM,Philadelphia Eagles,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202210090crd.htm
+2022,5,2022-10-09,4:25PM,Dallas Cowboys,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202210090ram.htm
+2022,5,2022-10-09,8:20PM,Cincinnati Bengals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202210090rav.htm
+2022,5,2022-10-10,8:15PM,Las Vegas Raiders,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202210100kan.htm
+2022,6,2022-10-13,8:15PM,Washington Commanders,Chicago Bears,https://www.pro-football-reference.com/boxscores/202210130chi.htm
+2022,6,2022-10-16,1:00PM,San Francisco 49ers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202210160atl.htm
+2022,6,2022-10-16,1:00PM,Cincinnati Bengals,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202210160nor.htm
+2022,6,2022-10-16,1:00PM,New England Patriots,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202210160cle.htm
+2022,6,2022-10-16,1:00PM,Jacksonville Jaguars,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202210160clt.htm
+2022,6,2022-10-16,1:00PM,New York Jets,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202210160gnb.htm
+2022,6,2022-10-16,1:00PM,Minnesota Vikings,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202210160mia.htm
+2022,6,2022-10-16,1:00PM,Baltimore Ravens,New York Giants,https://www.pro-football-reference.com/boxscores/202210160nyg.htm
+2022,6,2022-10-16,1:00PM,Tampa Bay Buccaneers,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202210160pit.htm
+2022,6,2022-10-16,4:05PM,Carolina Panthers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202210160ram.htm
+2022,6,2022-10-16,4:05PM,Arizona Cardinals,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202210160sea.htm
+2022,6,2022-10-16,4:25PM,Buffalo Bills,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202210160kan.htm
+2022,6,2022-10-16,8:20PM,Dallas Cowboys,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202210160phi.htm
+2022,6,2022-10-17,8:15PM,Denver Broncos,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202210170sdg.htm
+2022,7,2022-10-20,8:15PM,New Orleans Saints,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202210200crd.htm
+2022,7,2022-10-23,1:00PM,Atlanta Falcons,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202210230cin.htm
+2022,7,2022-10-23,1:00PM,Tampa Bay Buccaneers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202210230car.htm
+2022,7,2022-10-23,1:00PM,Cleveland Browns,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202210230rav.htm
+2022,7,2022-10-23,1:00PM,Indianapolis Colts,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202210230oti.htm
+2022,7,2022-10-23,1:00PM,Detroit Lions,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202210230dal.htm
+2022,7,2022-10-23,1:00PM,Green Bay Packers,Washington Commanders,https://www.pro-football-reference.com/boxscores/202210230was.htm
+2022,7,2022-10-23,1:00PM,New York Giants,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202210230jax.htm
+2022,7,2022-10-23,4:05PM,Houston Texans,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202210230rai.htm
+2022,7,2022-10-23,4:05PM,New York Jets,Denver Broncos,https://www.pro-football-reference.com/boxscores/202210230den.htm
+2022,7,2022-10-23,4:25PM,Kansas City Chiefs,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202210230sfo.htm
+2022,7,2022-10-23,4:25PM,Seattle Seahawks,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202210230sdg.htm
+2022,7,2022-10-23,8:20PM,Pittsburgh Steelers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202210230mia.htm
+2022,7,2022-10-24,8:15PM,Chicago Bears,New England Patriots,https://www.pro-football-reference.com/boxscores/202210240nwe.htm
+2022,8,2022-10-27,8:15PM,Baltimore Ravens,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202210270tam.htm
+2022,8,2022-10-30,9:30AM,Denver Broncos,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202210300jax.htm
+2022,8,2022-10-30,1:00PM,Miami Dolphins,Detroit Lions,https://www.pro-football-reference.com/boxscores/202210300det.htm
+2022,8,2022-10-30,1:00PM,Pittsburgh Steelers,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202210300phi.htm
+2022,8,2022-10-30,1:00PM,Carolina Panthers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202210300atl.htm
+2022,8,2022-10-30,1:00PM,Chicago Bears,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202210300dal.htm
+2022,8,2022-10-30,1:00PM,Arizona Cardinals,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202210300min.htm
+2022,8,2022-10-30,1:00PM,Las Vegas Raiders,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202210300nor.htm
+2022,8,2022-10-30,1:00PM,New England Patriots,New York Jets,https://www.pro-football-reference.com/boxscores/202210300nyj.htm
+2022,8,2022-10-30,4:05PM,Tennessee Titans,Houston Texans,https://www.pro-football-reference.com/boxscores/202210300htx.htm
+2022,8,2022-10-30,4:25PM,San Francisco 49ers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202210300ram.htm
+2022,8,2022-10-30,4:25PM,Washington Commanders,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202210300clt.htm
+2022,8,2022-10-30,4:25PM,New York Giants,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202210300sea.htm
+2022,8,2022-10-30,8:20PM,Green Bay Packers,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202210300buf.htm
+2022,8,2022-10-31,8:15PM,Cincinnati Bengals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202210310cle.htm
+2022,9,2022-11-03,8:15PM,Philadelphia Eagles,Houston Texans,https://www.pro-football-reference.com/boxscores/202211030htx.htm
+2022,9,2022-11-06,1:00PM,Buffalo Bills,New York Jets,https://www.pro-football-reference.com/boxscores/202211060nyj.htm
+2022,9,2022-11-06,1:00PM,Green Bay Packers,Detroit Lions,https://www.pro-football-reference.com/boxscores/202211060det.htm
+2022,9,2022-11-06,1:00PM,Minnesota Vikings,Washington Commanders,https://www.pro-football-reference.com/boxscores/202211060was.htm
+2022,9,2022-11-06,1:00PM,Los Angeles Chargers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202211060atl.htm
+2022,9,2022-11-06,1:00PM,Carolina Panthers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202211060cin.htm
+2022,9,2022-11-06,1:00PM,Miami Dolphins,Chicago Bears,https://www.pro-football-reference.com/boxscores/202211060chi.htm
+2022,9,2022-11-06,1:00PM,Indianapolis Colts,New England Patriots,https://www.pro-football-reference.com/boxscores/202211060nwe.htm
+2022,9,2022-11-06,1:00PM,Las Vegas Raiders,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202211060jax.htm
+2022,9,2022-11-06,4:05PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202211060crd.htm
+2022,9,2022-11-06,4:25PM,Los Angeles Rams,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202211060tam.htm
+2022,9,2022-11-06,8:20PM,Tennessee Titans,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202211060kan.htm
+2022,9,2022-11-07,8:15PM,Baltimore Ravens,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202211070nor.htm
+2022,10,2022-11-10,8:15PM,Atlanta Falcons,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202211100car.htm
+2022,10,2022-11-13,9:30AM,Seattle Seahawks,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202211130tam.htm
+2022,10,2022-11-13,1:00PM,Minnesota Vikings,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202211130buf.htm
+2022,10,2022-11-13,1:00PM,Cleveland Browns,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202211130mia.htm
+2022,10,2022-11-13,1:00PM,Denver Broncos,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202211130oti.htm
+2022,10,2022-11-13,1:00PM,Houston Texans,New York Giants,https://www.pro-football-reference.com/boxscores/202211130nyg.htm
+2022,10,2022-11-13,1:00PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/202211130chi.htm
+2022,10,2022-11-13,1:00PM,Jacksonville Jaguars,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202211130kan.htm
+2022,10,2022-11-13,1:00PM,New Orleans Saints,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202211130pit.htm
+2022,10,2022-11-13,4:05PM,Indianapolis Colts,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202211130rai.htm
+2022,10,2022-11-13,4:25PM,Dallas Cowboys,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202211130gnb.htm
+2022,10,2022-11-13,4:25PM,Arizona Cardinals,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202211130ram.htm
+2022,10,2022-11-13,8:20PM,Los Angeles Chargers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202211130sfo.htm
+2022,10,2022-11-14,8:15PM,Washington Commanders,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202211140phi.htm
+2022,11,2022-11-17,8:15PM,Tennessee Titans,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202211170gnb.htm
+2022,11,2022-11-20,1:00PM,Cleveland Browns,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202211200buf.htm
+2022,11,2022-11-20,1:00PM,Detroit Lions,New York Giants,https://www.pro-football-reference.com/boxscores/202211200nyg.htm
+2022,11,2022-11-20,1:00PM,Washington Commanders,Houston Texans,https://www.pro-football-reference.com/boxscores/202211200htx.htm
+2022,11,2022-11-20,1:00PM,New York Jets,New England Patriots,https://www.pro-football-reference.com/boxscores/202211200nwe.htm
+2022,11,2022-11-20,1:00PM,Chicago Bears,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202211200atl.htm
+2022,11,2022-11-20,1:00PM,Carolina Panthers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202211200rav.htm
+2022,11,2022-11-20,1:00PM,Philadelphia Eagles,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202211200clt.htm
+2022,11,2022-11-20,1:00PM,Los Angeles Rams,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202211200nor.htm
+2022,11,2022-11-20,4:05PM,Las Vegas Raiders,Denver Broncos,https://www.pro-football-reference.com/boxscores/202211200den.htm
+2022,11,2022-11-20,4:25PM,Cincinnati Bengals,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202211200pit.htm
+2022,11,2022-11-20,4:25PM,Dallas Cowboys,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202211200min.htm
+2022,11,2022-11-20,8:20PM,Kansas City Chiefs,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202211200sdg.htm
+2022,11,2022-11-21,8:15PM,San Francisco 49ers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202211210crd.htm
+2022,12,2022-11-24,12:30PM,Buffalo Bills,Detroit Lions,https://www.pro-football-reference.com/boxscores/202211240det.htm
+2022,12,2022-11-24,4:30PM,New York Giants,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202211240dal.htm
+2022,12,2022-11-24,8:20PM,New England Patriots,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202211240min.htm
+2022,12,2022-11-27,1:00PM,Cincinnati Bengals,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202211270oti.htm
+2022,12,2022-11-27,1:00PM,Tampa Bay Buccaneers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202211270cle.htm
+2022,12,2022-11-27,1:00PM,Houston Texans,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202211270mia.htm
+2022,12,2022-11-27,1:00PM,Baltimore Ravens,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202211270jax.htm
+2022,12,2022-11-27,1:00PM,Atlanta Falcons,Washington Commanders,https://www.pro-football-reference.com/boxscores/202211270was.htm
+2022,12,2022-11-27,1:00PM,Denver Broncos,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202211270car.htm
+2022,12,2022-11-27,1:00PM,Chicago Bears,New York Jets,https://www.pro-football-reference.com/boxscores/202211270nyj.htm
+2022,12,2022-11-27,4:05PM,Las Vegas Raiders,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202211270sea.htm
+2022,12,2022-11-27,4:05PM,Los Angeles Chargers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202211270crd.htm
+2022,12,2022-11-27,4:25PM,Los Angeles Rams,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202211270kan.htm
+2022,12,2022-11-27,4:25PM,New Orleans Saints,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202211270sfo.htm
+2022,12,2022-11-27,8:20PM,Green Bay Packers,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202211270phi.htm
+2022,12,2022-11-28,8:15PM,Pittsburgh Steelers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202211280clt.htm
+2022,13,2022-12-01,8:15PM,Buffalo Bills,New England Patriots,https://www.pro-football-reference.com/boxscores/202212010nwe.htm
+2022,13,2022-12-04,1:00PM,Cleveland Browns,Houston Texans,https://www.pro-football-reference.com/boxscores/202212040htx.htm
+2022,13,2022-12-04,1:00PM,Denver Broncos,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202212040rav.htm
+2022,13,2022-12-04,1:00PM,Jacksonville Jaguars,Detroit Lions,https://www.pro-football-reference.com/boxscores/202212040det.htm
+2022,13,2022-12-04,1:00PM,New York Jets,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202212040min.htm
+2022,13,2022-12-04,1:00PM,Washington Commanders,New York Giants,https://www.pro-football-reference.com/boxscores/202212040nyg.htm
+2022,13,2022-12-04,1:00PM,Tennessee Titans,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202212040phi.htm
+2022,13,2022-12-04,1:00PM,Pittsburgh Steelers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202212040atl.htm
+2022,13,2022-12-04,1:00PM,Green Bay Packers,Chicago Bears,https://www.pro-football-reference.com/boxscores/202212040chi.htm
+2022,13,2022-12-04,4:05PM,Miami Dolphins,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202212040sfo.htm
+2022,13,2022-12-04,4:05PM,Seattle Seahawks,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202212040ram.htm
+2022,13,2022-12-04,4:25PM,Kansas City Chiefs,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202212040cin.htm
+2022,13,2022-12-04,4:25PM,Los Angeles Chargers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202212040rai.htm
+2022,13,2022-12-04,8:20PM,Indianapolis Colts,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202212040dal.htm
+2022,13,2022-12-05,8:15PM,New Orleans Saints,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202212050tam.htm
+2022,14,2022-12-08,8:15PM,Las Vegas Raiders,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202212080ram.htm
+2022,14,2022-12-11,1:00PM,New York Jets,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202212110buf.htm
+2022,14,2022-12-11,1:00PM,Cleveland Browns,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202212110cin.htm
+2022,14,2022-12-11,1:00PM,Houston Texans,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202212110dal.htm
+2022,14,2022-12-11,1:00PM,Minnesota Vikings,Detroit Lions,https://www.pro-football-reference.com/boxscores/202212110det.htm
+2022,14,2022-12-11,1:00PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202212110oti.htm
+2022,14,2022-12-11,1:00PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/202212110nyg.htm
+2022,14,2022-12-11,1:00PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202212110pit.htm
+2022,14,2022-12-11,4:20PM,Kansas City Chiefs,Denver Broncos,https://www.pro-football-reference.com/boxscores/202212110den.htm
+2022,14,2022-12-11,4:25PM,Carolina Panthers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202212110sea.htm
+2022,14,2022-12-11,4:25PM,Tampa Bay Buccaneers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202212110sfo.htm
+2022,14,2022-12-11,8:20PM,Miami Dolphins,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202212110sdg.htm
+2022,14,2022-12-12,8:15PM,New England Patriots,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202212120crd.htm
+2022,15,2022-12-15,8:15PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202212150sea.htm
+2022,15,2022-12-17,1:00PM,Indianapolis Colts,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202212170min.htm
+2022,15,2022-12-17,4:30PM,Baltimore Ravens,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202212170cle.htm
+2022,15,2022-12-17,8:15PM,Miami Dolphins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202212170buf.htm
+2022,15,2022-12-18,1:00PM,Atlanta Falcons,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202212180nor.htm
+2022,15,2022-12-18,1:00PM,Pittsburgh Steelers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202212180car.htm
+2022,15,2022-12-18,1:00PM,Philadelphia Eagles,Chicago Bears,https://www.pro-football-reference.com/boxscores/202212180chi.htm
+2022,15,2022-12-18,1:00PM,Dallas Cowboys,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202212180jax.htm
+2022,15,2022-12-18,1:00PM,Detroit Lions,New York Jets,https://www.pro-football-reference.com/boxscores/202212180nyj.htm
+2022,15,2022-12-18,1:00PM,Kansas City Chiefs,Houston Texans,https://www.pro-football-reference.com/boxscores/202212180htx.htm
+2022,15,2022-12-18,4:05PM,Arizona Cardinals,Denver Broncos,https://www.pro-football-reference.com/boxscores/202212180den.htm
+2022,15,2022-12-18,4:05PM,New England Patriots,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202212180rai.htm
+2022,15,2022-12-18,4:25PM,Cincinnati Bengals,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202212180tam.htm
+2022,15,2022-12-18,4:25PM,Tennessee Titans,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202212180sdg.htm
+2022,15,2022-12-18,8:15PM,New York Giants,Washington Commanders,https://www.pro-football-reference.com/boxscores/202212180was.htm
+2022,15,2022-12-19,8:15PM,Los Angeles Rams,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202212190gnb.htm
+2022,16,2022-12-22,8:15PM,Jacksonville Jaguars,New York Jets,https://www.pro-football-reference.com/boxscores/202212220nyj.htm
+2022,16,2022-12-24,1:00PM,Atlanta Falcons,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202212240rav.htm
+2022,16,2022-12-24,1:00PM,Buffalo Bills,Chicago Bears,https://www.pro-football-reference.com/boxscores/202212240chi.htm
+2022,16,2022-12-24,1:00PM,Detroit Lions,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202212240car.htm
+2022,16,2022-12-24,1:00PM,Cincinnati Bengals,New England Patriots,https://www.pro-football-reference.com/boxscores/202212240nwe.htm
+2022,16,2022-12-24,1:00PM,New Orleans Saints,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202212240cle.htm
+2022,16,2022-12-24,1:00PM,Houston Texans,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202212240oti.htm
+2022,16,2022-12-24,1:00PM,Seattle Seahawks,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202212240kan.htm
+2022,16,2022-12-24,1:00PM,New York Giants,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202212240min.htm
+2022,16,2022-12-24,4:05PM,Washington Commanders,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202212240sfo.htm
+2022,16,2022-12-24,4:25PM,Philadelphia Eagles,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202212240dal.htm
+2022,16,2022-12-24,8:15PM,Las Vegas Raiders,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202212240pit.htm
+2022,16,2022-12-25,1:00PM,Green Bay Packers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202212250mia.htm
+2022,16,2022-12-25,4:30PM,Denver Broncos,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202212250ram.htm
+2022,16,2022-12-25,8:20PM,Tampa Bay Buccaneers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202212250crd.htm
+2022,16,2022-12-26,8:15PM,Los Angeles Chargers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202212260clt.htm
+2022,17,2022-12-29,8:15PM,Dallas Cowboys,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202212290oti.htm
+2022,17,2023-01-01,1:00PM,Arizona Cardinals,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202301010atl.htm
+2022,17,2023-01-01,1:00PM,Carolina Panthers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202301010tam.htm
+2022,17,2023-01-01,1:00PM,Chicago Bears,Detroit Lions,https://www.pro-football-reference.com/boxscores/202301010det.htm
+2022,17,2023-01-01,1:00PM,Cleveland Browns,Washington Commanders,https://www.pro-football-reference.com/boxscores/202301010was.htm
+2022,17,2023-01-01,1:00PM,Indianapolis Colts,New York Giants,https://www.pro-football-reference.com/boxscores/202301010nyg.htm
+2022,17,2023-01-01,1:00PM,Denver Broncos,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202301010kan.htm
+2022,17,2023-01-01,1:00PM,Jacksonville Jaguars,Houston Texans,https://www.pro-football-reference.com/boxscores/202301010htx.htm
+2022,17,2023-01-01,1:00PM,Miami Dolphins,New England Patriots,https://www.pro-football-reference.com/boxscores/202301010nwe.htm
+2022,17,2023-01-01,1:00PM,New Orleans Saints,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202301010phi.htm
+2022,17,2023-01-01,4:05PM,New York Jets,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202301010sea.htm
+2022,17,2023-01-01,4:05PM,San Francisco 49ers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202301010rai.htm
+2022,17,2023-01-01,4:25PM,Minnesota Vikings,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202301010gnb.htm
+2022,17,2023-01-01,4:25PM,Los Angeles Rams,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202301010sdg.htm
+2022,17,2023-01-01,8:20PM,Pittsburgh Steelers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202301010rav.htm
+2022,18,2023-01-07,4:30PM,Kansas City Chiefs,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202301070rai.htm
+2022,18,2023-01-07,8:15PM,Tennessee Titans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202301070jax.htm
+2022,18,2023-01-08,1:00PM,New England Patriots,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202301080buf.htm
+2022,18,2023-01-08,1:00PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202301080cin.htm
+2022,18,2023-01-08,1:00PM,Tampa Bay Buccaneers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202301080atl.htm
+2022,18,2023-01-08,1:00PM,Carolina Panthers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202301080nor.htm
+2022,18,2023-01-08,1:00PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/202301080chi.htm
+2022,18,2023-01-08,1:00PM,Cleveland Browns,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202301080pit.htm
+2022,18,2023-01-08,1:00PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202301080clt.htm
+2022,18,2023-01-08,1:00PM,New York Jets,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202301080mia.htm
+2022,18,2023-01-08,4:25PM,Arizona Cardinals,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202301080sfo.htm
+2022,18,2023-01-08,4:25PM,Dallas Cowboys,Washington Commanders,https://www.pro-football-reference.com/boxscores/202301080was.htm
+2022,18,2023-01-08,4:25PM,Los Angeles Chargers,Denver Broncos,https://www.pro-football-reference.com/boxscores/202301080den.htm
+2022,18,2023-01-08,4:25PM,New York Giants,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202301080phi.htm
+2022,18,2023-01-08,4:25PM,Los Angeles Rams,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202301080sea.htm
+2022,18,2023-01-08,8:20PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202301080gnb.htm
+2022,,Playoffs,,,,
+2022,WildCard,2023-01-14,4:30PM,Seattle Seahawks,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202301140sfo.htm
+2022,WildCard,2023-01-14,8:15PM,Los Angeles Chargers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202301140jax.htm
+2022,WildCard,2023-01-15,1:00PM,Miami Dolphins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202301150buf.htm
+2022,WildCard,2023-01-15,4:30PM,New York Giants,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202301150min.htm
+2022,WildCard,2023-01-15,8:15PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202301150cin.htm
+2022,WildCard,2023-01-16,8:15PM,Dallas Cowboys,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202301160tam.htm
+2022,Division,2023-01-21,4:30PM,Jacksonville Jaguars,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202301210kan.htm
+2022,Division,2023-01-21,8:15PM,New York Giants,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202301210phi.htm
+2022,Division,2023-01-22,3:00PM,Cincinnati Bengals,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202301220buf.htm
+2022,Division,2023-01-22,6:30PM,Dallas Cowboys,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202301220sfo.htm
+2022,ConfChamp,2023-01-29,3:00PM,San Francisco 49ers,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202301290phi.htm
+2022,ConfChamp,2023-01-29,6:30PM,Cincinnati Bengals,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202301290kan.htm
+2022,SuperBowl,2023-02-12,6:30PM,Philadelphia Eagles,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202302120kan.htm

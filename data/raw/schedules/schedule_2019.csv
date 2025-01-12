@@ -1,0 +1,269 @@
+season,week,date,time,away_team,home_team,game_url
+2019,1,2019-09-05,8:20PM,Green Bay Packers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201909050chi.htm
+2019,1,2019-09-08,1:00PM,Atlanta Falcons,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201909080min.htm
+2019,1,2019-09-08,1:00PM,Buffalo Bills,New York Jets,https://www.pro-football-reference.com/boxscores/201909080nyj.htm
+2019,1,2019-09-08,1:00PM,Los Angeles Rams,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201909080car.htm
+2019,1,2019-09-08,1:00PM,Tennessee Titans,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201909080cle.htm
+2019,1,2019-09-08,1:00PM,Kansas City Chiefs,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201909080jax.htm
+2019,1,2019-09-08,1:00PM,Baltimore Ravens,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201909080mia.htm
+2019,1,2019-09-08,1:00PM,Washington Redskins,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201909080phi.htm
+2019,1,2019-09-08,4:05PM,Cincinnati Bengals,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201909080sea.htm
+2019,1,2019-09-08,4:05PM,Indianapolis Colts,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201909080sdg.htm
+2019,1,2019-09-08,4:25PM,Detroit Lions,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201909080crd.htm
+2019,1,2019-09-08,4:25PM,New York Giants,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201909080dal.htm
+2019,1,2019-09-08,4:25PM,San Francisco 49ers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201909080tam.htm
+2019,1,2019-09-08,8:20PM,Pittsburgh Steelers,New England Patriots,https://www.pro-football-reference.com/boxscores/201909080nwe.htm
+2019,1,2019-09-09,7:10PM,Houston Texans,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201909090nor.htm
+2019,1,2019-09-09,10:20PM,Denver Broncos,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201909090rai.htm
+2019,2,2019-09-12,8:20PM,Tampa Bay Buccaneers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201909120car.htm
+2019,2,2019-09-15,1:00PM,Buffalo Bills,New York Giants,https://www.pro-football-reference.com/boxscores/201909150nyg.htm
+2019,2,2019-09-15,1:00PM,San Francisco 49ers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201909150cin.htm
+2019,2,2019-09-15,1:00PM,Indianapolis Colts,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201909150oti.htm
+2019,2,2019-09-15,1:00PM,Arizona Cardinals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201909150rav.htm
+2019,2,2019-09-15,1:00PM,Dallas Cowboys,Washington Redskins,https://www.pro-football-reference.com/boxscores/201909150was.htm
+2019,2,2019-09-15,1:00PM,Los Angeles Chargers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201909150det.htm
+2019,2,2019-09-15,1:00PM,Minnesota Vikings,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201909150gnb.htm
+2019,2,2019-09-15,1:00PM,Jacksonville Jaguars,Houston Texans,https://www.pro-football-reference.com/boxscores/201909150htx.htm
+2019,2,2019-09-15,1:00PM,New England Patriots,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201909150mia.htm
+2019,2,2019-09-15,1:00PM,Seattle Seahawks,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201909150pit.htm
+2019,2,2019-09-15,4:05PM,Kansas City Chiefs,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201909150rai.htm
+2019,2,2019-09-15,4:25PM,Chicago Bears,Denver Broncos,https://www.pro-football-reference.com/boxscores/201909150den.htm
+2019,2,2019-09-15,4:25PM,New Orleans Saints,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201909150ram.htm
+2019,2,2019-09-15,8:20PM,Philadelphia Eagles,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201909150atl.htm
+2019,2,2019-09-16,8:15PM,Cleveland Browns,New York Jets,https://www.pro-football-reference.com/boxscores/201909160nyj.htm
+2019,3,2019-09-19,8:20PM,Tennessee Titans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201909190jax.htm
+2019,3,2019-09-22,1:00PM,Atlanta Falcons,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201909220clt.htm
+2019,3,2019-09-22,1:00PM,Cincinnati Bengals,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201909220buf.htm
+2019,3,2019-09-22,1:00PM,Miami Dolphins,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201909220dal.htm
+2019,3,2019-09-22,1:00PM,Denver Broncos,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201909220gnb.htm
+2019,3,2019-09-22,1:00PM,Detroit Lions,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201909220phi.htm
+2019,3,2019-09-22,1:00PM,Baltimore Ravens,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201909220kan.htm
+2019,3,2019-09-22,1:00PM,Oakland Raiders,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201909220min.htm
+2019,3,2019-09-22,1:00PM,New York Jets,New England Patriots,https://www.pro-football-reference.com/boxscores/201909220nwe.htm
+2019,3,2019-09-22,4:05PM,Carolina Panthers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201909220crd.htm
+2019,3,2019-09-22,4:05PM,New York Giants,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201909220tam.htm
+2019,3,2019-09-22,4:25PM,Houston Texans,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201909220sdg.htm
+2019,3,2019-09-22,4:25PM,New Orleans Saints,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201909220sea.htm
+2019,3,2019-09-22,4:25PM,Pittsburgh Steelers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201909220sfo.htm
+2019,3,2019-09-22,8:20PM,Los Angeles Rams,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201909220cle.htm
+2019,3,2019-09-23,8:15PM,Chicago Bears,Washington Redskins,https://www.pro-football-reference.com/boxscores/201909230was.htm
+2019,4,2019-09-26,8:20PM,Philadelphia Eagles,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201909260gnb.htm
+2019,4,2019-09-29,1:00PM,Tennessee Titans,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201909290atl.htm
+2019,4,2019-09-29,1:00PM,New England Patriots,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201909290buf.htm
+2019,4,2019-09-29,1:00PM,Carolina Panthers,Houston Texans,https://www.pro-football-reference.com/boxscores/201909290htx.htm
+2019,4,2019-09-29,1:00PM,Cleveland Browns,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201909290rav.htm
+2019,4,2019-09-29,1:00PM,Oakland Raiders,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201909290clt.htm
+2019,4,2019-09-29,1:00PM,Kansas City Chiefs,Detroit Lions,https://www.pro-football-reference.com/boxscores/201909290det.htm
+2019,4,2019-09-29,1:00PM,Los Angeles Chargers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201909290mia.htm
+2019,4,2019-09-29,1:00PM,Washington Redskins,New York Giants,https://www.pro-football-reference.com/boxscores/201909290nyg.htm
+2019,4,2019-09-29,4:05PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201909290crd.htm
+2019,4,2019-09-29,4:05PM,Tampa Bay Buccaneers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201909290ram.htm
+2019,4,2019-09-29,4:25PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/201909290chi.htm
+2019,4,2019-09-29,4:25PM,Jacksonville Jaguars,Denver Broncos,https://www.pro-football-reference.com/boxscores/201909290den.htm
+2019,4,2019-09-29,8:20PM,Dallas Cowboys,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201909290nor.htm
+2019,4,2019-09-30,8:15PM,Cincinnati Bengals,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201909300pit.htm
+2019,5,2019-10-03,8:20PM,Los Angeles Rams,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201910030sea.htm
+2019,5,2019-10-06,1:00PM,New York Jets,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201910060phi.htm
+2019,5,2019-10-06,1:00PM,Atlanta Falcons,Houston Texans,https://www.pro-football-reference.com/boxscores/201910060htx.htm
+2019,5,2019-10-06,1:00PM,Buffalo Bills,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201910060oti.htm
+2019,5,2019-10-06,1:00PM,Jacksonville Jaguars,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201910060car.htm
+2019,5,2019-10-06,1:00PM,Chicago Bears,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201910060rai.htm
+2019,5,2019-10-06,1:00PM,Arizona Cardinals,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201910060cin.htm
+2019,5,2019-10-06,1:00PM,Minnesota Vikings,New York Giants,https://www.pro-football-reference.com/boxscores/201910060nyg.htm
+2019,5,2019-10-06,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201910060nor.htm
+2019,5,2019-10-06,1:00PM,New England Patriots,Washington Redskins,https://www.pro-football-reference.com/boxscores/201910060was.htm
+2019,5,2019-10-06,1:00PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201910060pit.htm
+2019,5,2019-10-06,4:05PM,Denver Broncos,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201910060sdg.htm
+2019,5,2019-10-06,4:25PM,Green Bay Packers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201910060dal.htm
+2019,5,2019-10-06,8:20PM,Indianapolis Colts,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201910060kan.htm
+2019,5,2019-10-07,8:15PM,Cleveland Browns,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201910070sfo.htm
+2019,6,2019-10-10,8:20PM,New York Giants,New England Patriots,https://www.pro-football-reference.com/boxscores/201910100nwe.htm
+2019,6,2019-10-13,9:30AM,Carolina Panthers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201910130tam.htm
+2019,6,2019-10-13,1:00PM,Washington Redskins,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201910130mia.htm
+2019,6,2019-10-13,1:00PM,Cincinnati Bengals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201910130rav.htm
+2019,6,2019-10-13,1:00PM,Seattle Seahawks,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201910130cle.htm
+2019,6,2019-10-13,1:00PM,Houston Texans,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201910130kan.htm
+2019,6,2019-10-13,1:00PM,New Orleans Saints,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201910130jax.htm
+2019,6,2019-10-13,1:00PM,Philadelphia Eagles,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201910130min.htm
+2019,6,2019-10-13,4:05PM,Atlanta Falcons,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201910130crd.htm
+2019,6,2019-10-13,4:05PM,San Francisco 49ers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201910130ram.htm
+2019,6,2019-10-13,4:25PM,Dallas Cowboys,New York Jets,https://www.pro-football-reference.com/boxscores/201910130nyj.htm
+2019,6,2019-10-13,4:25PM,Tennessee Titans,Denver Broncos,https://www.pro-football-reference.com/boxscores/201910130den.htm
+2019,6,2019-10-13,8:20PM,Pittsburgh Steelers,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201910130sdg.htm
+2019,6,2019-10-14,8:15PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201910140gnb.htm
+2019,7,2019-10-17,8:20PM,Kansas City Chiefs,Denver Broncos,https://www.pro-football-reference.com/boxscores/201910170den.htm
+2019,7,2019-10-20,1:00PM,Miami Dolphins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201910200buf.htm
+2019,7,2019-10-20,1:00PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201910200clt.htm
+2019,7,2019-10-20,1:00PM,Minnesota Vikings,Detroit Lions,https://www.pro-football-reference.com/boxscores/201910200det.htm
+2019,7,2019-10-20,1:00PM,San Francisco 49ers,Washington Redskins,https://www.pro-football-reference.com/boxscores/201910200was.htm
+2019,7,2019-10-20,1:00PM,Los Angeles Rams,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201910200atl.htm
+2019,7,2019-10-20,1:00PM,Jacksonville Jaguars,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201910200cin.htm
+2019,7,2019-10-20,1:00PM,Arizona Cardinals,New York Giants,https://www.pro-football-reference.com/boxscores/201910200nyg.htm
+2019,7,2019-10-20,1:00PM,Oakland Raiders,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201910200gnb.htm
+2019,7,2019-10-20,4:05PM,Los Angeles Chargers,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201910200oti.htm
+2019,7,2019-10-20,4:25PM,New Orleans Saints,Chicago Bears,https://www.pro-football-reference.com/boxscores/201910200chi.htm
+2019,7,2019-10-20,4:25PM,Baltimore Ravens,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201910200sea.htm
+2019,7,2019-10-20,8:20PM,Philadelphia Eagles,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201910200dal.htm
+2019,7,2019-10-21,8:15PM,New England Patriots,New York Jets,https://www.pro-football-reference.com/boxscores/201910210nyj.htm
+2019,8,2019-10-24,8:20PM,Washington Redskins,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201910240min.htm
+2019,8,2019-10-27,1:00PM,Philadelphia Eagles,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201910270buf.htm
+2019,8,2019-10-27,1:00PM,Los Angeles Chargers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201910270chi.htm
+2019,8,2019-10-27,1:00PM,Denver Broncos,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201910270clt.htm
+2019,8,2019-10-27,1:00PM,New York Giants,Detroit Lions,https://www.pro-football-reference.com/boxscores/201910270det.htm
+2019,8,2019-10-27,1:00PM,Seattle Seahawks,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201910270atl.htm
+2019,8,2019-10-27,1:00PM,Cincinnati Bengals,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201910270ram.htm
+2019,8,2019-10-27,1:00PM,Arizona Cardinals,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201910270nor.htm
+2019,8,2019-10-27,1:00PM,New York Jets,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201910270jax.htm
+2019,8,2019-10-27,1:00PM,Tampa Bay Buccaneers,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201910270oti.htm
+2019,8,2019-10-27,4:05PM,Carolina Panthers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201910270sfo.htm
+2019,8,2019-10-27,4:25PM,Cleveland Browns,New England Patriots,https://www.pro-football-reference.com/boxscores/201910270nwe.htm
+2019,8,2019-10-27,4:25PM,Oakland Raiders,Houston Texans,https://www.pro-football-reference.com/boxscores/201910270htx.htm
+2019,8,2019-10-27,8:20PM,Green Bay Packers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201910270kan.htm
+2019,8,2019-10-28,8:15PM,Miami Dolphins,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201910280pit.htm
+2019,9,2019-10-31,8:20PM,San Francisco 49ers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201910310crd.htm
+2019,9,2019-11-03,9:30AM,Houston Texans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201911030jax.htm
+2019,9,2019-11-03,1:00PM,Washington Redskins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201911030buf.htm
+2019,9,2019-11-03,1:00PM,Tennessee Titans,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201911030car.htm
+2019,9,2019-11-03,1:00PM,Chicago Bears,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201911030phi.htm
+2019,9,2019-11-03,1:00PM,Indianapolis Colts,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201911030pit.htm
+2019,9,2019-11-03,1:00PM,New York Jets,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201911030mia.htm
+2019,9,2019-11-03,1:00PM,Minnesota Vikings,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201911030kan.htm
+2019,9,2019-11-03,4:05PM,Detroit Lions,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201911030rai.htm
+2019,9,2019-11-03,4:05PM,Tampa Bay Buccaneers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201911030sea.htm
+2019,9,2019-11-03,4:25PM,Cleveland Browns,Denver Broncos,https://www.pro-football-reference.com/boxscores/201911030den.htm
+2019,9,2019-11-03,4:25PM,Green Bay Packers,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201911030sdg.htm
+2019,9,2019-11-03,8:20PM,New England Patriots,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201911030rav.htm
+2019,9,2019-11-04,8:15PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/201911040nyg.htm
+2019,10,2019-11-07,8:20PM,Los Angeles Chargers,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201911070rai.htm
+2019,10,2019-11-10,1:00PM,Atlanta Falcons,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201911100nor.htm
+2019,10,2019-11-10,1:00PM,Buffalo Bills,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201911100cle.htm
+2019,10,2019-11-10,1:00PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/201911100chi.htm
+2019,10,2019-11-10,1:00PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201911100cin.htm
+2019,10,2019-11-10,1:00PM,Arizona Cardinals,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201911100tam.htm
+2019,10,2019-11-10,1:00PM,Kansas City Chiefs,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201911100oti.htm
+2019,10,2019-11-10,1:00PM,New York Giants,New York Jets,https://www.pro-football-reference.com/boxscores/201911100nyj.htm
+2019,10,2019-11-10,4:05PM,Miami Dolphins,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201911100clt.htm
+2019,10,2019-11-10,4:25PM,Carolina Panthers,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201911100gnb.htm
+2019,10,2019-11-10,4:25PM,Los Angeles Rams,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201911100pit.htm
+2019,10,2019-11-10,8:20PM,Minnesota Vikings,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201911100dal.htm
+2019,10,2019-11-11,8:15PM,Seattle Seahawks,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201911110sfo.htm
+2019,11,2019-11-14,8:20PM,Pittsburgh Steelers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201911140cle.htm
+2019,11,2019-11-17,1:00PM,Atlanta Falcons,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201911170car.htm
+2019,11,2019-11-17,1:00PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201911170mia.htm
+2019,11,2019-11-17,1:00PM,Jacksonville Jaguars,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201911170clt.htm
+2019,11,2019-11-17,1:00PM,Dallas Cowboys,Detroit Lions,https://www.pro-football-reference.com/boxscores/201911170det.htm
+2019,11,2019-11-17,1:00PM,Denver Broncos,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201911170min.htm
+2019,11,2019-11-17,1:00PM,Houston Texans,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201911170rav.htm
+2019,11,2019-11-17,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201911170tam.htm
+2019,11,2019-11-17,1:00PM,New York Jets,Washington Redskins,https://www.pro-football-reference.com/boxscores/201911170was.htm
+2019,11,2019-11-17,4:05PM,Arizona Cardinals,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201911170sfo.htm
+2019,11,2019-11-17,4:25PM,Cincinnati Bengals,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201911170rai.htm
+2019,11,2019-11-17,4:25PM,New England Patriots,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201911170phi.htm
+2019,11,2019-11-17,8:20PM,Chicago Bears,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201911170ram.htm
+2019,11,2019-11-18,8:15PM,Kansas City Chiefs,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201911180sdg.htm
+2019,12,2019-11-21,8:20PM,Indianapolis Colts,Houston Texans,https://www.pro-football-reference.com/boxscores/201911210htx.htm
+2019,12,2019-11-24,1:00PM,Tampa Bay Buccaneers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201911240atl.htm
+2019,12,2019-11-24,1:00PM,Denver Broncos,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201911240buf.htm
+2019,12,2019-11-24,1:00PM,Carolina Panthers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201911240nor.htm
+2019,12,2019-11-24,1:00PM,New York Giants,Chicago Bears,https://www.pro-football-reference.com/boxscores/201911240chi.htm
+2019,12,2019-11-24,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201911240cin.htm
+2019,12,2019-11-24,1:00PM,Miami Dolphins,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201911240cle.htm
+2019,12,2019-11-24,1:00PM,Detroit Lions,Washington Redskins,https://www.pro-football-reference.com/boxscores/201911240was.htm
+2019,12,2019-11-24,1:00PM,Oakland Raiders,New York Jets,https://www.pro-football-reference.com/boxscores/201911240nyj.htm
+2019,12,2019-11-24,1:00PM,Seattle Seahawks,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201911240phi.htm
+2019,12,2019-11-24,4:05PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201911240oti.htm
+2019,12,2019-11-24,4:25PM,Dallas Cowboys,New England Patriots,https://www.pro-football-reference.com/boxscores/201911240nwe.htm
+2019,12,2019-11-24,8:20PM,Green Bay Packers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201911240sfo.htm
+2019,12,2019-11-25,8:15PM,Baltimore Ravens,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201911250ram.htm
+2019,13,2019-11-28,12:30PM,Chicago Bears,Detroit Lions,https://www.pro-football-reference.com/boxscores/201911280det.htm
+2019,13,2019-11-28,4:30PM,Buffalo Bills,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201911280dal.htm
+2019,13,2019-11-28,8:20PM,New Orleans Saints,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201911280atl.htm
+2019,13,2019-12-01,1:00PM,Washington Redskins,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201912010car.htm
+2019,13,2019-12-01,1:00PM,New York Jets,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201912010cin.htm
+2019,13,2019-12-01,1:00PM,Cleveland Browns,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201912010pit.htm
+2019,13,2019-12-01,1:00PM,Tennessee Titans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201912010clt.htm
+2019,13,2019-12-01,1:00PM,Green Bay Packers,New York Giants,https://www.pro-football-reference.com/boxscores/201912010nyg.htm
+2019,13,2019-12-01,1:00PM,Tampa Bay Buccaneers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201912010jax.htm
+2019,13,2019-12-01,1:00PM,Philadelphia Eagles,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201912010mia.htm
+2019,13,2019-12-01,1:00PM,San Francisco 49ers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201912010rav.htm
+2019,13,2019-12-01,4:05PM,Los Angeles Rams,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201912010crd.htm
+2019,13,2019-12-01,4:25PM,Los Angeles Chargers,Denver Broncos,https://www.pro-football-reference.com/boxscores/201912010den.htm
+2019,13,2019-12-01,4:25PM,Oakland Raiders,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201912010kan.htm
+2019,13,2019-12-01,8:20PM,New England Patriots,Houston Texans,https://www.pro-football-reference.com/boxscores/201912010htx.htm
+2019,13,2019-12-02,8:15PM,Minnesota Vikings,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201912020sea.htm
+2019,14,2019-12-05,8:20PM,Dallas Cowboys,Chicago Bears,https://www.pro-football-reference.com/boxscores/201912050chi.htm
+2019,14,2019-12-08,1:00PM,Carolina Panthers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201912080atl.htm
+2019,14,2019-12-08,1:00PM,Baltimore Ravens,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201912080buf.htm
+2019,14,2019-12-08,1:00PM,Cincinnati Bengals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201912080cle.htm
+2019,14,2019-12-08,1:00PM,Indianapolis Colts,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201912080tam.htm
+2019,14,2019-12-08,1:00PM,Denver Broncos,Houston Texans,https://www.pro-football-reference.com/boxscores/201912080htx.htm
+2019,14,2019-12-08,1:00PM,Detroit Lions,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201912080min.htm
+2019,14,2019-12-08,1:00PM,Washington Redskins,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201912080gnb.htm
+2019,14,2019-12-08,1:00PM,Miami Dolphins,New York Jets,https://www.pro-football-reference.com/boxscores/201912080nyj.htm
+2019,14,2019-12-08,1:00PM,San Francisco 49ers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201912080nor.htm
+2019,14,2019-12-08,4:05PM,Los Angeles Chargers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201912080jax.htm
+2019,14,2019-12-08,4:25PM,Pittsburgh Steelers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201912080crd.htm
+2019,14,2019-12-08,4:25PM,Kansas City Chiefs,New England Patriots,https://www.pro-football-reference.com/boxscores/201912080nwe.htm
+2019,14,2019-12-08,4:25PM,Tennessee Titans,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201912080rai.htm
+2019,14,2019-12-08,8:20PM,Seattle Seahawks,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201912080ram.htm
+2019,14,2019-12-09,8:15PM,New York Giants,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201912090phi.htm
+2019,15,2019-12-12,8:20PM,New York Jets,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201912120rav.htm
+2019,15,2019-12-15,1:00PM,Seattle Seahawks,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201912150car.htm
+2019,15,2019-12-15,1:00PM,Chicago Bears,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201912150gnb.htm
+2019,15,2019-12-15,1:00PM,New England Patriots,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201912150cin.htm
+2019,15,2019-12-15,1:00PM,Denver Broncos,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201912150kan.htm
+2019,15,2019-12-15,1:00PM,Tampa Bay Buccaneers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201912150det.htm
+2019,15,2019-12-15,1:00PM,Houston Texans,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201912150oti.htm
+2019,15,2019-12-15,1:00PM,Miami Dolphins,New York Giants,https://www.pro-football-reference.com/boxscores/201912150nyg.htm
+2019,15,2019-12-15,1:00PM,Philadelphia Eagles,Washington Redskins,https://www.pro-football-reference.com/boxscores/201912150was.htm
+2019,15,2019-12-15,4:05PM,Cleveland Browns,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201912150crd.htm
+2019,15,2019-12-15,4:05PM,Jacksonville Jaguars,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201912150rai.htm
+2019,15,2019-12-15,4:05PM,Minnesota Vikings,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201912150sdg.htm
+2019,15,2019-12-15,4:25PM,Atlanta Falcons,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201912150sfo.htm
+2019,15,2019-12-15,4:25PM,Los Angeles Rams,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201912150dal.htm
+2019,15,2019-12-15,8:20PM,Buffalo Bills,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201912150pit.htm
+2019,15,2019-12-16,8:15PM,Indianapolis Colts,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201912160nor.htm
+2019,16,2019-12-21,1:00PM,Houston Texans,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201912210tam.htm
+2019,16,2019-12-21,4:30PM,Buffalo Bills,New England Patriots,https://www.pro-football-reference.com/boxscores/201912210nwe.htm
+2019,16,2019-12-21,8:15PM,Los Angeles Rams,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201912210sfo.htm
+2019,16,2019-12-22,1:00PM,Jacksonville Jaguars,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201912220atl.htm
+2019,16,2019-12-22,1:00PM,Carolina Panthers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201912220clt.htm
+2019,16,2019-12-22,1:00PM,Cincinnati Bengals,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201912220mia.htm
+2019,16,2019-12-22,1:00PM,Baltimore Ravens,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201912220cle.htm
+2019,16,2019-12-22,1:00PM,New Orleans Saints,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201912220oti.htm
+2019,16,2019-12-22,1:00PM,New York Giants,Washington Redskins,https://www.pro-football-reference.com/boxscores/201912220was.htm
+2019,16,2019-12-22,1:00PM,Pittsburgh Steelers,New York Jets,https://www.pro-football-reference.com/boxscores/201912220nyj.htm
+2019,16,2019-12-22,4:05PM,Detroit Lions,Denver Broncos,https://www.pro-football-reference.com/boxscores/201912220den.htm
+2019,16,2019-12-22,4:05PM,Oakland Raiders,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201912220sdg.htm
+2019,16,2019-12-22,4:25PM,Arizona Cardinals,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201912220sea.htm
+2019,16,2019-12-22,4:25PM,Dallas Cowboys,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201912220phi.htm
+2019,16,2019-12-22,8:20PM,Kansas City Chiefs,Chicago Bears,https://www.pro-football-reference.com/boxscores/201912220chi.htm
+2019,16,2019-12-23,8:15PM,Green Bay Packers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201912230min.htm
+2019,17,2019-12-29,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201912290tam.htm
+2019,17,2019-12-29,1:00PM,New York Jets,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201912290buf.htm
+2019,17,2019-12-29,1:00PM,New Orleans Saints,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201912290car.htm
+2019,17,2019-12-29,1:00PM,Chicago Bears,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201912290min.htm
+2019,17,2019-12-29,1:00PM,Cleveland Browns,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201912290cin.htm
+2019,17,2019-12-29,1:00PM,Green Bay Packers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201912290det.htm
+2019,17,2019-12-29,1:00PM,Los Angeles Chargers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201912290kan.htm
+2019,17,2019-12-29,1:00PM,Miami Dolphins,New England Patriots,https://www.pro-football-reference.com/boxscores/201912290nwe.htm
+2019,17,2019-12-29,4:25PM,Indianapolis Colts,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201912290jax.htm
+2019,17,2019-12-29,4:25PM,Arizona Cardinals,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201912290ram.htm
+2019,17,2019-12-29,4:25PM,Washington Redskins,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201912290dal.htm
+2019,17,2019-12-29,4:25PM,Oakland Raiders,Denver Broncos,https://www.pro-football-reference.com/boxscores/201912290den.htm
+2019,17,2019-12-29,4:25PM,Tennessee Titans,Houston Texans,https://www.pro-football-reference.com/boxscores/201912290htx.htm
+2019,17,2019-12-29,4:25PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/201912290nyg.htm
+2019,17,2019-12-29,4:25PM,Pittsburgh Steelers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201912290rav.htm
+2019,17,2019-12-29,8:20PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201912290sea.htm
+2019,,Playoffs,,,,
+2019,WildCard,2020-01-04,4:35PM,Buffalo Bills,Houston Texans,https://www.pro-football-reference.com/boxscores/202001040htx.htm
+2019,WildCard,2020-01-04,8:15PM,Tennessee Titans,New England Patriots,https://www.pro-football-reference.com/boxscores/202001040nwe.htm
+2019,WildCard,2020-01-05,1:05PM,Minnesota Vikings,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202001050nor.htm
+2019,WildCard,2020-01-05,4:40PM,Seattle Seahawks,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202001050phi.htm
+2019,Division,2020-01-11,4:35PM,Minnesota Vikings,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202001110sfo.htm
+2019,Division,2020-01-11,8:15PM,Tennessee Titans,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202001110rav.htm
+2019,Division,2020-01-12,3:05PM,Houston Texans,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202001120kan.htm
+2019,Division,2020-01-12,6:40PM,Seattle Seahawks,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202001120gnb.htm
+2019,ConfChamp,2020-01-19,3:05PM,Tennessee Titans,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202001190kan.htm
+2019,ConfChamp,2020-01-19,6:40PM,Green Bay Packers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202001190sfo.htm
+2019,SuperBowl,2020-02-02,6:30PM,San Francisco 49ers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202002020kan.htm

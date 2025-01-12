@@ -1,0 +1,269 @@
+season,week,date,time,away_team,home_team,game_url
+2018,1,2018-09-06,8:20PM,Atlanta Falcons,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201809060phi.htm
+2018,1,2018-09-09,1:00PM,Buffalo Bills,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201809090rav.htm
+2018,1,2018-09-09,1:00PM,Cincinnati Bengals,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201809090clt.htm
+2018,1,2018-09-09,1:00PM,Pittsburgh Steelers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201809090cle.htm
+2018,1,2018-09-09,1:00PM,Houston Texans,New England Patriots,https://www.pro-football-reference.com/boxscores/201809090nwe.htm
+2018,1,2018-09-09,1:00PM,Jacksonville Jaguars,New York Giants,https://www.pro-football-reference.com/boxscores/201809090nyg.htm
+2018,1,2018-09-09,1:00PM,Tennessee Titans,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201809090mia.htm
+2018,1,2018-09-09,1:00PM,San Francisco 49ers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201809090min.htm
+2018,1,2018-09-09,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201809090nor.htm
+2018,1,2018-09-09,4:05PM,Kansas City Chiefs,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201809090sdg.htm
+2018,1,2018-09-09,4:25PM,Dallas Cowboys,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201809090car.htm
+2018,1,2018-09-09,4:25PM,Washington Redskins,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201809090crd.htm
+2018,1,2018-09-09,4:25PM,Seattle Seahawks,Denver Broncos,https://www.pro-football-reference.com/boxscores/201809090den.htm
+2018,1,2018-09-09,8:20PM,Chicago Bears,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201809090gnb.htm
+2018,1,2018-09-10,7:10PM,New York Jets,Detroit Lions,https://www.pro-football-reference.com/boxscores/201809100det.htm
+2018,1,2018-09-10,10:20PM,Los Angeles Rams,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201809100rai.htm
+2018,2,2018-09-13,8:20PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201809130cin.htm
+2018,2,2018-09-16,1:00PM,Carolina Panthers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201809160atl.htm
+2018,2,2018-09-16,1:00PM,Los Angeles Chargers,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201809160buf.htm
+2018,2,2018-09-16,1:00PM,Cleveland Browns,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201809160nor.htm
+2018,2,2018-09-16,1:00PM,Indianapolis Colts,Washington Redskins,https://www.pro-football-reference.com/boxscores/201809160was.htm
+2018,2,2018-09-16,1:00PM,Minnesota Vikings,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201809160gnb.htm
+2018,2,2018-09-16,1:00PM,Houston Texans,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201809160oti.htm
+2018,2,2018-09-16,1:00PM,Kansas City Chiefs,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201809160pit.htm
+2018,2,2018-09-16,1:00PM,Miami Dolphins,New York Jets,https://www.pro-football-reference.com/boxscores/201809160nyj.htm
+2018,2,2018-09-16,1:00PM,Philadelphia Eagles,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201809160tam.htm
+2018,2,2018-09-16,4:05PM,Arizona Cardinals,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201809160ram.htm
+2018,2,2018-09-16,4:05PM,Detroit Lions,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201809160sfo.htm
+2018,2,2018-09-16,4:25PM,Oakland Raiders,Denver Broncos,https://www.pro-football-reference.com/boxscores/201809160den.htm
+2018,2,2018-09-16,4:25PM,New England Patriots,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201809160jax.htm
+2018,2,2018-09-16,8:20PM,New York Giants,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201809160dal.htm
+2018,2,2018-09-17,8:15PM,Seattle Seahawks,Chicago Bears,https://www.pro-football-reference.com/boxscores/201809170chi.htm
+2018,3,2018-09-20,8:20PM,New York Jets,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201809200cle.htm
+2018,3,2018-09-23,1:00PM,New Orleans Saints,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201809230atl.htm
+2018,3,2018-09-23,1:00PM,Buffalo Bills,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201809230min.htm
+2018,3,2018-09-23,1:00PM,Cincinnati Bengals,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201809230car.htm
+2018,3,2018-09-23,1:00PM,Indianapolis Colts,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201809230phi.htm
+2018,3,2018-09-23,1:00PM,Denver Broncos,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201809230rav.htm
+2018,3,2018-09-23,1:00PM,Green Bay Packers,Washington Redskins,https://www.pro-football-reference.com/boxscores/201809230was.htm
+2018,3,2018-09-23,1:00PM,New York Giants,Houston Texans,https://www.pro-football-reference.com/boxscores/201809230htx.htm
+2018,3,2018-09-23,1:00PM,Tennessee Titans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201809230jax.htm
+2018,3,2018-09-23,1:00PM,San Francisco 49ers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201809230kan.htm
+2018,3,2018-09-23,1:00PM,Oakland Raiders,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201809230mia.htm
+2018,3,2018-09-23,4:05PM,Los Angeles Chargers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201809230ram.htm
+2018,3,2018-09-23,4:25PM,Chicago Bears,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201809230crd.htm
+2018,3,2018-09-23,4:25PM,Dallas Cowboys,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201809230sea.htm
+2018,3,2018-09-23,8:20PM,New England Patriots,Detroit Lions,https://www.pro-football-reference.com/boxscores/201809230det.htm
+2018,3,2018-09-24,8:15PM,Pittsburgh Steelers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201809240tam.htm
+2018,4,2018-09-27,8:20PM,Minnesota Vikings,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201809270ram.htm
+2018,4,2018-09-30,1:00PM,Cincinnati Bengals,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201809300atl.htm
+2018,4,2018-09-30,1:00PM,Buffalo Bills,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201809300gnb.htm
+2018,4,2018-09-30,1:00PM,Tampa Bay Buccaneers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201809300chi.htm
+2018,4,2018-09-30,1:00PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201809300clt.htm
+2018,4,2018-09-30,1:00PM,Detroit Lions,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201809300dal.htm
+2018,4,2018-09-30,1:00PM,New York Jets,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201809300jax.htm
+2018,4,2018-09-30,1:00PM,Miami Dolphins,New England Patriots,https://www.pro-football-reference.com/boxscores/201809300nwe.htm
+2018,4,2018-09-30,1:00PM,Philadelphia Eagles,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201809300oti.htm
+2018,4,2018-09-30,4:05PM,Cleveland Browns,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201809300rai.htm
+2018,4,2018-09-30,4:05PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201809300crd.htm
+2018,4,2018-09-30,4:25PM,New Orleans Saints,New York Giants,https://www.pro-football-reference.com/boxscores/201809300nyg.htm
+2018,4,2018-09-30,4:25PM,San Francisco 49ers,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201809300sdg.htm
+2018,4,2018-09-30,8:20PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201809300pit.htm
+2018,4,2018-10-01,8:15PM,Kansas City Chiefs,Denver Broncos,https://www.pro-football-reference.com/boxscores/201810010den.htm
+2018,5,2018-10-04,8:20PM,Indianapolis Colts,New England Patriots,https://www.pro-football-reference.com/boxscores/201810040nwe.htm
+2018,5,2018-10-07,1:00PM,New York Giants,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201810070car.htm
+2018,5,2018-10-07,1:00PM,Atlanta Falcons,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201810070pit.htm
+2018,5,2018-10-07,1:00PM,Tennessee Titans,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201810070buf.htm
+2018,5,2018-10-07,1:00PM,Miami Dolphins,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201810070cin.htm
+2018,5,2018-10-07,1:00PM,Baltimore Ravens,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201810070cle.htm
+2018,5,2018-10-07,1:00PM,Denver Broncos,New York Jets,https://www.pro-football-reference.com/boxscores/201810070nyj.htm
+2018,5,2018-10-07,1:00PM,Green Bay Packers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201810070det.htm
+2018,5,2018-10-07,1:00PM,Jacksonville Jaguars,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201810070kan.htm
+2018,5,2018-10-07,4:05PM,Oakland Raiders,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201810070sdg.htm
+2018,5,2018-10-07,4:25PM,Arizona Cardinals,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201810070sfo.htm
+2018,5,2018-10-07,4:25PM,Minnesota Vikings,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201810070phi.htm
+2018,5,2018-10-07,4:25PM,Los Angeles Rams,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201810070sea.htm
+2018,5,2018-10-07,8:20PM,Dallas Cowboys,Houston Texans,https://www.pro-football-reference.com/boxscores/201810070htx.htm
+2018,5,2018-10-08,8:15PM,Washington Redskins,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201810080nor.htm
+2018,6,2018-10-11,8:20PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/201810110nyg.htm
+2018,6,2018-10-14,1:00PM,Carolina Panthers,Washington Redskins,https://www.pro-football-reference.com/boxscores/201810140was.htm
+2018,6,2018-10-14,1:00PM,Chicago Bears,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201810140mia.htm
+2018,6,2018-10-14,1:00PM,Tampa Bay Buccaneers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201810140atl.htm
+2018,6,2018-10-14,1:00PM,Buffalo Bills,Houston Texans,https://www.pro-football-reference.com/boxscores/201810140htx.htm
+2018,6,2018-10-14,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201810140cin.htm
+2018,6,2018-10-14,1:00PM,Los Angeles Chargers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201810140cle.htm
+2018,6,2018-10-14,1:00PM,Indianapolis Colts,New York Jets,https://www.pro-football-reference.com/boxscores/201810140nyj.htm
+2018,6,2018-10-14,1:00PM,Arizona Cardinals,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201810140min.htm
+2018,6,2018-10-14,1:00PM,Seattle Seahawks,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201810140rai.htm
+2018,6,2018-10-14,4:05PM,Los Angeles Rams,Denver Broncos,https://www.pro-football-reference.com/boxscores/201810140den.htm
+2018,6,2018-10-14,4:25PM,Jacksonville Jaguars,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201810140dal.htm
+2018,6,2018-10-14,4:25PM,Baltimore Ravens,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201810140oti.htm
+2018,6,2018-10-14,8:20PM,Kansas City Chiefs,New England Patriots,https://www.pro-football-reference.com/boxscores/201810140nwe.htm
+2018,6,2018-10-15,8:15PM,San Francisco 49ers,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201810150gnb.htm
+2018,7,2018-10-18,8:20PM,Denver Broncos,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201810180crd.htm
+2018,7,2018-10-21,9:30AM,Tennessee Titans,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201810210sdg.htm
+2018,7,2018-10-21,1:00PM,Carolina Panthers,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201810210phi.htm
+2018,7,2018-10-21,1:00PM,New England Patriots,Chicago Bears,https://www.pro-football-reference.com/boxscores/201810210chi.htm
+2018,7,2018-10-21,1:00PM,Detroit Lions,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201810210mia.htm
+2018,7,2018-10-21,1:00PM,Buffalo Bills,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201810210clt.htm
+2018,7,2018-10-21,1:00PM,Cleveland Browns,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201810210tam.htm
+2018,7,2018-10-21,1:00PM,Houston Texans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201810210jax.htm
+2018,7,2018-10-21,1:00PM,Minnesota Vikings,New York Jets,https://www.pro-football-reference.com/boxscores/201810210nyj.htm
+2018,7,2018-10-21,4:05PM,New Orleans Saints,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201810210rav.htm
+2018,7,2018-10-21,4:25PM,Dallas Cowboys,Washington Redskins,https://www.pro-football-reference.com/boxscores/201810210was.htm
+2018,7,2018-10-21,4:25PM,Los Angeles Rams,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201810210sfo.htm
+2018,7,2018-10-21,8:20PM,Cincinnati Bengals,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201810210kan.htm
+2018,7,2018-10-22,8:15PM,New York Giants,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201810220atl.htm
+2018,8,2018-10-25,8:20PM,Miami Dolphins,Houston Texans,https://www.pro-football-reference.com/boxscores/201810250htx.htm
+2018,8,2018-10-28,9:30AM,Philadelphia Eagles,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201810280jax.htm
+2018,8,2018-10-28,1:00PM,Baltimore Ravens,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201810280car.htm
+2018,8,2018-10-28,1:00PM,New York Jets,Chicago Bears,https://www.pro-football-reference.com/boxscores/201810280chi.htm
+2018,8,2018-10-28,1:00PM,Seattle Seahawks,Detroit Lions,https://www.pro-football-reference.com/boxscores/201810280det.htm
+2018,8,2018-10-28,1:00PM,Tampa Bay Buccaneers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201810280cin.htm
+2018,8,2018-10-28,1:00PM,Cleveland Browns,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201810280pit.htm
+2018,8,2018-10-28,1:00PM,Denver Broncos,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201810280kan.htm
+2018,8,2018-10-28,1:00PM,Washington Redskins,New York Giants,https://www.pro-football-reference.com/boxscores/201810280nyg.htm
+2018,8,2018-10-28,4:05PM,Indianapolis Colts,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201810280rai.htm
+2018,8,2018-10-28,4:25PM,Green Bay Packers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201810280ram.htm
+2018,8,2018-10-28,4:25PM,San Francisco 49ers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201810280crd.htm
+2018,8,2018-10-28,8:20PM,New Orleans Saints,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201810280min.htm
+2018,8,2018-10-29,8:15PM,New England Patriots,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201810290buf.htm
+2018,9,2018-11-01,8:20PM,Oakland Raiders,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201811010sfo.htm
+2018,9,2018-11-04,1:00PM,Atlanta Falcons,Washington Redskins,https://www.pro-football-reference.com/boxscores/201811040was.htm
+2018,9,2018-11-04,1:00PM,Tampa Bay Buccaneers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201811040car.htm
+2018,9,2018-11-04,1:00PM,Detroit Lions,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201811040min.htm
+2018,9,2018-11-04,1:00PM,Pittsburgh Steelers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201811040rav.htm
+2018,9,2018-11-04,1:00PM,Chicago Bears,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201811040buf.htm
+2018,9,2018-11-04,1:00PM,Kansas City Chiefs,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201811040cle.htm
+2018,9,2018-11-04,1:00PM,New York Jets,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201811040mia.htm
+2018,9,2018-11-04,4:05PM,Los Angeles Chargers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201811040sea.htm
+2018,9,2018-11-04,4:05PM,Houston Texans,Denver Broncos,https://www.pro-football-reference.com/boxscores/201811040den.htm
+2018,9,2018-11-04,4:25PM,Los Angeles Rams,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201811040nor.htm
+2018,9,2018-11-04,8:20PM,Green Bay Packers,New England Patriots,https://www.pro-football-reference.com/boxscores/201811040nwe.htm
+2018,9,2018-11-05,8:15PM,Tennessee Titans,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201811050dal.htm
+2018,10,2018-11-08,8:20PM,Carolina Panthers,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201811080pit.htm
+2018,10,2018-11-11,1:00PM,Atlanta Falcons,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201811110cle.htm
+2018,10,2018-11-11,1:00PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/201811110chi.htm
+2018,10,2018-11-11,1:00PM,New Orleans Saints,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201811110cin.htm
+2018,10,2018-11-11,1:00PM,Jacksonville Jaguars,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201811110clt.htm
+2018,10,2018-11-11,1:00PM,Arizona Cardinals,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201811110kan.htm
+2018,10,2018-11-11,1:00PM,Washington Redskins,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201811110tam.htm
+2018,10,2018-11-11,1:00PM,Buffalo Bills,New York Jets,https://www.pro-football-reference.com/boxscores/201811110nyj.htm
+2018,10,2018-11-11,1:00PM,New England Patriots,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201811110oti.htm
+2018,10,2018-11-11,4:05PM,Los Angeles Chargers,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201811110rai.htm
+2018,10,2018-11-11,4:25PM,Miami Dolphins,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201811110gnb.htm
+2018,10,2018-11-11,4:25PM,Seattle Seahawks,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201811110ram.htm
+2018,10,2018-11-11,8:20PM,Dallas Cowboys,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201811110phi.htm
+2018,10,2018-11-12,8:15PM,New York Giants,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201811120sfo.htm
+2018,11,2018-11-15,8:20PM,Green Bay Packers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201811150sea.htm
+2018,11,2018-11-18,1:00PM,Dallas Cowboys,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201811180atl.htm
+2018,11,2018-11-18,1:00PM,Carolina Panthers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201811180det.htm
+2018,11,2018-11-18,1:00PM,Cincinnati Bengals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201811180rav.htm
+2018,11,2018-11-18,1:00PM,Tennessee Titans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201811180clt.htm
+2018,11,2018-11-18,1:00PM,Houston Texans,Washington Redskins,https://www.pro-football-reference.com/boxscores/201811180was.htm
+2018,11,2018-11-18,1:00PM,Pittsburgh Steelers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201811180jax.htm
+2018,11,2018-11-18,1:00PM,Tampa Bay Buccaneers,New York Giants,https://www.pro-football-reference.com/boxscores/201811180nyg.htm
+2018,11,2018-11-18,4:05PM,Oakland Raiders,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201811180crd.htm
+2018,11,2018-11-18,4:05PM,Denver Broncos,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201811180sdg.htm
+2018,11,2018-11-18,4:25PM,Philadelphia Eagles,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201811180nor.htm
+2018,11,2018-11-18,8:20PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/201811180chi.htm
+2018,11,2018-11-19,8:15PM,Kansas City Chiefs,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201811190ram.htm
+2018,12,2018-11-22,12:30PM,Chicago Bears,Detroit Lions,https://www.pro-football-reference.com/boxscores/201811220det.htm
+2018,12,2018-11-22,4:30PM,Washington Redskins,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201811220dal.htm
+2018,12,2018-11-22,8:20PM,Atlanta Falcons,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201811220nor.htm
+2018,12,2018-11-25,1:00PM,Jacksonville Jaguars,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201811250buf.htm
+2018,12,2018-11-25,1:00PM,Seattle Seahawks,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201811250car.htm
+2018,12,2018-11-25,1:00PM,Cleveland Browns,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201811250cin.htm
+2018,12,2018-11-25,1:00PM,New England Patriots,New York Jets,https://www.pro-football-reference.com/boxscores/201811250nyj.htm
+2018,12,2018-11-25,1:00PM,New York Giants,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201811250phi.htm
+2018,12,2018-11-25,1:00PM,Oakland Raiders,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201811250rav.htm
+2018,12,2018-11-25,1:00PM,San Francisco 49ers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201811250tam.htm
+2018,12,2018-11-25,4:05PM,Arizona Cardinals,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201811250sdg.htm
+2018,12,2018-11-25,4:25PM,Miami Dolphins,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201811250clt.htm
+2018,12,2018-11-25,4:25PM,Pittsburgh Steelers,Denver Broncos,https://www.pro-football-reference.com/boxscores/201811250den.htm
+2018,12,2018-11-25,8:20PM,Green Bay Packers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201811250min.htm
+2018,12,2018-11-26,8:15PM,Tennessee Titans,Houston Texans,https://www.pro-football-reference.com/boxscores/201811260htx.htm
+2018,13,2018-11-29,8:20PM,New Orleans Saints,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201811290dal.htm
+2018,13,2018-12-02,1:00PM,Baltimore Ravens,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201812020atl.htm
+2018,13,2018-12-02,1:00PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201812020mia.htm
+2018,13,2018-12-02,1:00PM,Carolina Panthers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201812020tam.htm
+2018,13,2018-12-02,1:00PM,Chicago Bears,New York Giants,https://www.pro-football-reference.com/boxscores/201812020nyg.htm
+2018,13,2018-12-02,1:00PM,Denver Broncos,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201812020cin.htm
+2018,13,2018-12-02,1:00PM,Cleveland Browns,Houston Texans,https://www.pro-football-reference.com/boxscores/201812020htx.htm
+2018,13,2018-12-02,1:00PM,Indianapolis Colts,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201812020jax.htm
+2018,13,2018-12-02,1:00PM,Arizona Cardinals,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201812020gnb.htm
+2018,13,2018-12-02,1:00PM,Los Angeles Rams,Detroit Lions,https://www.pro-football-reference.com/boxscores/201812020det.htm
+2018,13,2018-12-02,4:05PM,Kansas City Chiefs,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201812020rai.htm
+2018,13,2018-12-02,4:05PM,New York Jets,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201812020oti.htm
+2018,13,2018-12-02,4:25PM,Minnesota Vikings,New England Patriots,https://www.pro-football-reference.com/boxscores/201812020nwe.htm
+2018,13,2018-12-02,4:25PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201812020sea.htm
+2018,13,2018-12-02,8:20PM,Los Angeles Chargers,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201812020pit.htm
+2018,13,2018-12-03,8:15PM,Washington Redskins,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201812030phi.htm
+2018,14,2018-12-06,8:20PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201812060oti.htm
+2018,14,2018-12-09,1:00PM,Atlanta Falcons,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201812090gnb.htm
+2018,14,2018-12-09,1:00PM,New York Jets,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201812090buf.htm
+2018,14,2018-12-09,1:00PM,Carolina Panthers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201812090cle.htm
+2018,14,2018-12-09,1:00PM,Indianapolis Colts,Houston Texans,https://www.pro-football-reference.com/boxscores/201812090htx.htm
+2018,14,2018-12-09,1:00PM,Baltimore Ravens,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201812090kan.htm
+2018,14,2018-12-09,1:00PM,New England Patriots,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201812090mia.htm
+2018,14,2018-12-09,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201812090tam.htm
+2018,14,2018-12-09,1:00PM,New York Giants,Washington Redskins,https://www.pro-football-reference.com/boxscores/201812090was.htm
+2018,14,2018-12-09,4:05PM,Cincinnati Bengals,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201812090sdg.htm
+2018,14,2018-12-09,4:05PM,Denver Broncos,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201812090sfo.htm
+2018,14,2018-12-09,4:25PM,Detroit Lions,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201812090crd.htm
+2018,14,2018-12-09,4:25PM,Philadelphia Eagles,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201812090dal.htm
+2018,14,2018-12-09,4:25PM,Pittsburgh Steelers,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201812090rai.htm
+2018,14,2018-12-09,8:20PM,Los Angeles Rams,Chicago Bears,https://www.pro-football-reference.com/boxscores/201812090chi.htm
+2018,14,2018-12-10,8:15PM,Minnesota Vikings,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201812100sea.htm
+2018,15,2018-12-13,8:20PM,Los Angeles Chargers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201812130kan.htm
+2018,15,2018-12-15,4:30PM,Houston Texans,New York Jets,https://www.pro-football-reference.com/boxscores/201812150nyj.htm
+2018,15,2018-12-15,8:20PM,Cleveland Browns,Denver Broncos,https://www.pro-football-reference.com/boxscores/201812150den.htm
+2018,15,2018-12-16,1:00PM,Arizona Cardinals,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201812160atl.htm
+2018,15,2018-12-16,1:00PM,Detroit Lions,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201812160buf.htm
+2018,15,2018-12-16,1:00PM,Green Bay Packers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201812160chi.htm
+2018,15,2018-12-16,1:00PM,Oakland Raiders,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201812160cin.htm
+2018,15,2018-12-16,1:00PM,Dallas Cowboys,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201812160clt.htm
+2018,15,2018-12-16,1:00PM,Washington Redskins,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201812160jax.htm
+2018,15,2018-12-16,1:00PM,Miami Dolphins,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201812160min.htm
+2018,15,2018-12-16,1:00PM,Tennessee Titans,New York Giants,https://www.pro-football-reference.com/boxscores/201812160nyg.htm
+2018,15,2018-12-16,1:00PM,Tampa Bay Buccaneers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201812160rav.htm
+2018,15,2018-12-16,4:05PM,Seattle Seahawks,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201812160sfo.htm
+2018,15,2018-12-16,4:25PM,New England Patriots,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201812160pit.htm
+2018,15,2018-12-16,8:20PM,Philadelphia Eagles,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201812160ram.htm
+2018,15,2018-12-17,8:15PM,New Orleans Saints,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201812170car.htm
+2018,16,2018-12-22,4:30PM,Washington Redskins,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201812220oti.htm
+2018,16,2018-12-22,8:20PM,Baltimore Ravens,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/201812220sdg.htm
+2018,16,2018-12-23,1:00PM,Atlanta Falcons,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201812230car.htm
+2018,16,2018-12-23,1:00PM,Buffalo Bills,New England Patriots,https://www.pro-football-reference.com/boxscores/201812230nwe.htm
+2018,16,2018-12-23,1:00PM,Cincinnati Bengals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201812230cle.htm
+2018,16,2018-12-23,1:00PM,New York Giants,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201812230clt.htm
+2018,16,2018-12-23,1:00PM,Tampa Bay Buccaneers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201812230dal.htm
+2018,16,2018-12-23,1:00PM,Minnesota Vikings,Detroit Lions,https://www.pro-football-reference.com/boxscores/201812230det.htm
+2018,16,2018-12-23,1:00PM,Green Bay Packers,New York Jets,https://www.pro-football-reference.com/boxscores/201812230nyj.htm
+2018,16,2018-12-23,1:00PM,Houston Texans,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201812230phi.htm
+2018,16,2018-12-23,1:00PM,Jacksonville Jaguars,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201812230mia.htm
+2018,16,2018-12-23,4:05PM,Chicago Bears,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201812230sfo.htm
+2018,16,2018-12-23,4:05PM,Los Angeles Rams,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201812230crd.htm
+2018,16,2018-12-23,4:25PM,Pittsburgh Steelers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201812230nor.htm
+2018,16,2018-12-23,8:20PM,Kansas City Chiefs,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201812230sea.htm
+2018,16,2018-12-24,8:15PM,Denver Broncos,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201812240rai.htm
+2018,17,2018-12-30,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201812300tam.htm
+2018,17,2018-12-30,1:00PM,Miami Dolphins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201812300buf.htm
+2018,17,2018-12-30,1:00PM,Carolina Panthers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201812300nor.htm
+2018,17,2018-12-30,1:00PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/201812300nyg.htm
+2018,17,2018-12-30,1:00PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201812300gnb.htm
+2018,17,2018-12-30,1:00PM,Jacksonville Jaguars,Houston Texans,https://www.pro-football-reference.com/boxscores/201812300htx.htm
+2018,17,2018-12-30,1:00PM,New York Jets,New England Patriots,https://www.pro-football-reference.com/boxscores/201812300nwe.htm
+2018,17,2018-12-30,4:25PM,Chicago Bears,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201812300min.htm
+2018,17,2018-12-30,4:25PM,Cincinnati Bengals,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201812300pit.htm
+2018,17,2018-12-30,4:25PM,Cleveland Browns,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201812300rav.htm
+2018,17,2018-12-30,4:25PM,Arizona Cardinals,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201812300sea.htm
+2018,17,2018-12-30,4:25PM,Los Angeles Chargers,Denver Broncos,https://www.pro-football-reference.com/boxscores/201812300den.htm
+2018,17,2018-12-30,4:25PM,Oakland Raiders,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201812300kan.htm
+2018,17,2018-12-30,4:25PM,Philadelphia Eagles,Washington Redskins,https://www.pro-football-reference.com/boxscores/201812300was.htm
+2018,17,2018-12-30,4:25PM,San Francisco 49ers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201812300ram.htm
+2018,17,2018-12-30,8:20PM,Indianapolis Colts,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201812300oti.htm
+2018,,Playoffs,,,,
+2018,WildCard,2019-01-05,4:35PM,Indianapolis Colts,Houston Texans,https://www.pro-football-reference.com/boxscores/201901050htx.htm
+2018,WildCard,2019-01-05,8:15PM,Seattle Seahawks,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201901050dal.htm
+2018,WildCard,2019-01-06,1:05PM,Los Angeles Chargers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201901060rav.htm
+2018,WildCard,2019-01-06,4:40PM,Philadelphia Eagles,Chicago Bears,https://www.pro-football-reference.com/boxscores/201901060chi.htm
+2018,Division,2019-01-12,4:35PM,Indianapolis Colts,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201901120kan.htm
+2018,Division,2019-01-12,8:15PM,Dallas Cowboys,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201901120ram.htm
+2018,Division,2019-01-13,1:05PM,Los Angeles Chargers,New England Patriots,https://www.pro-football-reference.com/boxscores/201901130nwe.htm
+2018,Division,2019-01-13,4:40PM,Philadelphia Eagles,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201901130nor.htm
+2018,ConfChamp,2019-01-20,3:05PM,Los Angeles Rams,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201901200nor.htm
+2018,ConfChamp,2019-01-20,6:40PM,New England Patriots,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201901200kan.htm
+2018,SuperBowl,2019-02-03,6:30PM,Los Angeles Rams,New England Patriots,https://www.pro-football-reference.com/boxscores/201902030nwe.htm

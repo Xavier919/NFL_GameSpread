@@ -1,0 +1,269 @@
+season,week,date,time,away_team,home_team,game_url
+2016,1,2016-09-08,8:40PM,Carolina Panthers,Denver Broncos,https://www.pro-football-reference.com/boxscores/201609080den.htm
+2016,1,2016-09-11,1:04PM,Buffalo Bills,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201609110rav.htm
+2016,1,2016-09-11,1:04PM,Green Bay Packers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201609110jax.htm
+2016,1,2016-09-11,1:05PM,Tampa Bay Buccaneers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201609110atl.htm
+2016,1,2016-09-11,1:05PM,Chicago Bears,Houston Texans,https://www.pro-football-reference.com/boxscores/201609110htx.htm
+2016,1,2016-09-11,1:05PM,Cincinnati Bengals,New York Jets,https://www.pro-football-reference.com/boxscores/201609110nyj.htm
+2016,1,2016-09-11,1:05PM,Cleveland Browns,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201609110phi.htm
+2016,1,2016-09-11,1:05PM,San Diego Chargers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201609110kan.htm
+2016,1,2016-09-11,1:05PM,Minnesota Vikings,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201609110oti.htm
+2016,1,2016-09-11,1:05PM,Oakland Raiders,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201609110nor.htm
+2016,1,2016-09-11,4:08PM,Miami Dolphins,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201609110sea.htm
+2016,1,2016-09-11,4:27PM,Detroit Lions,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201609110clt.htm
+2016,1,2016-09-11,4:27PM,New York Giants,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201609110dal.htm
+2016,1,2016-09-11,8:30PM,New England Patriots,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201609110crd.htm
+2016,1,2016-09-12,7:11PM,Pittsburgh Steelers,Washington Redskins,https://www.pro-football-reference.com/boxscores/201609120was.htm
+2016,1,2016-09-12,10:20PM,Los Angeles Rams,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201609120sfo.htm
+2016,2,2016-09-15,8:26PM,New York Jets,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201609150buf.htm
+2016,2,2016-09-18,1:02PM,Cincinnati Bengals,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201609180pit.htm
+2016,2,2016-09-18,1:02PM,Baltimore Ravens,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201609180cle.htm
+2016,2,2016-09-18,1:02PM,Tennessee Titans,Detroit Lions,https://www.pro-football-reference.com/boxscores/201609180det.htm
+2016,2,2016-09-18,1:02PM,Kansas City Chiefs,Houston Texans,https://www.pro-football-reference.com/boxscores/201609180htx.htm
+2016,2,2016-09-18,1:02PM,Miami Dolphins,New England Patriots,https://www.pro-football-reference.com/boxscores/201609180nwe.htm
+2016,2,2016-09-18,1:03PM,San Francisco 49ers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201609180car.htm
+2016,2,2016-09-18,1:03PM,Dallas Cowboys,Washington Redskins,https://www.pro-football-reference.com/boxscores/201609180was.htm
+2016,2,2016-09-18,1:03PM,New Orleans Saints,New York Giants,https://www.pro-football-reference.com/boxscores/201609180nyg.htm
+2016,2,2016-09-18,1:05PM,Tampa Bay Buccaneers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201609180crd.htm
+2016,2,2016-09-18,4:08PM,Seattle Seahawks,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201609180ram.htm
+2016,2,2016-09-18,4:25PM,Atlanta Falcons,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201609180rai.htm
+2016,2,2016-09-18,4:25PM,Indianapolis Colts,Denver Broncos,https://www.pro-football-reference.com/boxscores/201609180den.htm
+2016,2,2016-09-18,4:25PM,Jacksonville Jaguars,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201609180sdg.htm
+2016,2,2016-09-18,8:32PM,Green Bay Packers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201609180min.htm
+2016,2,2016-09-19,8:30PM,Philadelphia Eagles,Chicago Bears,https://www.pro-football-reference.com/boxscores/201609190chi.htm
+2016,3,2016-09-22,8:26PM,Houston Texans,New England Patriots,https://www.pro-football-reference.com/boxscores/201609220nwe.htm
+2016,3,2016-09-25,1:02PM,Arizona Cardinals,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201609250buf.htm
+2016,3,2016-09-25,1:02PM,Minnesota Vikings,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201609250car.htm
+2016,3,2016-09-25,1:02PM,Denver Broncos,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201609250cin.htm
+2016,3,2016-09-25,1:02PM,Cleveland Browns,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201609250mia.htm
+2016,3,2016-09-25,1:02PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201609250gnb.htm
+2016,3,2016-09-25,1:02PM,Baltimore Ravens,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201609250jax.htm
+2016,3,2016-09-25,1:02PM,Washington Redskins,New York Giants,https://www.pro-football-reference.com/boxscores/201609250nyg.htm
+2016,3,2016-09-25,1:02PM,Oakland Raiders,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201609250oti.htm
+2016,3,2016-09-25,4:05PM,Los Angeles Rams,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201609250tam.htm
+2016,3,2016-09-25,4:05PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201609250sea.htm
+2016,3,2016-09-25,4:25PM,San Diego Chargers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201609250clt.htm
+2016,3,2016-09-25,4:25PM,Pittsburgh Steelers,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201609250phi.htm
+2016,3,2016-09-25,4:26PM,New York Jets,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201609250kan.htm
+2016,3,2016-09-25,8:31PM,Chicago Bears,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201609250dal.htm
+2016,3,2016-09-26,8:30PM,Atlanta Falcons,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201609260nor.htm
+2016,4,2016-09-29,8:26PM,Miami Dolphins,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201609290cin.htm
+2016,4,2016-10-02,9:35AM,Indianapolis Colts,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201610020jax.htm
+2016,4,2016-10-02,1:00PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/201610020chi.htm
+2016,4,2016-10-02,1:02PM,Buffalo Bills,New England Patriots,https://www.pro-football-reference.com/boxscores/201610020nwe.htm
+2016,4,2016-10-02,1:02PM,Tennessee Titans,Houston Texans,https://www.pro-football-reference.com/boxscores/201610020htx.htm
+2016,4,2016-10-02,1:02PM,Oakland Raiders,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201610020rav.htm
+2016,4,2016-10-02,1:03PM,Seattle Seahawks,New York Jets,https://www.pro-football-reference.com/boxscores/201610020nyj.htm
+2016,4,2016-10-02,1:04PM,Carolina Panthers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201610020atl.htm
+2016,4,2016-10-02,1:05PM,Cleveland Browns,Washington Redskins,https://www.pro-football-reference.com/boxscores/201610020was.htm
+2016,4,2016-10-02,4:05PM,Denver Broncos,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201610020tam.htm
+2016,4,2016-10-02,4:25PM,Los Angeles Rams,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201610020crd.htm
+2016,4,2016-10-02,4:25PM,Dallas Cowboys,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201610020sfo.htm
+2016,4,2016-10-02,4:25PM,New Orleans Saints,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201610020sdg.htm
+2016,4,2016-10-02,8:30PM,Kansas City Chiefs,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201610020pit.htm
+2016,4,2016-10-03,8:35PM,New York Giants,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201610030min.htm
+2016,5,2016-10-06,8:27PM,Arizona Cardinals,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201610060sfo.htm
+2016,5,2016-10-09,1:02PM,Chicago Bears,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201610090clt.htm
+2016,5,2016-10-09,1:02PM,New England Patriots,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201610090cle.htm
+2016,5,2016-10-09,1:02PM,Philadelphia Eagles,Detroit Lions,https://www.pro-football-reference.com/boxscores/201610090det.htm
+2016,5,2016-10-09,1:02PM,Tennessee Titans,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201610090mia.htm
+2016,5,2016-10-09,1:02PM,New York Jets,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201610090pit.htm
+2016,5,2016-10-09,1:03PM,Washington Redskins,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201610090rav.htm
+2016,5,2016-10-09,1:05PM,Houston Texans,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201610090min.htm
+2016,5,2016-10-09,4:05PM,Atlanta Falcons,Denver Broncos,https://www.pro-football-reference.com/boxscores/201610090den.htm
+2016,5,2016-10-09,4:25PM,Buffalo Bills,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201610090ram.htm
+2016,5,2016-10-09,4:25PM,Cincinnati Bengals,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201610090dal.htm
+2016,5,2016-10-09,4:25PM,San Diego Chargers,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201610090rai.htm
+2016,5,2016-10-09,8:30PM,New York Giants,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201610090gnb.htm
+2016,5,2016-10-10,8:04PM,Tampa Bay Buccaneers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201610100car.htm
+2016,6,2016-10-13,8:25PM,Denver Broncos,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201610130sdg.htm
+2016,6,2016-10-16,1:02PM,San Francisco 49ers,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201610160buf.htm
+2016,6,2016-10-16,1:02PM,Jacksonville Jaguars,Chicago Bears,https://www.pro-football-reference.com/boxscores/201610160chi.htm
+2016,6,2016-10-16,1:02PM,Cincinnati Bengals,New England Patriots,https://www.pro-football-reference.com/boxscores/201610160nwe.htm
+2016,6,2016-10-16,1:02PM,Cleveland Browns,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201610160oti.htm
+2016,6,2016-10-16,1:02PM,Los Angeles Rams,Detroit Lions,https://www.pro-football-reference.com/boxscores/201610160det.htm
+2016,6,2016-10-16,1:02PM,Pittsburgh Steelers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201610160mia.htm
+2016,6,2016-10-16,1:02PM,Baltimore Ravens,New York Giants,https://www.pro-football-reference.com/boxscores/201610160nyg.htm
+2016,6,2016-10-16,1:03PM,Philadelphia Eagles,Washington Redskins,https://www.pro-football-reference.com/boxscores/201610160was.htm
+2016,6,2016-10-16,1:03PM,Carolina Panthers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201610160nor.htm
+2016,6,2016-10-16,4:05PM,Kansas City Chiefs,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201610160rai.htm
+2016,6,2016-10-16,4:25PM,Dallas Cowboys,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201610160gnb.htm
+2016,6,2016-10-16,4:26PM,Atlanta Falcons,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201610160sea.htm
+2016,6,2016-10-16,8:32PM,Indianapolis Colts,Houston Texans,https://www.pro-football-reference.com/boxscores/201610160htx.htm
+2016,6,2016-10-17,8:30PM,New York Jets,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201610170crd.htm
+2016,7,2016-10-20,8:26PM,Chicago Bears,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201610200gnb.htm
+2016,7,2016-10-23,9:31AM,New York Giants,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201610230ram.htm
+2016,7,2016-10-23,1:02PM,Oakland Raiders,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201610230jax.htm
+2016,7,2016-10-23,1:02PM,Minnesota Vikings,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201610230phi.htm
+2016,7,2016-10-23,1:02PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201610230mia.htm
+2016,7,2016-10-23,1:02PM,Cleveland Browns,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201610230cin.htm
+2016,7,2016-10-23,1:02PM,Indianapolis Colts,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201610230oti.htm
+2016,7,2016-10-23,1:02PM,Washington Redskins,Detroit Lions,https://www.pro-football-reference.com/boxscores/201610230det.htm
+2016,7,2016-10-23,1:03PM,New Orleans Saints,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201610230kan.htm
+2016,7,2016-10-23,1:04PM,Baltimore Ravens,New York Jets,https://www.pro-football-reference.com/boxscores/201610230nyj.htm
+2016,7,2016-10-23,4:05PM,San Diego Chargers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201610230atl.htm
+2016,7,2016-10-23,4:05PM,Tampa Bay Buccaneers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201610230sfo.htm
+2016,7,2016-10-23,4:25PM,New England Patriots,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201610230pit.htm
+2016,7,2016-10-23,8:30PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201610230crd.htm
+2016,7,2016-10-24,8:30PM,Houston Texans,Denver Broncos,https://www.pro-football-reference.com/boxscores/201610240den.htm
+2016,8,2016-10-27,8:26PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201610270oti.htm
+2016,8,2016-10-30,8:36AM,Washington Redskins,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201610300cin.htm
+2016,8,2016-10-30,12:47PM,Arizona Cardinals,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201610300car.htm
+2016,8,2016-10-30,1:02PM,New England Patriots,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201610300buf.htm
+2016,8,2016-10-30,1:02PM,New York Jets,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201610300cle.htm
+2016,8,2016-10-30,1:02PM,Kansas City Chiefs,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201610300clt.htm
+2016,8,2016-10-30,1:02PM,Oakland Raiders,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201610300tam.htm
+2016,8,2016-10-30,1:03PM,Seattle Seahawks,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201610300nor.htm
+2016,8,2016-10-30,1:03PM,Detroit Lions,Houston Texans,https://www.pro-football-reference.com/boxscores/201610300htx.htm
+2016,8,2016-10-30,4:05PM,San Diego Chargers,Denver Broncos,https://www.pro-football-reference.com/boxscores/201610300den.htm
+2016,8,2016-10-30,4:25PM,Green Bay Packers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201610300atl.htm
+2016,8,2016-10-30,8:31PM,Philadelphia Eagles,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201610300dal.htm
+2016,8,2016-10-31,8:31PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/201610310chi.htm
+2016,9,2016-11-03,8:25PM,Atlanta Falcons,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201611030tam.htm
+2016,9,2016-11-06,1:00PM,Jacksonville Jaguars,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201611060kan.htm
+2016,9,2016-11-06,1:00PM,New York Jets,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201611060mia.htm
+2016,9,2016-11-06,1:00PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/201611060nyg.htm
+2016,9,2016-11-06,1:00PM,Pittsburgh Steelers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201611060rav.htm
+2016,9,2016-11-06,1:00PM,Dallas Cowboys,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201611060cle.htm
+2016,9,2016-11-06,1:00PM,Detroit Lions,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201611060min.htm
+2016,9,2016-11-06,4:05PM,Carolina Panthers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201611060ram.htm
+2016,9,2016-11-06,4:05PM,New Orleans Saints,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201611060sfo.htm
+2016,9,2016-11-06,4:25PM,Indianapolis Colts,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201611060gnb.htm
+2016,9,2016-11-06,4:25PM,Tennessee Titans,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201611060sdg.htm
+2016,9,2016-11-06,8:30PM,Denver Broncos,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201611060rai.htm
+2016,9,2016-11-07,8:30PM,Buffalo Bills,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201611070sea.htm
+2016,10,2016-11-10,8:25PM,Cleveland Browns,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201611100rav.htm
+2016,10,2016-11-13,1:00PM,Kansas City Chiefs,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201611130car.htm
+2016,10,2016-11-13,1:00PM,Chicago Bears,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201611130tam.htm
+2016,10,2016-11-13,1:00PM,Green Bay Packers,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201611130oti.htm
+2016,10,2016-11-13,1:00PM,Houston Texans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201611130jax.htm
+2016,10,2016-11-13,1:00PM,Minnesota Vikings,Washington Redskins,https://www.pro-football-reference.com/boxscores/201611130was.htm
+2016,10,2016-11-13,1:00PM,Atlanta Falcons,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201611130phi.htm
+2016,10,2016-11-13,1:00PM,Denver Broncos,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201611130nor.htm
+2016,10,2016-11-13,1:00PM,Los Angeles Rams,New York Jets,https://www.pro-football-reference.com/boxscores/201611130nyj.htm
+2016,10,2016-11-13,4:05PM,Miami Dolphins,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201611130sdg.htm
+2016,10,2016-11-13,4:25PM,San Francisco 49ers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201611130crd.htm
+2016,10,2016-11-13,4:25PM,Dallas Cowboys,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201611130pit.htm
+2016,10,2016-11-13,8:30PM,Seattle Seahawks,New England Patriots,https://www.pro-football-reference.com/boxscores/201611130nwe.htm
+2016,10,2016-11-14,8:30PM,Cincinnati Bengals,New York Giants,https://www.pro-football-reference.com/boxscores/201611140nyg.htm
+2016,11,2016-11-17,8:25PM,New Orleans Saints,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201611170car.htm
+2016,11,2016-11-20,1:00PM,Buffalo Bills,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201611200cin.htm
+2016,11,2016-11-20,1:00PM,Chicago Bears,New York Giants,https://www.pro-football-reference.com/boxscores/201611200nyg.htm
+2016,11,2016-11-20,1:00PM,Tennessee Titans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201611200clt.htm
+2016,11,2016-11-20,1:00PM,Arizona Cardinals,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201611200min.htm
+2016,11,2016-11-20,1:00PM,Baltimore Ravens,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201611200dal.htm
+2016,11,2016-11-20,1:00PM,Jacksonville Jaguars,Detroit Lions,https://www.pro-football-reference.com/boxscores/201611200det.htm
+2016,11,2016-11-20,1:00PM,Tampa Bay Buccaneers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201611200kan.htm
+2016,11,2016-11-20,1:00PM,Pittsburgh Steelers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201611200cle.htm
+2016,11,2016-11-20,4:05PM,Miami Dolphins,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201611200ram.htm
+2016,11,2016-11-20,4:25PM,New England Patriots,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201611200sfo.htm
+2016,11,2016-11-20,4:25PM,Philadelphia Eagles,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201611200sea.htm
+2016,11,2016-11-20,8:30PM,Green Bay Packers,Washington Redskins,https://www.pro-football-reference.com/boxscores/201611200was.htm
+2016,11,2016-11-21,8:30PM,Houston Texans,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201611210rai.htm
+2016,12,2016-11-24,12:30PM,Minnesota Vikings,Detroit Lions,https://www.pro-football-reference.com/boxscores/201611240det.htm
+2016,12,2016-11-24,4:30PM,Washington Redskins,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201611240dal.htm
+2016,12,2016-11-24,8:30PM,Pittsburgh Steelers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201611240clt.htm
+2016,12,2016-11-27,1:00PM,Arizona Cardinals,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201611270atl.htm
+2016,12,2016-11-27,1:00PM,Jacksonville Jaguars,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201611270buf.htm
+2016,12,2016-11-27,1:00PM,Tennessee Titans,Chicago Bears,https://www.pro-football-reference.com/boxscores/201611270chi.htm
+2016,12,2016-11-27,1:00PM,Cincinnati Bengals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201611270rav.htm
+2016,12,2016-11-27,1:00PM,San Diego Chargers,Houston Texans,https://www.pro-football-reference.com/boxscores/201611270htx.htm
+2016,12,2016-11-27,1:00PM,San Francisco 49ers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201611270mia.htm
+2016,12,2016-11-27,1:00PM,Los Angeles Rams,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201611270nor.htm
+2016,12,2016-11-27,1:00PM,New York Giants,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201611270cle.htm
+2016,12,2016-11-27,4:05PM,Seattle Seahawks,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201611270tam.htm
+2016,12,2016-11-27,4:25PM,Carolina Panthers,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201611270rai.htm
+2016,12,2016-11-27,4:25PM,New England Patriots,New York Jets,https://www.pro-football-reference.com/boxscores/201611270nyj.htm
+2016,12,2016-11-27,8:30PM,Kansas City Chiefs,Denver Broncos,https://www.pro-football-reference.com/boxscores/201611270den.htm
+2016,12,2016-11-28,8:30PM,Green Bay Packers,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201611280phi.htm
+2016,13,2016-12-01,7:25PM,Dallas Cowboys,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201612010min.htm
+2016,13,2016-12-04,1:00PM,Kansas City Chiefs,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201612040atl.htm
+2016,13,2016-12-04,1:00PM,San Francisco 49ers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201612040chi.htm
+2016,13,2016-12-04,1:00PM,Philadelphia Eagles,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201612040cin.htm
+2016,13,2016-12-04,1:00PM,Denver Broncos,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201612040jax.htm
+2016,13,2016-12-04,1:00PM,Detroit Lions,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201612040nor.htm
+2016,13,2016-12-04,1:00PM,Houston Texans,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201612040gnb.htm
+2016,13,2016-12-04,1:00PM,Miami Dolphins,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201612040rav.htm
+2016,13,2016-12-04,1:00PM,Los Angeles Rams,New England Patriots,https://www.pro-football-reference.com/boxscores/201612040nwe.htm
+2016,13,2016-12-04,4:05PM,Buffalo Bills,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201612040rai.htm
+2016,13,2016-12-04,4:25PM,Washington Redskins,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201612040crd.htm
+2016,13,2016-12-04,4:25PM,New York Giants,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201612040pit.htm
+2016,13,2016-12-04,4:25PM,Tampa Bay Buccaneers,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201612040sdg.htm
+2016,13,2016-12-04,8:30PM,Carolina Panthers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201612040sea.htm
+2016,13,2016-12-05,8:30PM,Indianapolis Colts,New York Jets,https://www.pro-football-reference.com/boxscores/201612050nyj.htm
+2016,14,2016-12-08,8:25PM,Oakland Raiders,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201612080kan.htm
+2016,14,2016-12-11,1:00PM,Pittsburgh Steelers,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201612110buf.htm
+2016,14,2016-12-11,1:00PM,San Diego Chargers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201612110car.htm
+2016,14,2016-12-11,1:00PM,Chicago Bears,Detroit Lions,https://www.pro-football-reference.com/boxscores/201612110det.htm
+2016,14,2016-12-11,1:00PM,Cincinnati Bengals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201612110cle.htm
+2016,14,2016-12-11,1:00PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201612110clt.htm
+2016,14,2016-12-11,1:00PM,Arizona Cardinals,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201612110mia.htm
+2016,14,2016-12-11,1:00PM,Denver Broncos,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201612110oti.htm
+2016,14,2016-12-11,1:00PM,Minnesota Vikings,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201612110jax.htm
+2016,14,2016-12-11,1:00PM,Washington Redskins,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201612110phi.htm
+2016,14,2016-12-11,4:05PM,New York Jets,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201612110sfo.htm
+2016,14,2016-12-11,4:25PM,Atlanta Falcons,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201612110ram.htm
+2016,14,2016-12-11,4:25PM,Seattle Seahawks,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201612110gnb.htm
+2016,14,2016-12-11,4:25PM,New Orleans Saints,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201612110tam.htm
+2016,14,2016-12-11,8:30PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/201612110nyg.htm
+2016,14,2016-12-12,8:30PM,Baltimore Ravens,New England Patriots,https://www.pro-football-reference.com/boxscores/201612120nwe.htm
+2016,15,2016-12-15,8:25PM,Los Angeles Rams,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201612150sea.htm
+2016,15,2016-12-17,8:25PM,Miami Dolphins,New York Jets,https://www.pro-football-reference.com/boxscores/201612170nyj.htm
+2016,15,2016-12-18,1:00PM,Cleveland Browns,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201612180buf.htm
+2016,15,2016-12-18,1:00PM,Green Bay Packers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201612180chi.htm
+2016,15,2016-12-18,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201612180cin.htm
+2016,15,2016-12-18,1:00PM,Indianapolis Colts,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201612180min.htm
+2016,15,2016-12-18,1:00PM,Detroit Lions,New York Giants,https://www.pro-football-reference.com/boxscores/201612180nyg.htm
+2016,15,2016-12-18,1:00PM,Jacksonville Jaguars,Houston Texans,https://www.pro-football-reference.com/boxscores/201612180htx.htm
+2016,15,2016-12-18,1:00PM,Tennessee Titans,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201612180kan.htm
+2016,15,2016-12-18,1:00PM,Philadelphia Eagles,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201612180rav.htm
+2016,15,2016-12-18,4:05PM,San Francisco 49ers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201612180atl.htm
+2016,15,2016-12-18,4:05PM,New Orleans Saints,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201612180crd.htm
+2016,15,2016-12-18,4:25PM,New England Patriots,Denver Broncos,https://www.pro-football-reference.com/boxscores/201612180den.htm
+2016,15,2016-12-18,4:25PM,Oakland Raiders,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201612180sdg.htm
+2016,15,2016-12-18,8:30PM,Tampa Bay Buccaneers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201612180dal.htm
+2016,15,2016-12-19,8:30PM,Carolina Panthers,Washington Redskins,https://www.pro-football-reference.com/boxscores/201612190was.htm
+2016,16,2016-12-22,8:25PM,New York Giants,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201612220phi.htm
+2016,16,2016-12-24,1:00PM,Atlanta Falcons,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201612240car.htm
+2016,16,2016-12-24,1:00PM,Miami Dolphins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201612240buf.htm
+2016,16,2016-12-24,1:00PM,Washington Redskins,Chicago Bears,https://www.pro-football-reference.com/boxscores/201612240chi.htm
+2016,16,2016-12-24,1:00PM,San Diego Chargers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201612240cle.htm
+2016,16,2016-12-24,1:00PM,Minnesota Vikings,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201612240gnb.htm
+2016,16,2016-12-24,1:00PM,Tennessee Titans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201612240jax.htm
+2016,16,2016-12-24,1:00PM,New York Jets,New England Patriots,https://www.pro-football-reference.com/boxscores/201612240nwe.htm
+2016,16,2016-12-24,4:05PM,Indianapolis Colts,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201612240rai.htm
+2016,16,2016-12-24,4:25PM,Arizona Cardinals,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201612240sea.htm
+2016,16,2016-12-24,4:25PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201612240nor.htm
+2016,16,2016-12-24,4:25PM,San Francisco 49ers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201612240ram.htm
+2016,16,2016-12-24,8:25PM,Cincinnati Bengals,Houston Texans,https://www.pro-football-reference.com/boxscores/201612240htx.htm
+2016,16,2016-12-25,4:30PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201612250pit.htm
+2016,16,2016-12-25,8:30PM,Denver Broncos,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201612250kan.htm
+2016,16,2016-12-26,8:30PM,Detroit Lions,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201612260dal.htm
+2016,17,2017-01-01,1:00PM,Buffalo Bills,New York Jets,https://www.pro-football-reference.com/boxscores/201701010nyj.htm
+2016,17,2017-01-01,1:00PM,Carolina Panthers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201701010tam.htm
+2016,17,2017-01-01,1:00PM,Chicago Bears,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201701010min.htm
+2016,17,2017-01-01,1:00PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201701010cin.htm
+2016,17,2017-01-01,1:00PM,Cleveland Browns,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201701010pit.htm
+2016,17,2017-01-01,1:00PM,Jacksonville Jaguars,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201701010clt.htm
+2016,17,2017-01-01,1:00PM,Dallas Cowboys,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201701010phi.htm
+2016,17,2017-01-01,1:00PM,Houston Texans,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201701010oti.htm
+2016,17,2017-01-01,1:00PM,New England Patriots,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201701010mia.htm
+2016,17,2017-01-01,4:25PM,New Orleans Saints,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201701010atl.htm
+2016,17,2017-01-01,4:25PM,Arizona Cardinals,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/201701010ram.htm
+2016,17,2017-01-01,4:25PM,Oakland Raiders,Denver Broncos,https://www.pro-football-reference.com/boxscores/201701010den.htm
+2016,17,2017-01-01,4:25PM,Kansas City Chiefs,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201701010sdg.htm
+2016,17,2017-01-01,4:25PM,New York Giants,Washington Redskins,https://www.pro-football-reference.com/boxscores/201701010was.htm
+2016,17,2017-01-01,4:25PM,Seattle Seahawks,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201701010sfo.htm
+2016,17,2017-01-01,8:30PM,Green Bay Packers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201701010det.htm
+2016,,Playoffs,,,,
+2016,WildCard,2017-01-07,4:35PM,Oakland Raiders,Houston Texans,https://www.pro-football-reference.com/boxscores/201701070htx.htm
+2016,WildCard,2017-01-07,8:15PM,Detroit Lions,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201701070sea.htm
+2016,WildCard,2017-01-08,1:05PM,Miami Dolphins,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201701080pit.htm
+2016,WildCard,2017-01-08,4:40PM,New York Giants,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201701080gnb.htm
+2016,Division,2017-01-14,4:35PM,Seattle Seahawks,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201701140atl.htm
+2016,Division,2017-01-14,8:15PM,Houston Texans,New England Patriots,https://www.pro-football-reference.com/boxscores/201701140nwe.htm
+2016,Division,2017-01-15,4:40PM,Green Bay Packers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201701150dal.htm
+2016,Division,2017-01-15,8:20PM,Pittsburgh Steelers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201701150kan.htm
+2016,ConfChamp,2017-01-22,3:05PM,Green Bay Packers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201701220atl.htm
+2016,ConfChamp,2017-01-22,6:40PM,Pittsburgh Steelers,New England Patriots,https://www.pro-football-reference.com/boxscores/201701220nwe.htm
+2016,SuperBowl,2017-02-05,6:30PM,Atlanta Falcons,New England Patriots,https://www.pro-football-reference.com/boxscores/201702050nwe.htm

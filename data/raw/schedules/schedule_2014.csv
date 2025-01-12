@@ -1,0 +1,269 @@
+season,week,date,time,away_team,home_team,game_url
+2014,1,2014-09-04,8:42PM,Green Bay Packers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201409040sea.htm
+2014,1,2014-09-07,1:00PM,Buffalo Bills,Chicago Bears,https://www.pro-football-reference.com/boxscores/201409070chi.htm
+2014,1,2014-09-07,1:00PM,Minnesota Vikings,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201409070ram.htm
+2014,1,2014-09-07,1:02PM,Cincinnati Bengals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201409070rav.htm
+2014,1,2014-09-07,1:02PM,Cleveland Browns,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201409070pit.htm
+2014,1,2014-09-07,1:02PM,Jacksonville Jaguars,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201409070phi.htm
+2014,1,2014-09-07,1:02PM,Tennessee Titans,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201409070kan.htm
+2014,1,2014-09-07,1:02PM,Oakland Raiders,New York Jets,https://www.pro-football-reference.com/boxscores/201409070nyj.htm
+2014,1,2014-09-07,1:03PM,New Orleans Saints,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201409070atl.htm
+2014,1,2014-09-07,1:03PM,Washington Redskins,Houston Texans,https://www.pro-football-reference.com/boxscores/201409070htx.htm
+2014,1,2014-09-07,1:03PM,New England Patriots,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201409070mia.htm
+2014,1,2014-09-07,4:25PM,Carolina Panthers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201409070tam.htm
+2014,1,2014-09-07,4:25PM,San Francisco 49ers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201409070dal.htm
+2014,1,2014-09-07,8:30PM,Indianapolis Colts,Denver Broncos,https://www.pro-football-reference.com/boxscores/201409070den.htm
+2014,1,2014-09-08,7:11PM,New York Giants,Detroit Lions,https://www.pro-football-reference.com/boxscores/201409080det.htm
+2014,1,2014-09-08,9:20PM,San Diego Chargers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201409080crd.htm
+2014,2,2014-09-11,8:28PM,Pittsburgh Steelers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201409110rav.htm
+2014,2,2014-09-14,1:02PM,Miami Dolphins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201409140buf.htm
+2014,2,2014-09-14,1:03PM,New Orleans Saints,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201409140cle.htm
+2014,2,2014-09-14,1:03PM,Dallas Cowboys,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201409140oti.htm
+2014,2,2014-09-14,1:04PM,Detroit Lions,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201409140car.htm
+2014,2,2014-09-14,1:04PM,Arizona Cardinals,New York Giants,https://www.pro-football-reference.com/boxscores/201409140nyg.htm
+2014,2,2014-09-14,1:05PM,Atlanta Falcons,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201409140cin.htm
+2014,2,2014-09-14,1:05PM,Jacksonville Jaguars,Washington Redskins,https://www.pro-football-reference.com/boxscores/201409140was.htm
+2014,2,2014-09-14,1:05PM,New England Patriots,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201409140min.htm
+2014,2,2014-09-14,4:05PM,St. Louis Rams,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201409140tam.htm
+2014,2,2014-09-14,4:05PM,Seattle Seahawks,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201409140sdg.htm
+2014,2,2014-09-14,4:25PM,Kansas City Chiefs,Denver Broncos,https://www.pro-football-reference.com/boxscores/201409140den.htm
+2014,2,2014-09-14,4:25PM,New York Jets,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201409140gnb.htm
+2014,2,2014-09-14,4:25PM,Houston Texans,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201409140rai.htm
+2014,2,2014-09-14,8:31PM,Chicago Bears,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201409140sfo.htm
+2014,2,2014-09-15,8:31PM,Philadelphia Eagles,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201409150clt.htm
+2014,3,2014-09-18,8:26PM,Tampa Bay Buccaneers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201409180atl.htm
+2014,3,2014-09-21,1:00PM,Dallas Cowboys,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201409210ram.htm
+2014,3,2014-09-21,1:02PM,San Diego Chargers,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201409210buf.htm
+2014,3,2014-09-21,1:02PM,Tennessee Titans,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201409210cin.htm
+2014,3,2014-09-21,1:02PM,Baltimore Ravens,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201409210cle.htm
+2014,3,2014-09-21,1:02PM,Indianapolis Colts,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201409210jax.htm
+2014,3,2014-09-21,1:02PM,Green Bay Packers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201409210det.htm
+2014,3,2014-09-21,1:02PM,Houston Texans,New York Giants,https://www.pro-football-reference.com/boxscores/201409210nyg.htm
+2014,3,2014-09-21,1:02PM,Oakland Raiders,New England Patriots,https://www.pro-football-reference.com/boxscores/201409210nwe.htm
+2014,3,2014-09-21,1:02PM,Washington Redskins,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201409210phi.htm
+2014,3,2014-09-21,1:03PM,Minnesota Vikings,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201409210nor.htm
+2014,3,2014-09-21,4:05PM,San Francisco 49ers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201409210crd.htm
+2014,3,2014-09-21,4:25PM,Denver Broncos,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201409210sea.htm
+2014,3,2014-09-21,4:25PM,Kansas City Chiefs,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201409210mia.htm
+2014,3,2014-09-21,8:31PM,Pittsburgh Steelers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201409210car.htm
+2014,3,2014-09-22,8:30PM,Chicago Bears,New York Jets,https://www.pro-football-reference.com/boxscores/201409220nyj.htm
+2014,4,2014-09-25,8:26PM,New York Giants,Washington Redskins,https://www.pro-football-reference.com/boxscores/201409250was.htm
+2014,4,2014-09-28,1:02PM,Buffalo Bills,Houston Texans,https://www.pro-football-reference.com/boxscores/201409280htx.htm
+2014,4,2014-09-28,1:02PM,Carolina Panthers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201409280rav.htm
+2014,4,2014-09-28,1:02PM,Green Bay Packers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201409280chi.htm
+2014,4,2014-09-28,1:02PM,Detroit Lions,New York Jets,https://www.pro-football-reference.com/boxscores/201409280nyj.htm
+2014,4,2014-09-28,1:03PM,Tennessee Titans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201409280clt.htm
+2014,4,2014-09-28,1:03PM,Tampa Bay Buccaneers,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201409280pit.htm
+2014,4,2014-09-28,1:06PM,Miami Dolphins,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201409280rai.htm
+2014,4,2014-09-28,4:05PM,Jacksonville Jaguars,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201409280sdg.htm
+2014,4,2014-09-28,4:25PM,Atlanta Falcons,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201409280min.htm
+2014,4,2014-09-28,4:25PM,Philadelphia Eagles,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201409280sfo.htm
+2014,4,2014-09-28,8:31PM,New Orleans Saints,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201409280dal.htm
+2014,4,2014-09-29,8:31PM,New England Patriots,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201409290kan.htm
+2014,5,2014-10-02,8:26PM,Minnesota Vikings,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201410020gnb.htm
+2014,5,2014-10-05,1:02PM,Cleveland Browns,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201410050oti.htm
+2014,5,2014-10-05,1:02PM,Pittsburgh Steelers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201410050jax.htm
+2014,5,2014-10-05,1:02PM,St. Louis Rams,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201410050phi.htm
+2014,5,2014-10-05,1:03PM,Atlanta Falcons,New York Giants,https://www.pro-football-reference.com/boxscores/201410050nyg.htm
+2014,5,2014-10-05,1:03PM,Buffalo Bills,Detroit Lions,https://www.pro-football-reference.com/boxscores/201410050det.htm
+2014,5,2014-10-05,1:03PM,Chicago Bears,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201410050car.htm
+2014,5,2014-10-05,1:03PM,Baltimore Ravens,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201410050clt.htm
+2014,5,2014-10-05,1:03PM,Houston Texans,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201410050dal.htm
+2014,5,2014-10-05,1:03PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201410050nor.htm
+2014,5,2014-10-05,4:05PM,Arizona Cardinals,Denver Broncos,https://www.pro-football-reference.com/boxscores/201410050den.htm
+2014,5,2014-10-05,4:25PM,Kansas City Chiefs,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201410050sfo.htm
+2014,5,2014-10-05,4:25PM,New York Jets,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201410050sdg.htm
+2014,5,2014-10-05,8:43PM,Cincinnati Bengals,New England Patriots,https://www.pro-football-reference.com/boxscores/201410050nwe.htm
+2014,5,2014-10-06,8:30PM,Seattle Seahawks,Washington Redskins,https://www.pro-football-reference.com/boxscores/201410060was.htm
+2014,6,2014-10-09,8:26PM,Indianapolis Colts,Houston Texans,https://www.pro-football-reference.com/boxscores/201410090htx.htm
+2014,6,2014-10-12,1:02PM,Pittsburgh Steelers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201410120cle.htm
+2014,6,2014-10-12,1:02PM,Denver Broncos,New York Jets,https://www.pro-football-reference.com/boxscores/201410120nyj.htm
+2014,6,2014-10-12,1:02PM,New England Patriots,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201410120buf.htm
+2014,6,2014-10-12,1:02PM,Detroit Lions,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201410120min.htm
+2014,6,2014-10-12,1:02PM,Green Bay Packers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201410120mia.htm
+2014,6,2014-10-12,1:02PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201410120oti.htm
+2014,6,2014-10-12,1:02PM,Baltimore Ravens,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201410120tam.htm
+2014,6,2014-10-12,1:03PM,Carolina Panthers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201410120cin.htm
+2014,6,2014-10-12,4:05PM,San Diego Chargers,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201410120rai.htm
+2014,6,2014-10-12,4:25PM,Washington Redskins,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201410120crd.htm
+2014,6,2014-10-12,4:25PM,Chicago Bears,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201410120atl.htm
+2014,6,2014-10-12,4:26PM,Dallas Cowboys,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201410120sea.htm
+2014,6,2014-10-12,8:41PM,New York Giants,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201410120phi.htm
+2014,6,2014-10-13,8:30PM,San Francisco 49ers,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201410130ram.htm
+2014,7,2014-10-16,8:25PM,New York Jets,New England Patriots,https://www.pro-football-reference.com/boxscores/201410160nwe.htm
+2014,7,2014-10-19,1:00PM,Seattle Seahawks,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201410190ram.htm
+2014,7,2014-10-19,1:00PM,Miami Dolphins,Chicago Bears,https://www.pro-football-reference.com/boxscores/201410190chi.htm
+2014,7,2014-10-19,1:02PM,Cincinnati Bengals,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201410190clt.htm
+2014,7,2014-10-19,1:02PM,Cleveland Browns,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201410190jax.htm
+2014,7,2014-10-19,1:02PM,Atlanta Falcons,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201410190rav.htm
+2014,7,2014-10-19,1:02PM,Minnesota Vikings,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201410190buf.htm
+2014,7,2014-10-19,1:02PM,Carolina Panthers,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201410190gnb.htm
+2014,7,2014-10-19,1:02PM,New Orleans Saints,Detroit Lions,https://www.pro-football-reference.com/boxscores/201410190det.htm
+2014,7,2014-10-19,1:02PM,Tennessee Titans,Washington Redskins,https://www.pro-football-reference.com/boxscores/201410190was.htm
+2014,7,2014-10-19,4:05PM,Kansas City Chiefs,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201410190sdg.htm
+2014,7,2014-10-19,4:25PM,Arizona Cardinals,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201410190rai.htm
+2014,7,2014-10-19,4:25PM,New York Giants,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201410190dal.htm
+2014,7,2014-10-19,8:30PM,San Francisco 49ers,Denver Broncos,https://www.pro-football-reference.com/boxscores/201410190den.htm
+2014,7,2014-10-20,8:30PM,Houston Texans,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201410200pit.htm
+2014,8,2014-10-23,8:26PM,San Diego Chargers,Denver Broncos,https://www.pro-football-reference.com/boxscores/201410230den.htm
+2014,8,2014-10-26,9:37AM,Detroit Lions,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201410260atl.htm
+2014,8,2014-10-26,1:02PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201410260cin.htm
+2014,8,2014-10-26,1:02PM,Buffalo Bills,New York Jets,https://www.pro-football-reference.com/boxscores/201410260nyj.htm
+2014,8,2014-10-26,1:02PM,Chicago Bears,New England Patriots,https://www.pro-football-reference.com/boxscores/201410260nwe.htm
+2014,8,2014-10-26,1:02PM,Miami Dolphins,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201410260jax.htm
+2014,8,2014-10-26,1:03PM,Houston Texans,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201410260oti.htm
+2014,8,2014-10-26,1:03PM,Minnesota Vikings,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201410260tam.htm
+2014,8,2014-10-26,1:04PM,St. Louis Rams,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201410260kan.htm
+2014,8,2014-10-26,1:04PM,Seattle Seahawks,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201410260car.htm
+2014,8,2014-10-26,4:05PM,Philadelphia Eagles,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201410260crd.htm
+2014,8,2014-10-26,4:25PM,Oakland Raiders,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201410260cle.htm
+2014,8,2014-10-26,4:25PM,Indianapolis Colts,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201410260pit.htm
+2014,8,2014-10-26,8:30PM,Green Bay Packers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201410260nor.htm
+2014,8,2014-10-27,8:30PM,Washington Redskins,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201410270dal.htm
+2014,9,2014-10-30,8:30PM,New Orleans Saints,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201410300car.htm
+2014,9,2014-11-02,1:02PM,Jacksonville Jaguars,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201411020cin.htm
+2014,9,2014-11-02,1:02PM,Tampa Bay Buccaneers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201411020cle.htm
+2014,9,2014-11-02,1:02PM,San Diego Chargers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201411020mia.htm
+2014,9,2014-11-02,1:03PM,New York Jets,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201411020kan.htm
+2014,9,2014-11-02,1:03PM,Philadelphia Eagles,Houston Texans,https://www.pro-football-reference.com/boxscores/201411020htx.htm
+2014,9,2014-11-02,1:03PM,Washington Redskins,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201411020min.htm
+2014,9,2014-11-02,1:04PM,Arizona Cardinals,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201411020dal.htm
+2014,9,2014-11-02,4:05PM,St. Louis Rams,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201411020sfo.htm
+2014,9,2014-11-02,4:25PM,Denver Broncos,New England Patriots,https://www.pro-football-reference.com/boxscores/201411020nwe.htm
+2014,9,2014-11-02,4:26PM,Oakland Raiders,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201411020sea.htm
+2014,9,2014-11-02,8:30PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201411020pit.htm
+2014,9,2014-11-03,8:31PM,Indianapolis Colts,New York Giants,https://www.pro-football-reference.com/boxscores/201411030nyg.htm
+2014,10,2014-11-06,8:29PM,Cleveland Browns,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201411060cin.htm
+2014,10,2014-11-09,1:02PM,Kansas City Chiefs,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201411090buf.htm
+2014,10,2014-11-09,1:02PM,Miami Dolphins,Detroit Lions,https://www.pro-football-reference.com/boxscores/201411090det.htm
+2014,10,2014-11-09,1:02PM,Pittsburgh Steelers,New York Jets,https://www.pro-football-reference.com/boxscores/201411090nyj.htm
+2014,10,2014-11-09,1:03PM,San Francisco 49ers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201411090nor.htm
+2014,10,2014-11-09,1:03PM,Tennessee Titans,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201411090rav.htm
+2014,10,2014-11-09,1:04PM,Atlanta Falcons,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201411090tam.htm
+2014,10,2014-11-09,1:06PM,Dallas Cowboys,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201411090jax.htm
+2014,10,2014-11-09,4:05PM,Denver Broncos,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201411090rai.htm
+2014,10,2014-11-09,4:25PM,St. Louis Rams,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201411090crd.htm
+2014,10,2014-11-09,4:26PM,New York Giants,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201411090sea.htm
+2014,10,2014-11-09,8:30PM,Chicago Bears,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201411090gnb.htm
+2014,10,2014-11-10,8:32PM,Carolina Panthers,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201411100phi.htm
+2014,11,2014-11-13,8:26PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201411130mia.htm
+2014,11,2014-11-16,1:00PM,Denver Broncos,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201411160ram.htm
+2014,11,2014-11-16,1:02PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/201411160chi.htm
+2014,11,2014-11-16,1:02PM,Cincinnati Bengals,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201411160nor.htm
+2014,11,2014-11-16,1:03PM,Atlanta Falcons,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201411160car.htm
+2014,11,2014-11-16,1:03PM,Houston Texans,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201411160cle.htm
+2014,11,2014-11-16,1:03PM,San Francisco 49ers,New York Giants,https://www.pro-football-reference.com/boxscores/201411160nyg.htm
+2014,11,2014-11-16,1:03PM,Tampa Bay Buccaneers,Washington Redskins,https://www.pro-football-reference.com/boxscores/201411160was.htm
+2014,11,2014-11-16,1:04PM,Seattle Seahawks,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201411160kan.htm
+2014,11,2014-11-16,4:05PM,Oakland Raiders,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201411160sdg.htm
+2014,11,2014-11-16,4:25PM,Detroit Lions,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201411160crd.htm
+2014,11,2014-11-16,4:25PM,Philadelphia Eagles,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201411160gnb.htm
+2014,11,2014-11-16,8:31PM,New England Patriots,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201411160clt.htm
+2014,11,2014-11-17,8:30PM,Pittsburgh Steelers,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201411170oti.htm
+2014,12,2014-11-20,8:26PM,Kansas City Chiefs,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201411200rai.htm
+2014,12,2014-11-23,1:02PM,Cleveland Browns,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201411230atl.htm
+2014,12,2014-11-23,1:02PM,Tampa Bay Buccaneers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201411230chi.htm
+2014,12,2014-11-23,1:02PM,Cincinnati Bengals,Houston Texans,https://www.pro-football-reference.com/boxscores/201411230htx.htm
+2014,12,2014-11-23,1:02PM,Jacksonville Jaguars,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201411230clt.htm
+2014,12,2014-11-23,1:02PM,Detroit Lions,New England Patriots,https://www.pro-football-reference.com/boxscores/201411230nwe.htm
+2014,12,2014-11-23,1:02PM,Tennessee Titans,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201411230phi.htm
+2014,12,2014-11-23,1:03PM,Green Bay Packers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201411230min.htm
+2014,12,2014-11-23,4:05PM,St. Louis Rams,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201411230sdg.htm
+2014,12,2014-11-23,4:06PM,Arizona Cardinals,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201411230sea.htm
+2014,12,2014-11-23,4:25PM,Miami Dolphins,Denver Broncos,https://www.pro-football-reference.com/boxscores/201411230den.htm
+2014,12,2014-11-23,4:25PM,Washington Redskins,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201411230sfo.htm
+2014,12,2014-11-23,8:30PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/201411230nyg.htm
+2014,12,2014-11-24,7:05PM,New York Jets,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201411240buf.htm
+2014,12,2014-11-24,8:30PM,Baltimore Ravens,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201411240nor.htm
+2014,13,2014-11-27,12:39PM,Chicago Bears,Detroit Lions,https://www.pro-football-reference.com/boxscores/201411270det.htm
+2014,13,2014-11-27,4:36PM,Philadelphia Eagles,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201411270dal.htm
+2014,13,2014-11-27,8:31PM,Seattle Seahawks,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201411270sfo.htm
+2014,13,2014-11-30,1:00PM,Oakland Raiders,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201411300ram.htm
+2014,13,2014-11-30,1:02PM,Cleveland Browns,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201411300buf.htm
+2014,13,2014-11-30,1:02PM,Carolina Panthers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201411300min.htm
+2014,13,2014-11-30,1:02PM,Cincinnati Bengals,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201411300tam.htm
+2014,13,2014-11-30,1:02PM,Washington Redskins,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201411300clt.htm
+2014,13,2014-11-30,1:02PM,Tennessee Titans,Houston Texans,https://www.pro-football-reference.com/boxscores/201411300htx.htm
+2014,13,2014-11-30,1:02PM,New Orleans Saints,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201411300pit.htm
+2014,13,2014-11-30,1:02PM,San Diego Chargers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201411300rav.htm
+2014,13,2014-11-30,1:03PM,New York Giants,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201411300jax.htm
+2014,13,2014-11-30,4:05PM,Arizona Cardinals,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201411300atl.htm
+2014,13,2014-11-30,4:25PM,New England Patriots,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201411300gnb.htm
+2014,13,2014-11-30,8:32PM,Denver Broncos,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201411300kan.htm
+2014,13,2014-12-01,8:30PM,Miami Dolphins,New York Jets,https://www.pro-football-reference.com/boxscores/201412010nyj.htm
+2014,14,2014-12-04,8:26PM,Dallas Cowboys,Chicago Bears,https://www.pro-football-reference.com/boxscores/201412040chi.htm
+2014,14,2014-12-07,1:02PM,Pittsburgh Steelers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201412070cin.htm
+2014,14,2014-12-07,1:02PM,Tampa Bay Buccaneers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201412070det.htm
+2014,14,2014-12-07,1:02PM,Baltimore Ravens,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201412070mia.htm
+2014,14,2014-12-07,1:02PM,New York Jets,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201412070min.htm
+2014,14,2014-12-07,1:03PM,Carolina Panthers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201412070nor.htm
+2014,14,2014-12-07,1:03PM,Indianapolis Colts,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201412070cle.htm
+2014,14,2014-12-07,1:03PM,Houston Texans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201412070jax.htm
+2014,14,2014-12-07,1:03PM,New York Giants,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201412070oti.htm
+2014,14,2014-12-07,1:03PM,St. Louis Rams,Washington Redskins,https://www.pro-football-reference.com/boxscores/201412070was.htm
+2014,14,2014-12-07,4:05PM,Buffalo Bills,Denver Broncos,https://www.pro-football-reference.com/boxscores/201412070den.htm
+2014,14,2014-12-07,4:05PM,Kansas City Chiefs,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201412070crd.htm
+2014,14,2014-12-07,4:25PM,Seattle Seahawks,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201412070phi.htm
+2014,14,2014-12-07,4:25PM,San Francisco 49ers,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201412070rai.htm
+2014,14,2014-12-07,8:30PM,New England Patriots,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201412070sdg.htm
+2014,14,2014-12-08,8:30PM,Atlanta Falcons,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201412080gnb.htm
+2014,15,2014-12-11,8:25PM,Arizona Cardinals,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201412110ram.htm
+2014,15,2014-12-14,1:02PM,Pittsburgh Steelers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201412140atl.htm
+2014,15,2014-12-14,1:02PM,Green Bay Packers,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201412140buf.htm
+2014,15,2014-12-14,1:02PM,Cincinnati Bengals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201412140cle.htm
+2014,15,2014-12-14,1:02PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201412140clt.htm
+2014,15,2014-12-14,1:02PM,Jacksonville Jaguars,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201412140rav.htm
+2014,15,2014-12-14,1:02PM,Miami Dolphins,New England Patriots,https://www.pro-football-reference.com/boxscores/201412140nwe.htm
+2014,15,2014-12-14,1:02PM,Washington Redskins,New York Giants,https://www.pro-football-reference.com/boxscores/201412140nyg.htm
+2014,15,2014-12-14,1:03PM,Tampa Bay Buccaneers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201412140car.htm
+2014,15,2014-12-14,1:03PM,Oakland Raiders,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201412140kan.htm
+2014,15,2014-12-14,4:05PM,Denver Broncos,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201412140sdg.htm
+2014,15,2014-12-14,4:05PM,New York Jets,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201412140oti.htm
+2014,15,2014-12-14,4:25PM,Minnesota Vikings,Detroit Lions,https://www.pro-football-reference.com/boxscores/201412140det.htm
+2014,15,2014-12-14,4:26PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201412140sea.htm
+2014,15,2014-12-14,8:35PM,Dallas Cowboys,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201412140phi.htm
+2014,15,2014-12-15,8:30PM,New Orleans Saints,Chicago Bears,https://www.pro-football-reference.com/boxscores/201412150chi.htm
+2014,16,2014-12-18,8:26PM,Tennessee Titans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201412180jax.htm
+2014,16,2014-12-20,4:30PM,Philadelphia Eagles,Washington Redskins,https://www.pro-football-reference.com/boxscores/201412200was.htm
+2014,16,2014-12-20,8:26PM,San Diego Chargers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201412200sfo.htm
+2014,16,2014-12-21,1:02PM,Baltimore Ravens,Houston Texans,https://www.pro-football-reference.com/boxscores/201412210htx.htm
+2014,16,2014-12-21,1:02PM,Kansas City Chiefs,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201412210pit.htm
+2014,16,2014-12-21,1:02PM,New England Patriots,New York Jets,https://www.pro-football-reference.com/boxscores/201412210nyj.htm
+2014,16,2014-12-21,1:03PM,Atlanta Falcons,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201412210nor.htm
+2014,16,2014-12-21,1:03PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/201412210chi.htm
+2014,16,2014-12-21,1:03PM,Green Bay Packers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201412210tam.htm
+2014,16,2014-12-21,1:03PM,Minnesota Vikings,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201412210mia.htm
+2014,16,2014-12-21,1:04PM,Cleveland Browns,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201412210car.htm
+2014,16,2014-12-21,4:05PM,New York Giants,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201412210ram.htm
+2014,16,2014-12-21,4:25PM,Buffalo Bills,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201412210rai.htm
+2014,16,2014-12-21,4:26PM,Indianapolis Colts,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201412210dal.htm
+2014,16,2014-12-21,8:30PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201412210crd.htm
+2014,16,2014-12-22,8:30PM,Denver Broncos,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201412220cin.htm
+2014,17,2014-12-28,1:02PM,Buffalo Bills,New England Patriots,https://www.pro-football-reference.com/boxscores/201412280nwe.htm
+2014,17,2014-12-28,1:02PM,Chicago Bears,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201412280min.htm
+2014,17,2014-12-28,1:02PM,Cleveland Browns,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201412280rav.htm
+2014,17,2014-12-28,1:02PM,Indianapolis Colts,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201412280oti.htm
+2014,17,2014-12-28,1:02PM,New York Jets,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201412280mia.htm
+2014,17,2014-12-28,1:02PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/201412280nyg.htm
+2014,17,2014-12-28,1:03PM,Jacksonville Jaguars,Houston Texans,https://www.pro-football-reference.com/boxscores/201412280htx.htm
+2014,17,2014-12-28,1:03PM,San Diego Chargers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201412280kan.htm
+2014,17,2014-12-28,1:03PM,New Orleans Saints,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201412280tam.htm
+2014,17,2014-12-28,1:05PM,Dallas Cowboys,Washington Redskins,https://www.pro-football-reference.com/boxscores/201412280was.htm
+2014,17,2014-12-28,4:25PM,Carolina Panthers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201412280atl.htm
+2014,17,2014-12-28,4:25PM,Arizona Cardinals,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201412280sfo.htm
+2014,17,2014-12-28,4:25PM,Oakland Raiders,Denver Broncos,https://www.pro-football-reference.com/boxscores/201412280den.htm
+2014,17,2014-12-28,4:25PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201412280gnb.htm
+2014,17,2014-12-28,4:27PM,St. Louis Rams,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201412280sea.htm
+2014,17,2014-12-28,8:30PM,Cincinnati Bengals,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201412280pit.htm
+2014,,Playoffs,,,,
+2014,WildCard,2015-01-03,4:20PM,Arizona Cardinals,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201501030car.htm
+2014,WildCard,2015-01-03,8:15PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201501030pit.htm
+2014,WildCard,2015-01-04,1:05PM,Cincinnati Bengals,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201501040clt.htm
+2014,WildCard,2015-01-04,4:41PM,Detroit Lions,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201501040dal.htm
+2014,Division,2015-01-10,4:35PM,Baltimore Ravens,New England Patriots,https://www.pro-football-reference.com/boxscores/201501100nwe.htm
+2014,Division,2015-01-10,8:21PM,Carolina Panthers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201501100sea.htm
+2014,Division,2015-01-11,1:05PM,Dallas Cowboys,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201501110gnb.htm
+2014,Division,2015-01-11,4:40PM,Indianapolis Colts,Denver Broncos,https://www.pro-football-reference.com/boxscores/201501110den.htm
+2014,ConfChamp,2015-01-18,3:06PM,Green Bay Packers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201501180sea.htm
+2014,ConfChamp,2015-01-18,6:50PM,Indianapolis Colts,New England Patriots,https://www.pro-football-reference.com/boxscores/201501180nwe.htm
+2014,SuperBowl,2015-02-01,6:30PM,Seattle Seahawks,New England Patriots,https://www.pro-football-reference.com/boxscores/201502010nwe.htm

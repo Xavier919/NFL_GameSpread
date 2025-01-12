@@ -1,0 +1,269 @@
+season,week,date,time,away_team,home_team,game_url
+2011,1,2011-09-08,8:40PM,New Orleans Saints,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201109080gnb.htm
+2011,1,2011-09-11,1:00PM,Philadelphia Eagles,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201109110ram.htm
+2011,1,2011-09-11,1:05PM,Indianapolis Colts,Houston Texans,https://www.pro-football-reference.com/boxscores/201109110htx.htm
+2011,1,2011-09-11,1:05PM,Tennessee Titans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201109110jax.htm
+2011,1,2011-09-11,1:05PM,Pittsburgh Steelers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201109110rav.htm
+2011,1,2011-09-11,1:06PM,Atlanta Falcons,Chicago Bears,https://www.pro-football-reference.com/boxscores/201109110chi.htm
+2011,1,2011-09-11,1:06PM,Buffalo Bills,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201109110kan.htm
+2011,1,2011-09-11,1:06PM,Cincinnati Bengals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201109110cle.htm
+2011,1,2011-09-11,1:06PM,Detroit Lions,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201109110tam.htm
+2011,1,2011-09-11,4:15PM,Carolina Panthers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201109110crd.htm
+2011,1,2011-09-11,4:20PM,Minnesota Vikings,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201109110sdg.htm
+2011,1,2011-09-11,4:22PM,Seattle Seahawks,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201109110sfo.htm
+2011,1,2011-09-11,4:23PM,New York Giants,Washington Redskins,https://www.pro-football-reference.com/boxscores/201109110was.htm
+2011,1,2011-09-11,8:33PM,Dallas Cowboys,New York Jets,https://www.pro-football-reference.com/boxscores/201109110nyj.htm
+2011,1,2011-09-12,7:13PM,New England Patriots,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201109120mia.htm
+2011,1,2011-09-12,10:26PM,Oakland Raiders,Denver Broncos,https://www.pro-football-reference.com/boxscores/201109120den.htm
+2011,2,2011-09-18,1:02PM,Green Bay Packers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201109180car.htm
+2011,2,2011-09-18,1:02PM,Chicago Bears,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201109180nor.htm
+2011,2,2011-09-18,1:02PM,Cleveland Browns,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201109180clt.htm
+2011,2,2011-09-18,1:02PM,Kansas City Chiefs,Detroit Lions,https://www.pro-football-reference.com/boxscores/201109180det.htm
+2011,2,2011-09-18,1:02PM,Jacksonville Jaguars,New York Jets,https://www.pro-football-reference.com/boxscores/201109180nyj.htm
+2011,2,2011-09-18,1:02PM,Baltimore Ravens,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201109180oti.htm
+2011,2,2011-09-18,1:02PM,Seattle Seahawks,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201109180pit.htm
+2011,2,2011-09-18,1:03PM,Oakland Raiders,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201109180buf.htm
+2011,2,2011-09-18,1:03PM,Arizona Cardinals,Washington Redskins,https://www.pro-football-reference.com/boxscores/201109180was.htm
+2011,2,2011-09-18,1:05PM,Tampa Bay Buccaneers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201109180min.htm
+2011,2,2011-09-18,4:05PM,Dallas Cowboys,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201109180sfo.htm
+2011,2,2011-09-18,4:15PM,Cincinnati Bengals,Denver Broncos,https://www.pro-football-reference.com/boxscores/201109180den.htm
+2011,2,2011-09-18,4:15PM,Houston Texans,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201109180mia.htm
+2011,2,2011-09-18,4:15PM,San Diego Chargers,New England Patriots,https://www.pro-football-reference.com/boxscores/201109180nwe.htm
+2011,2,2011-09-18,8:30PM,Philadelphia Eagles,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201109180atl.htm
+2011,2,2011-09-19,8:40PM,St. Louis Rams,New York Giants,https://www.pro-football-reference.com/boxscores/201109190nyg.htm
+2011,3,2011-09-25,1:02PM,Jacksonville Jaguars,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201109250car.htm
+2011,3,2011-09-25,1:02PM,San Francisco 49ers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201109250cin.htm
+2011,3,2011-09-25,1:02PM,Miami Dolphins,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201109250cle.htm
+2011,3,2011-09-25,1:02PM,Denver Broncos,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201109250oti.htm
+2011,3,2011-09-25,1:02PM,Houston Texans,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201109250nor.htm
+2011,3,2011-09-25,1:03PM,New England Patriots,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201109250buf.htm
+2011,3,2011-09-25,1:03PM,New York Giants,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201109250phi.htm
+2011,3,2011-09-25,1:05PM,Detroit Lions,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201109250min.htm
+2011,3,2011-09-25,4:04PM,New York Jets,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201109250rai.htm
+2011,3,2011-09-25,4:05PM,Kansas City Chiefs,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201109250sdg.htm
+2011,3,2011-09-25,4:05PM,Baltimore Ravens,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201109250ram.htm
+2011,3,2011-09-25,4:15PM,Green Bay Packers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201109250chi.htm
+2011,3,2011-09-25,4:15PM,Arizona Cardinals,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201109250sea.htm
+2011,3,2011-09-25,4:16PM,Atlanta Falcons,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201109250tam.htm
+2011,3,2011-09-25,8:30PM,Pittsburgh Steelers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201109250clt.htm
+2011,3,2011-09-26,8:41PM,Washington Redskins,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201109260dal.htm
+2011,4,2011-10-02,1:00PM,Washington Redskins,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201110020ram.htm
+2011,4,2011-10-02,1:02PM,Detroit Lions,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201110020dal.htm
+2011,4,2011-10-02,1:02PM,Minnesota Vikings,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201110020kan.htm
+2011,4,2011-10-02,1:03PM,Buffalo Bills,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201110020cin.htm
+2011,4,2011-10-02,1:03PM,Tennessee Titans,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201110020cle.htm
+2011,4,2011-10-02,1:03PM,Pittsburgh Steelers,Houston Texans,https://www.pro-football-reference.com/boxscores/201110020htx.htm
+2011,4,2011-10-02,1:03PM,New Orleans Saints,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201110020jax.htm
+2011,4,2011-10-02,1:03PM,San Francisco 49ers,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201110020phi.htm
+2011,4,2011-10-02,1:04PM,Carolina Panthers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201110020chi.htm
+2011,4,2011-10-02,4:05PM,Atlanta Falcons,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201110020sea.htm
+2011,4,2011-10-02,4:05PM,New York Giants,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201110020crd.htm
+2011,4,2011-10-02,4:15PM,Denver Broncos,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201110020gnb.htm
+2011,4,2011-10-02,4:15PM,Miami Dolphins,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201110020sdg.htm
+2011,4,2011-10-02,4:15PM,New England Patriots,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201110020rai.htm
+2011,4,2011-10-02,8:30PM,New York Jets,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201110020rav.htm
+2011,4,2011-10-03,8:40PM,Indianapolis Colts,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201110030tam.htm
+2011,5,2011-10-09,1:02PM,Cincinnati Bengals,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201110090jax.htm
+2011,5,2011-10-09,1:02PM,Kansas City Chiefs,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201110090clt.htm
+2011,5,2011-10-09,1:02PM,Oakland Raiders,Houston Texans,https://www.pro-football-reference.com/boxscores/201110090htx.htm
+2011,5,2011-10-09,1:02PM,Tennessee Titans,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201110090pit.htm
+2011,5,2011-10-09,1:04PM,Philadelphia Eagles,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201110090buf.htm
+2011,5,2011-10-09,1:04PM,New Orleans Saints,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201110090car.htm
+2011,5,2011-10-09,1:04PM,Seattle Seahawks,New York Giants,https://www.pro-football-reference.com/boxscores/201110090nyg.htm
+2011,5,2011-10-09,1:05PM,Arizona Cardinals,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201110090min.htm
+2011,5,2011-10-09,4:05PM,Tampa Bay Buccaneers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201110090sfo.htm
+2011,5,2011-10-09,4:15PM,New York Jets,New England Patriots,https://www.pro-football-reference.com/boxscores/201110090nwe.htm
+2011,5,2011-10-09,4:16PM,San Diego Chargers,Denver Broncos,https://www.pro-football-reference.com/boxscores/201110090den.htm
+2011,5,2011-10-09,8:30PM,Green Bay Packers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201110090atl.htm
+2011,5,2011-10-10,8:40PM,Chicago Bears,Detroit Lions,https://www.pro-football-reference.com/boxscores/201110100det.htm
+2011,6,2011-10-16,1:02PM,Carolina Panthers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201110160atl.htm
+2011,6,2011-10-16,1:02PM,Buffalo Bills,New York Giants,https://www.pro-football-reference.com/boxscores/201110160nyg.htm
+2011,6,2011-10-16,1:02PM,Indianapolis Colts,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201110160cin.htm
+2011,6,2011-10-16,1:02PM,St. Louis Rams,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201110160gnb.htm
+2011,6,2011-10-16,1:02PM,Jacksonville Jaguars,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201110160pit.htm
+2011,6,2011-10-16,1:03PM,San Francisco 49ers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201110160det.htm
+2011,6,2011-10-16,1:05PM,Philadelphia Eagles,Washington Redskins,https://www.pro-football-reference.com/boxscores/201110160was.htm
+2011,6,2011-10-16,4:05PM,Cleveland Browns,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201110160rai.htm
+2011,6,2011-10-16,4:06PM,Houston Texans,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201110160rav.htm
+2011,6,2011-10-16,4:15PM,Dallas Cowboys,New England Patriots,https://www.pro-football-reference.com/boxscores/201110160nwe.htm
+2011,6,2011-10-16,4:15PM,New Orleans Saints,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201110160tam.htm
+2011,6,2011-10-16,8:30PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/201110160chi.htm
+2011,6,2011-10-17,8:40PM,Miami Dolphins,New York Jets,https://www.pro-football-reference.com/boxscores/201110170nyj.htm
+2011,7,2011-10-23,1:02PM,Denver Broncos,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201110230mia.htm
+2011,7,2011-10-23,1:02PM,Houston Texans,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201110230oti.htm
+2011,7,2011-10-23,1:03PM,San Diego Chargers,New York Jets,https://www.pro-football-reference.com/boxscores/201110230nyj.htm
+2011,7,2011-10-23,1:05PM,Seattle Seahawks,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201110230cle.htm
+2011,7,2011-10-23,1:05PM,Atlanta Falcons,Detroit Lions,https://www.pro-football-reference.com/boxscores/201110230det.htm
+2011,7,2011-10-23,1:05PM,Washington Redskins,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201110230car.htm
+2011,7,2011-10-23,1:05PM,Chicago Bears,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201110230tam.htm
+2011,7,2011-10-23,4:05PM,Pittsburgh Steelers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201110230crd.htm
+2011,7,2011-10-23,4:15PM,St. Louis Rams,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201110230dal.htm
+2011,7,2011-10-23,4:15PM,Green Bay Packers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201110230min.htm
+2011,7,2011-10-23,7:05PM,Kansas City Chiefs,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201110230rai.htm
+2011,7,2011-10-23,8:30PM,Indianapolis Colts,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201110230nor.htm
+2011,7,2011-10-24,8:40PM,Baltimore Ravens,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201110240jax.htm
+2011,8,2011-10-30,1:00PM,New Orleans Saints,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201110300ram.htm
+2011,8,2011-10-30,1:02PM,Arizona Cardinals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201110300rav.htm
+2011,8,2011-10-30,1:02PM,Miami Dolphins,New York Giants,https://www.pro-football-reference.com/boxscores/201110300nyg.htm
+2011,8,2011-10-30,1:02PM,Indianapolis Colts,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201110300oti.htm
+2011,8,2011-10-30,1:02PM,Jacksonville Jaguars,Houston Texans,https://www.pro-football-reference.com/boxscores/201110300htx.htm
+2011,8,2011-10-30,1:03PM,Minnesota Vikings,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201110300car.htm
+2011,8,2011-10-30,4:05PM,Washington Redskins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201110300buf.htm
+2011,8,2011-10-30,4:10PM,Detroit Lions,Denver Broncos,https://www.pro-football-reference.com/boxscores/201110300den.htm
+2011,8,2011-10-30,4:15PM,Cleveland Browns,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201110300sfo.htm
+2011,8,2011-10-30,4:15PM,New England Patriots,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201110300pit.htm
+2011,8,2011-10-30,4:16PM,Cincinnati Bengals,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201110300sea.htm
+2011,8,2011-10-30,8:28PM,Dallas Cowboys,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201110300phi.htm
+2011,8,2011-10-31,8:40PM,San Diego Chargers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201110310kan.htm
+2011,9,2011-11-06,1:02PM,Atlanta Falcons,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201111060clt.htm
+2011,9,2011-11-06,1:02PM,Seattle Seahawks,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201111060dal.htm
+2011,9,2011-11-06,1:03PM,New York Jets,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201111060buf.htm
+2011,9,2011-11-06,1:03PM,Cleveland Browns,Houston Texans,https://www.pro-football-reference.com/boxscores/201111060htx.htm
+2011,9,2011-11-06,1:03PM,Miami Dolphins,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201111060kan.htm
+2011,9,2011-11-06,1:03PM,San Francisco 49ers,Washington Redskins,https://www.pro-football-reference.com/boxscores/201111060was.htm
+2011,9,2011-11-06,1:03PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201111060nor.htm
+2011,9,2011-11-06,4:05PM,Cincinnati Bengals,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201111060oti.htm
+2011,9,2011-11-06,4:05PM,Denver Broncos,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201111060rai.htm
+2011,9,2011-11-06,4:15PM,St. Louis Rams,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201111060crd.htm
+2011,9,2011-11-06,4:15PM,Green Bay Packers,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201111060sdg.htm
+2011,9,2011-11-06,4:15PM,New York Giants,New England Patriots,https://www.pro-football-reference.com/boxscores/201111060nwe.htm
+2011,9,2011-11-06,8:30PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201111060pit.htm
+2011,9,2011-11-07,8:41PM,Chicago Bears,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201111070phi.htm
+2011,10,2011-11-10,8:29PM,Oakland Raiders,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201111100sdg.htm
+2011,10,2011-11-13,1:02PM,Buffalo Bills,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201111130dal.htm
+2011,10,2011-11-13,1:02PM,Pittsburgh Steelers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201111130cin.htm
+2011,10,2011-11-13,1:02PM,Arizona Cardinals,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201111130phi.htm
+2011,10,2011-11-13,1:02PM,Jacksonville Jaguars,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201111130clt.htm
+2011,10,2011-11-13,1:02PM,Houston Texans,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201111130tam.htm
+2011,10,2011-11-13,1:03PM,New Orleans Saints,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201111130atl.htm
+2011,10,2011-11-13,1:03PM,St. Louis Rams,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201111130cle.htm
+2011,10,2011-11-13,1:03PM,Denver Broncos,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201111130kan.htm
+2011,10,2011-11-13,1:03PM,Washington Redskins,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201111130mia.htm
+2011,10,2011-11-13,1:04PM,Tennessee Titans,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201111130car.htm
+2011,10,2011-11-13,4:06PM,Baltimore Ravens,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201111130sea.htm
+2011,10,2011-11-13,4:15PM,New York Giants,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201111130sfo.htm
+2011,10,2011-11-13,4:16PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/201111130chi.htm
+2011,10,2011-11-13,8:31PM,New England Patriots,New York Jets,https://www.pro-football-reference.com/boxscores/201111130nyj.htm
+2011,10,2011-11-14,8:40PM,Minnesota Vikings,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201111140gnb.htm
+2011,11,2011-11-17,8:30PM,New York Jets,Denver Broncos,https://www.pro-football-reference.com/boxscores/201111170den.htm
+2011,11,2011-11-20,1:02PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201111200mia.htm
+2011,11,2011-11-20,1:02PM,Carolina Panthers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201111200det.htm
+2011,11,2011-11-20,1:02PM,Cincinnati Bengals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201111200rav.htm
+2011,11,2011-11-20,1:02PM,Jacksonville Jaguars,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201111200cle.htm
+2011,11,2011-11-20,1:02PM,Tampa Bay Buccaneers,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201111200gnb.htm
+2011,11,2011-11-20,1:03PM,Dallas Cowboys,Washington Redskins,https://www.pro-football-reference.com/boxscores/201111200was.htm
+2011,11,2011-11-20,1:05PM,Oakland Raiders,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201111200min.htm
+2011,11,2011-11-20,4:05PM,Arizona Cardinals,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201111200sfo.htm
+2011,11,2011-11-20,4:05PM,Seattle Seahawks,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201111200ram.htm
+2011,11,2011-11-20,4:15PM,Tennessee Titans,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201111200atl.htm
+2011,11,2011-11-20,4:16PM,San Diego Chargers,Chicago Bears,https://www.pro-football-reference.com/boxscores/201111200chi.htm
+2011,11,2011-11-20,8:32PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/201111200nyg.htm
+2011,11,2011-11-21,8:40PM,Kansas City Chiefs,New England Patriots,https://www.pro-football-reference.com/boxscores/201111210nwe.htm
+2011,12,2011-11-24,12:35PM,Green Bay Packers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201111240det.htm
+2011,12,2011-11-24,4:16PM,Miami Dolphins,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201111240dal.htm
+2011,12,2011-11-24,8:29PM,San Francisco 49ers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201111240rav.htm
+2011,12,2011-11-27,1:00PM,Arizona Cardinals,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201111270ram.htm
+2011,12,2011-11-27,1:02PM,Minnesota Vikings,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201111270atl.htm
+2011,12,2011-11-27,1:02PM,Buffalo Bills,New York Jets,https://www.pro-football-reference.com/boxscores/201111270nyj.htm
+2011,12,2011-11-27,1:02PM,Cleveland Browns,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201111270cin.htm
+2011,12,2011-11-27,1:02PM,Tampa Bay Buccaneers,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201111270oti.htm
+2011,12,2011-11-27,1:03PM,Carolina Panthers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201111270clt.htm
+2011,12,2011-11-27,1:03PM,Houston Texans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201111270jax.htm
+2011,12,2011-11-27,4:05PM,Chicago Bears,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201111270rai.htm
+2011,12,2011-11-27,4:07PM,Washington Redskins,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201111270sea.htm
+2011,12,2011-11-27,4:15PM,Denver Broncos,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201111270sdg.htm
+2011,12,2011-11-27,4:15PM,New England Patriots,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201111270phi.htm
+2011,12,2011-11-27,8:31PM,Pittsburgh Steelers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201111270kan.htm
+2011,12,2011-11-28,8:40PM,New York Giants,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201111280nor.htm
+2011,13,2011-12-01,8:29PM,Philadelphia Eagles,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201112010sea.htm
+2011,13,2011-12-04,1:02PM,Tennessee Titans,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201112040buf.htm
+2011,13,2011-12-04,1:02PM,Carolina Panthers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201112040tam.htm
+2011,13,2011-12-04,1:02PM,Cincinnati Bengals,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201112040pit.htm
+2011,13,2011-12-04,1:02PM,Indianapolis Colts,New England Patriots,https://www.pro-football-reference.com/boxscores/201112040nwe.htm
+2011,13,2011-12-04,1:03PM,Atlanta Falcons,Houston Texans,https://www.pro-football-reference.com/boxscores/201112040htx.htm
+2011,13,2011-12-04,1:03PM,Kansas City Chiefs,Chicago Bears,https://www.pro-football-reference.com/boxscores/201112040chi.htm
+2011,13,2011-12-04,1:03PM,Oakland Raiders,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201112040mia.htm
+2011,13,2011-12-04,1:03PM,New York Jets,Washington Redskins,https://www.pro-football-reference.com/boxscores/201112040was.htm
+2011,13,2011-12-04,1:05PM,Denver Broncos,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201112040min.htm
+2011,13,2011-12-04,4:05PM,Baltimore Ravens,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201112040cle.htm
+2011,13,2011-12-04,4:15PM,Dallas Cowboys,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201112040crd.htm
+2011,13,2011-12-04,4:15PM,Green Bay Packers,New York Giants,https://www.pro-football-reference.com/boxscores/201112040nyg.htm
+2011,13,2011-12-04,4:15PM,St. Louis Rams,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201112040sfo.htm
+2011,13,2011-12-04,8:31PM,Detroit Lions,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201112040nor.htm
+2011,13,2011-12-05,8:41PM,San Diego Chargers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201112050jax.htm
+2011,14,2011-12-08,8:28PM,Cleveland Browns,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201112080pit.htm
+2011,14,2011-12-11,1:02PM,Houston Texans,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201112110cin.htm
+2011,14,2011-12-11,1:02PM,Indianapolis Colts,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201112110rav.htm
+2011,14,2011-12-11,1:02PM,Kansas City Chiefs,New York Jets,https://www.pro-football-reference.com/boxscores/201112110nyj.htm
+2011,14,2011-12-11,1:03PM,Minnesota Vikings,Detroit Lions,https://www.pro-football-reference.com/boxscores/201112110det.htm
+2011,14,2011-12-11,1:03PM,Tampa Bay Buccaneers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201112110jax.htm
+2011,14,2011-12-11,1:03PM,Philadelphia Eagles,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201112110mia.htm
+2011,14,2011-12-11,1:03PM,New Orleans Saints,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201112110oti.htm
+2011,14,2011-12-11,1:03PM,New England Patriots,Washington Redskins,https://www.pro-football-reference.com/boxscores/201112110was.htm
+2011,14,2011-12-11,1:04PM,Atlanta Falcons,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201112110car.htm
+2011,14,2011-12-11,4:05PM,Chicago Bears,Denver Broncos,https://www.pro-football-reference.com/boxscores/201112110den.htm
+2011,14,2011-12-11,4:05PM,San Francisco 49ers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201112110crd.htm
+2011,14,2011-12-11,4:15PM,Buffalo Bills,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201112110sdg.htm
+2011,14,2011-12-11,4:15PM,Oakland Raiders,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201112110gnb.htm
+2011,14,2011-12-11,8:30PM,New York Giants,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201112110dal.htm
+2011,14,2011-12-12,8:40PM,St. Louis Rams,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201112120sea.htm
+2011,15,2011-12-15,8:29PM,Jacksonville Jaguars,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201112150atl.htm
+2011,15,2011-12-17,8:29PM,Dallas Cowboys,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/201112170tam.htm
+2011,15,2011-12-18,1:00PM,Cincinnati Bengals,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201112180ram.htm
+2011,15,2011-12-18,1:02PM,Miami Dolphins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201112180buf.htm
+2011,15,2011-12-18,1:02PM,Washington Redskins,New York Giants,https://www.pro-football-reference.com/boxscores/201112180nyg.htm
+2011,15,2011-12-18,1:03PM,Carolina Panthers,Houston Texans,https://www.pro-football-reference.com/boxscores/201112180htx.htm
+2011,15,2011-12-18,1:03PM,Seattle Seahawks,Chicago Bears,https://www.pro-football-reference.com/boxscores/201112180chi.htm
+2011,15,2011-12-18,1:03PM,Tennessee Titans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201112180clt.htm
+2011,15,2011-12-18,1:03PM,Green Bay Packers,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201112180kan.htm
+2011,15,2011-12-18,1:05PM,New Orleans Saints,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201112180min.htm
+2011,15,2011-12-18,4:05PM,Detroit Lions,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201112180rai.htm
+2011,15,2011-12-18,4:15PM,Cleveland Browns,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201112180crd.htm
+2011,15,2011-12-18,4:16PM,New England Patriots,Denver Broncos,https://www.pro-football-reference.com/boxscores/201112180den.htm
+2011,15,2011-12-18,4:16PM,New York Jets,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201112180phi.htm
+2011,15,2011-12-18,8:30PM,Baltimore Ravens,San Diego Chargers,https://www.pro-football-reference.com/boxscores/201112180sdg.htm
+2011,15,2011-12-19,9:00PM,Pittsburgh Steelers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201112190sfo.htm
+2011,16,2011-12-22,8:29PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/201112220clt.htm
+2011,16,2011-12-24,1:02PM,Denver Broncos,Buffalo Bills,https://www.pro-football-reference.com/boxscores/201112240buf.htm
+2011,16,2011-12-24,1:02PM,Arizona Cardinals,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201112240cin.htm
+2011,16,2011-12-24,1:02PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/201112240oti.htm
+2011,16,2011-12-24,1:02PM,Miami Dolphins,New England Patriots,https://www.pro-football-reference.com/boxscores/201112240nwe.htm
+2011,16,2011-12-24,1:02PM,St. Louis Rams,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/201112240pit.htm
+2011,16,2011-12-24,1:03PM,Cleveland Browns,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201112240rav.htm
+2011,16,2011-12-24,1:03PM,Oakland Raiders,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/201112240kan.htm
+2011,16,2011-12-24,1:03PM,New York Giants,New York Jets,https://www.pro-football-reference.com/boxscores/201112240nyj.htm
+2011,16,2011-12-24,1:04PM,Tampa Bay Buccaneers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/201112240car.htm
+2011,16,2011-12-24,1:05PM,Minnesota Vikings,Washington Redskins,https://www.pro-football-reference.com/boxscores/201112240was.htm
+2011,16,2011-12-24,4:05PM,San Diego Chargers,Detroit Lions,https://www.pro-football-reference.com/boxscores/201112240det.htm
+2011,16,2011-12-24,4:15PM,Philadelphia Eagles,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/201112240dal.htm
+2011,16,2011-12-24,4:16PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/201112240sea.htm
+2011,16,2011-12-25,8:30PM,Chicago Bears,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201112250gnb.htm
+2011,16,2011-12-26,8:40PM,Atlanta Falcons,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201112260nor.htm
+2011,17,2012-01-01,1:00PM,San Francisco 49ers,St. Louis Rams,https://www.pro-football-reference.com/boxscores/201201010ram.htm
+2011,17,2012-01-01,1:02PM,Buffalo Bills,New England Patriots,https://www.pro-football-reference.com/boxscores/201201010nwe.htm
+2011,17,2012-01-01,1:02PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201201010gnb.htm
+2011,17,2012-01-01,1:02PM,Tennessee Titans,Houston Texans,https://www.pro-football-reference.com/boxscores/201201010htx.htm
+2011,17,2012-01-01,1:02PM,New York Jets,Miami Dolphins,https://www.pro-football-reference.com/boxscores/201201010mia.htm
+2011,17,2012-01-01,1:02PM,Washington Redskins,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/201201010phi.htm
+2011,17,2012-01-01,1:03PM,Carolina Panthers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201201010nor.htm
+2011,17,2012-01-01,1:03PM,Indianapolis Colts,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/201201010jax.htm
+2011,17,2012-01-01,1:05PM,Chicago Bears,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/201201010min.htm
+2011,17,2012-01-01,4:15PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/201201010crd.htm
+2011,17,2012-01-01,4:15PM,San Diego Chargers,Oakland Raiders,https://www.pro-football-reference.com/boxscores/201201010rai.htm
+2011,17,2012-01-01,4:16PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/201201010cin.htm
+2011,17,2012-01-01,4:16PM,Pittsburgh Steelers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/201201010cle.htm
+2011,17,2012-01-01,4:16PM,Kansas City Chiefs,Denver Broncos,https://www.pro-football-reference.com/boxscores/201201010den.htm
+2011,17,2012-01-01,4:17PM,Tampa Bay Buccaneers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/201201010atl.htm
+2011,17,2012-01-01,8:31PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/201201010nyg.htm
+2011,,Playoffs,,,,
+2011,WildCard,2012-01-07,4:35PM,Cincinnati Bengals,Houston Texans,https://www.pro-football-reference.com/boxscores/201201070htx.htm
+2011,WildCard,2012-01-07,8:09PM,Detroit Lions,New Orleans Saints,https://www.pro-football-reference.com/boxscores/201201070nor.htm
+2011,WildCard,2012-01-08,1:06PM,Atlanta Falcons,New York Giants,https://www.pro-football-reference.com/boxscores/201201080nyg.htm
+2011,WildCard,2012-01-08,4:40PM,Pittsburgh Steelers,Denver Broncos,https://www.pro-football-reference.com/boxscores/201201080den.htm
+2011,Division,2012-01-14,4:35PM,New Orleans Saints,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201201140sfo.htm
+2011,Division,2012-01-14,8:15PM,Denver Broncos,New England Patriots,https://www.pro-football-reference.com/boxscores/201201140nwe.htm
+2011,Division,2012-01-15,1:05PM,Houston Texans,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/201201150rav.htm
+2011,Division,2012-01-15,4:40PM,New York Giants,Green Bay Packers,https://www.pro-football-reference.com/boxscores/201201150gnb.htm
+2011,ConfChamp,2012-01-22,3:05PM,Baltimore Ravens,New England Patriots,https://www.pro-football-reference.com/boxscores/201201220nwe.htm
+2011,ConfChamp,2012-01-22,6:41PM,New York Giants,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/201201220sfo.htm
+2011,SuperBowl,2012-02-05,6:30PM,New England Patriots,New York Giants,https://www.pro-football-reference.com/boxscores/201202050nyg.htm

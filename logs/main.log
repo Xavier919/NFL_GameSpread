@@ -1,0 +1,83 @@
+2025-01-11 20:20:13,865 - main - INFO - Scraping schedules from 2010 to 2024
+2025-01-11 20:20:17,291 - main - INFO - Processing game data for each season
+2025-01-11 20:20:17,291 - main - INFO - Processing 2010 season
+2025-01-11 20:20:17,291 - main - INFO - Processing 2011 season
+2025-01-11 20:20:17,291 - main - INFO - Processing 2012 season
+2025-01-11 20:20:17,291 - main - INFO - Processing 2013 season
+2025-01-11 20:20:17,291 - main - INFO - Processing 2014 season
+2025-01-11 20:20:17,299 - main - INFO - Processing 2015 season
+2025-01-11 20:20:17,299 - main - INFO - Processing 2016 season
+2025-01-11 20:20:17,308 - main - INFO - Processing 2017 season
+2025-01-11 20:20:17,308 - main - INFO - Processing 2018 season
+2025-01-11 20:20:17,308 - main - INFO - Processing 2019 season
+2025-01-11 20:20:17,308 - main - INFO - Processing 2020 season
+2025-01-11 20:20:17,315 - main - INFO - Processing 2021 season
+2025-01-11 20:20:17,315 - main - INFO - Processing 2022 season
+2025-01-11 20:20:17,317 - main - INFO - Processing 2023 season
+2025-01-11 20:20:17,322 - main - INFO - Processing 2024 season
+2025-01-11 20:24:10,701 - main - INFO - Scraping schedules from 2010 to 2024
+2025-01-11 20:24:12,749 - main - INFO - Processing game data for each season
+2025-01-11 20:24:12,749 - main - INFO - Processing 2010 season
+2025-01-11 20:24:12,749 - main - INFO - Processing 2011 season
+2025-01-11 20:24:12,749 - main - INFO - Processing 2012 season
+2025-01-11 20:24:12,749 - main - INFO - Processing 2013 season
+2025-01-11 20:24:12,749 - main - INFO - Processing 2014 season
+2025-01-11 20:24:12,749 - main - INFO - Processing 2015 season
+2025-01-11 20:24:12,749 - main - INFO - Processing 2016 season
+2025-01-11 20:24:12,749 - main - INFO - Processing 2017 season
+2025-01-11 20:24:12,757 - main - INFO - Processing 2018 season
+2025-01-11 20:24:12,758 - main - INFO - Processing 2019 season
+2025-01-11 20:24:12,758 - main - INFO - Processing 2020 season
+2025-01-11 20:24:12,758 - main - INFO - Processing 2021 season
+2025-01-11 20:24:12,758 - main - INFO - Processing 2022 season
+2025-01-11 20:24:12,758 - main - INFO - Processing 2023 season
+2025-01-11 20:24:12,758 - main - INFO - Processing 2024 season
+2025-01-11 20:25:15,052 - main - INFO - Scraping schedules from 2010 to 2024
+2025-01-11 20:25:17,471 - main - INFO - Processing game data for each season
+2025-01-11 20:25:17,471 - main - INFO - Processing 2010 season
+2025-01-11 20:25:17,471 - main - INFO - Processing 2011 season
+2025-01-11 20:25:17,471 - main - INFO - Processing 2012 season
+2025-01-11 20:25:17,479 - main - INFO - Processing 2013 season
+2025-01-11 20:25:17,484 - main - INFO - Processing 2014 season
+2025-01-11 20:25:17,484 - main - INFO - Processing 2015 season
+2025-01-11 20:25:17,487 - main - INFO - Processing 2016 season
+2025-01-11 20:25:17,487 - main - INFO - Processing 2017 season
+2025-01-11 20:25:17,487 - main - INFO - Processing 2018 season
+2025-01-11 20:25:17,487 - main - INFO - Processing 2019 season
+2025-01-11 20:25:17,487 - main - INFO - Processing 2020 season
+2025-01-11 20:25:17,487 - main - INFO - Processing 2021 season
+2025-01-11 20:25:17,487 - main - INFO - Processing 2022 season
+2025-01-11 20:25:17,495 - main - INFO - Processing 2023 season
+2025-01-11 20:25:17,495 - main - INFO - Processing 2024 season
+2025-01-11 20:27:47,406 - main - INFO - Scraping schedules from 2010 to 2024
+2025-01-11 20:28:45,879 - main - ERROR - Error in main execution: ['week', 'game_url']
+2025-01-11 20:30:14,350 - main - INFO - Scraping schedules from 2010 to 2024
+2025-01-11 20:31:16,735 - main - INFO - Processing game data for each season
+2025-01-11 20:31:16,735 - main - INFO - Processing 2010 season
+2025-01-11 20:33:06,826 - main - INFO - Scraping schedules from 2010 to 2011
+2025-01-11 20:33:06,826 - main - INFO - Processing game data for each season
+2025-01-11 20:33:06,826 - main - INFO - Processing 2010 season
+2025-01-11 20:34:22,902 - main - INFO - Scraping schedules from 2010 to 2011
+2025-01-11 20:34:22,903 - main - INFO - Processing game data for each season
+2025-01-11 20:34:22,903 - main - INFO - Processing 2010 season
+2025-01-11 20:35:48,176 - main - INFO - Scraping schedules from 2010 to 2011
+2025-01-11 20:35:48,177 - main - INFO - Processing game data for each season
+2025-01-11 20:35:48,177 - main - INFO - Processing 2010 season
+2025-01-11 20:36:39,333 - main - INFO - Scraping schedules from 2010 to 2011
+2025-01-11 20:36:39,333 - main - INFO - Processing game data for each season
+2025-01-11 20:36:39,335 - main - INFO - Processing 2010 season
+2025-01-11 20:38:36,101 - main - INFO - Scraping schedules from 2010 to 2011
+2025-01-11 20:38:36,101 - main - INFO - Processing game data for each season
+2025-01-11 20:38:36,101 - main - INFO - Processing 2010 season
+2025-01-11 20:43:51,505 - main - INFO - Processing 2011 season
+2025-01-11 21:08:44,592 - main - INFO - Scraping schedules from 2010 to 2011
+2025-01-11 21:08:44,593 - main - INFO - Processing game data for each season
+2025-01-11 21:08:44,593 - main - INFO - Processing 2010 season
+2025-01-11 21:11:43,407 - main - ERROR - Error in main execution: [Errno 2] No such file or directory: 'data/raw/schedules/schedule.csv'
+2025-01-11 21:12:56,321 - main - INFO - Processing game data for each season
+2025-01-11 21:12:56,321 - main - INFO - Processing 2010 season
+2025-01-11 21:12:56,321 - main - ERROR - Error in main execution: 'NFLDataProcessor' object has no attribute 'process_season'
+2025-01-11 21:14:30,144 - main - INFO - Processing game data for each season
+2025-01-11 21:14:30,145 - main - INFO - Processing 2010 season
+2025-01-11 21:18:39,905 - main - INFO - Processing game data for each season
+2025-01-11 21:18:39,906 - main - INFO - Processing 2010 season
