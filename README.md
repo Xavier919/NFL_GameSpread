@@ -64,9 +64,4 @@ The project uses various features including:
 - Strength of schedule
 ## Disclaimer
 This project is for educational and research purposes only. It is not intended for and should not be used for gambling or betting purposes. The NFL data used in this project is owned by the National Football League and its partners. This project does not claim ownership of any NFL data or statistics.
-## License
-[Insert your chosen license here]
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-## Contact
-[Your contact information or preferred method of contact]
+
