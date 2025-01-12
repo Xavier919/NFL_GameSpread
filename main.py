@@ -29,7 +29,7 @@ def main():
         
         # Process each season
         logger.info("Processing game data for each season")
-        for year in range(2010, 2011):
+        for year in range(2023, 2024):
             logger.info(f"Processing {year} season")
             data_processor.process_season(year)
             
