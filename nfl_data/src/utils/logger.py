@@ -2,31 +2,22 @@ import logging
 import sys
 from pathlib import Path
 
-def setup_logger(name: str) -> logging.Logger:
-    """Configure and return a logger instance"""
-    
-    # Create logs directory if it doesn't exist
-    log_dir = Path("logs")
-    log_dir.mkdir(exist_ok=True)
-    
-    # Create logger
+def setup_logger(name: str, clear_existing_handlers: bool = False) -> logging.Logger:
+    """Setup logger with consistent configuration"""
     logger = logging.getLogger(name)
-    logger.setLevel(logging.INFO)
     
-    # Create formatters
-    formatter = logging.Formatter(
-        '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-    )
+    # Clear existing handlers if requested
+    if clear_existing_handlers:
+        logger.handlers.clear()
     
-    # Create handlers
-    console_handler = logging.StreamHandler(sys.stdout)
-    console_handler.setFormatter(formatter)
-    
-    file_handler = logging.FileHandler(f"logs/{name}.log")
-    file_handler.setFormatter(formatter)
-    
-    # Add handlers to logger
-    logger.addHandler(console_handler)
-    logger.addHandler(file_handler)
+    # Only add handler if logger doesn't already have handlers
+    if not logger.handlers:
+        handler = logging.StreamHandler()
+        formatter = logging.Formatter(
+            '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+        )
+        handler.setFormatter(formatter)
+        logger.addHandler(handler)
+        logger.setLevel(logging.INFO)
     
     return logger
