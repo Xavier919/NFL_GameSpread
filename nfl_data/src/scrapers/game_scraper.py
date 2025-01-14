@@ -146,6 +146,64 @@ class GameScraper:
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
+        
+        # More conservative rate limiting configuration
+        self.rate_limits = {
+            'pro-football-reference.com': {
+                'requests_per_minute': 10,  # Reduced from 20
+                'min_delay': 8,  # Increased from 3
+                'backoff_factor': 2.0,  # Increased from 1.5
+                'max_retries': 5,  # Increased from 3
+                'jitter': 3  # Add random jitter of up to 3 seconds
+            }
+        }
+        self.domain_states = {}  # Track request timing per domain
+        
+    def _get_domain_state(self, url: str) -> Dict[str, Any]:
+        """Get or create domain state for rate limiting"""
+        domain = urlparse(url).netloc
+        if domain not in self.domain_states:
+            self.domain_states[domain] = {
+                'last_request': 0,
+                'current_delay': self.rate_limits.get(domain, {}).get('min_delay', 8),
+                'request_count': 0,
+                'last_reset': time.time()
+            }
+        return self.domain_states[domain]
+
+    def _wait_for_rate_limit(self, url: str) -> None:
+        """Implement rate limiting logic with jitter"""
+        domain = urlparse(url).netloc
+        state = self._get_domain_state(url)
+        limits = self.rate_limits.get(domain, {})
+        
+        # Add random jitter to delays
+        jitter = random.uniform(0, limits.get('jitter', 3))
+        
+        # Reset counter if minute has passed
+        current_time = time.time()
+        if current_time - state['last_reset'] >= 60:
+            state['request_count'] = 0
+            state['last_reset'] = current_time
+            state['current_delay'] = limits.get('min_delay', 8)  # Reset delay
+        
+        # Check rate limit
+        if state['request_count'] >= limits.get('requests_per_minute', 10):
+            sleep_time = 60 - (current_time - state['last_reset']) + jitter
+            if sleep_time > 0:
+                self.logger.info(f"Rate limit reached, sleeping for {sleep_time:.1f}s")
+                time.sleep(sleep_time)
+                state['request_count'] = 0
+                state['last_reset'] = time.time()
+        
+        # Ensure minimum delay between requests (with jitter)
+        elapsed = current_time - state['last_request']
+        if elapsed < state['current_delay']:
+            sleep_time = state['current_delay'] - elapsed + jitter
+            time.sleep(sleep_time)
+        
+        state['last_request'] = time.time()
+        state['request_count'] += 1
 
     def get_dynamic_content(self, url: str) -> Optional[str]:
         """Get dynamic content using Selenium when needed."""
@@ -458,52 +516,70 @@ class GameScraper:
         
     def scrape_tables(self, url: str) -> Tuple[Optional[Dict[str, pd.DataFrame]], Optional[str]]:
         """
-        Scrape all NFL tables from the given URL with enhanced error handling.
-        
-        Args:
-            url (str): The URL to scrape tables from
-            
-        Returns:
-            Tuple[Optional[Dict[str, pd.DataFrame]], Optional[str]]: (Tables dict, error message if any)
+        Scrape all NFL tables from the given URL with enhanced rate limiting.
         """
-        try:
-            logger.info(f"Scraping tables from {url}")
-            response = requests.get(url, headers=self.headers, timeout=10)
-            response.raise_for_status()  # Raise exception for bad status codes
-            
-            tree = html.fromstring(response.content)
-            tables = tree.xpath('//table')
-            
-            if not tables:
-                logger.warning("No tables found in initial HTML")
-                return None, "No tables found in the page"
-            
-            if not any(table.attrib.get('id', '') == 'div_player_offense' for table in tables):
-                logger.info("Attempting to get dynamic content")
-                dynamic_content = self.get_dynamic_content(url)
-                if dynamic_content:
-                    tree = html.fromstring(dynamic_content)
-                    tables = tree.xpath('//table')
-            
-            all_tables = {}
-            for idx, table in enumerate(tables):
-                table_id = table.attrib.get('id', f'Table_{idx}')
-                df = self.parse_table(table)
-                if df is not None and not df.empty:
-                    all_tables[table_id] = df
-            
-            if not all_tables:
-                return None, "No valid tables were parsed"
+        retries = 0
+        max_retries = self.rate_limits.get(urlparse(url).netloc, {}).get('max_retries', 5)
+        initial_delay = 2  # Add initial delay after 429
+        
+        while retries < max_retries:
+            try:
+                self._wait_for_rate_limit(url)
+                self._rotate_session()
                 
-            logger.info(f"Successfully parsed {len(all_tables)} tables")
-            return all_tables, None
-            
-        except requests.exceptions.RequestException as e:
-            logger.error(f"Request error: {str(e)}")
-            return None, f"Failed to fetch URL: {str(e)}"
-        except Exception as e:
-            logger.error(f"Unexpected error: {str(e)}")
-            return None, str(e)
+                logger.info(f"Scraping tables from {url}")
+                response = self.session.get(url, timeout=15)  # Increased timeout
+                response.raise_for_status()
+                
+                tree = html.fromstring(response.content)
+                tables = tree.xpath('//table')
+                
+                if not tables:
+                    logger.warning("No tables found in initial HTML")
+                    return None, "No tables found in the page"
+                
+                if not any(table.attrib.get('id', '') == 'div_player_offense' for table in tables):
+                    logger.info("Attempting to get dynamic content")
+                    dynamic_content = self.get_dynamic_content(url)
+                    if dynamic_content:
+                        tree = html.fromstring(dynamic_content)
+                        tables = tree.xpath('//table')
+                
+                all_tables = {}
+                for idx, table in enumerate(tables):
+                    table_id = table.attrib.get('id', f'Table_{idx}')
+                    df = self.parse_table(table)
+                    if df is not None and not df.empty:
+                        all_tables[table_id] = df
+                
+                if not all_tables:
+                    return None, "No valid tables were parsed"
+                    
+                logger.info(f"Successfully parsed {len(all_tables)} tables")
+                return all_tables, None
+                
+            except requests.exceptions.HTTPError as e:
+                if e.response.status_code == 429:
+                    retries += 1
+                    if retries < max_retries:
+                        # Calculate delay with initial penalty and exponential backoff
+                        domain = urlparse(url).netloc
+                        state = self._get_domain_state(url)
+                        backoff_factor = self.rate_limits.get(domain, {}).get('backoff_factor', 2.0)
+                        
+                        # Add jitter to the delay
+                        jitter = random.uniform(0, self.rate_limits.get(domain, {}).get('jitter', 3))
+                        wait_time = (initial_delay * (backoff_factor ** (retries - 1))) + jitter
+                        
+                        logger.warning(f"Rate limited (429). Retry {retries}/{max_retries} after {wait_time:.1f}s")
+                        time.sleep(wait_time)
+                        continue
+                return None, f"Failed to fetch URL: {str(e)}"
+            except Exception as e:
+                logger.error(f"Unexpected error: {str(e)}")
+                return None, str(e)
+        
+        return None, "Max retries exceeded"
 
     def parse_drive_stats(self, home_drives_df: Optional[pd.DataFrame], away_drives_df: Optional[pd.DataFrame]) -> Dict[str, Any]:
         """
@@ -617,18 +693,6 @@ class GameScraper:
                 raise ValueError("No tables dictionary provided")
                 
             game_vector = {}
-            
-            # Get team names
-            if 'Table_16' in tables_dict and tables_dict['Table_16'] is not None:
-                teams_df = tables_dict['Table_16']
-                if len(teams_df) >= 2:
-                    try:
-                        away_team_full = teams_df.iloc[0][1]
-                        home_team_full = teams_df.iloc[1][1]
-                        game_vector['away_team_id'] = away_team_full.split()[-1].lower()
-                        game_vector['home_team_id'] = home_team_full.split()[-1].lower()
-                    except Exception as e:
-                        logger.warning(f"Error extracting team names: {str(e)}")
             
             # Get final scores
             if 'scoring' in tables_dict and tables_dict['scoring'] is not None:
