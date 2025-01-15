@@ -56,7 +56,7 @@ def main():
         
         # Save results
         if games_data:
-            output_file = f'data/processed/nfl_boxscore_{args.season}'
+            output_file = f'data/processed/game_data/nfl_boxscore_{args.season}'
             if args.start_week:
                 output_file += f'_week_{args.start_week}'
                 if args.end_week:
