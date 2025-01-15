@@ -509,6 +509,52 @@ class GameScraper:
                     except Exception as e:
                         logger.warning(f"Error parsing fumbles: {str(e)}")
                         
+                # Add Rushing Stats (format: Attempts-Yards-TDs)
+                elif stat_name == 'Rush-Yds-TDs':
+                    try:
+                        away_rush = self.parse_stat_value(vis_val, 'rush')
+                        home_rush = self.parse_stat_value(home_val, 'rush')
+                        
+                        if away_rush:
+                            stats_dict.update({
+                                'away_rush_attempts': away_rush['attempts'],
+                                'away_rush_yards': away_rush['yards'],
+                                'away_rush_tds': away_rush['tds']
+                            })
+                        if home_rush:
+                            stats_dict.update({
+                                'home_rush_attempts': home_rush['attempts'],
+                                'home_rush_yards': home_rush['yards'],
+                                'home_rush_tds': home_rush['tds']
+                            })
+                    except Exception as e:
+                        logger.warning(f"Error parsing rushing stats: {str(e)}")
+
+                # Add Passing Stats (format: Comp-Att-Yds-TD-INT)
+                elif stat_name == 'Cmp-Att-Yd-TD-INT':
+                    try:
+                        away_pass = self.parse_stat_value(vis_val, 'pass')
+                        home_pass = self.parse_stat_value(home_val, 'pass')
+                        
+                        if away_pass:
+                            stats_dict.update({
+                                'away_pass_completions': away_pass['completions'],
+                                'away_pass_attempts': away_pass['attempts'],
+                                'away_pass_yards': away_pass['yards'],
+                                'away_pass_tds': away_pass['tds'],
+                                'away_pass_ints': away_pass['ints']
+                            })
+                        if home_pass:
+                            stats_dict.update({
+                                'home_pass_completions': home_pass['completions'],
+                                'home_pass_attempts': home_pass['attempts'],
+                                'home_pass_yards': home_pass['yards'],
+                                'home_pass_tds': home_pass['tds'],
+                                'home_pass_ints': home_pass['ints']
+                            })
+                    except Exception as e:
+                        logger.warning(f"Error parsing passing stats: {str(e)}")
+
         except Exception as e:
             logger.error(f"Error parsing team stats: {str(e)}")
             
