@@ -1,8 +1,10 @@
 import pandas as pd
 from pathlib import Path
 import logging
-from typing import List
+from typing import List, Dict
 import sys
+import numpy as np
+import pickle
 
 # Add project root to path
 sys.path.append(str(Path(__file__).parent.parent))
@@ -23,26 +25,59 @@ def load_game_data(years: List[int]) -> pd.DataFrame:
     
     return pd.concat(dfs, ignore_index=True) if dfs else None
 
+def display_feature_importance(coefficients: Dict[str, float], logger: logging.Logger):
+    """Display the importance of each feature based on coefficients"""
+    # Sort coefficients by absolute value to show most influential features
+    sorted_coefs = sorted(
+        [(k, v) for k, v in coefficients.items() if k != 'intercept'],
+        key=lambda x: abs(x[1]),
+        reverse=True
+    )
+    
+    logger.info("\nFeature Coefficients (sorted by importance):")
+    logger.info("-" * 50)
+    for feature, coef in sorted_coefs:
+        logger.info(f"{feature:30} {coef:>10.4f}")
+        
+    if 'intercept' in coefficients:
+        logger.info("-" * 50)
+        logger.info(f"{'Intercept':30} {coefficients['intercept']:>10.4f}")
+
+def find_available_years(start_year: int = 2010, end_year: int = 2024) -> List[int]:
+    """Find all years that have available data files"""
+    available_years = []
+    for year in range(start_year, end_year + 1):
+        file_path = Path(f'data/processed/game_data/nfl_boxscore_{year}.csv')
+        if file_path.exists():
+            available_years.append(year)
+    return available_years
+
 def main():
     # Setup logging
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__name__)
     
-    # Load all game data from 2018-2023
-    years = range(2018, 2024)
-    game_data = load_game_data(years)
+    # Find and load all available game data
+    available_years = find_available_years()
+    logger.info(f"Found data for years: {available_years}")
+    
+    game_data = load_game_data(available_years)
     
     if game_data is None:
         logger.error("No game data loaded")
         return
         
+    # Calculate actual point differential (this is what we want to predict)
+    game_data['point_differential'] = -(game_data['home_score'] - game_data['away_score'])
+    
     # Initialize feature engineer and compute features
     engineer = FeatureEngineer(n_games=10)
     processed_data = engineer.compute_all_features(game_data)
     
     # Initialize and train model
     predictor = SpreadPredictor()
-    feature_vectors, targets = processed_data[predictor.get_feature_columns()], processed_data['spread']
+    # Use point_differential instead of spread as target
+    feature_vectors, targets = processed_data[predictor.get_feature_columns()], processed_data['point_differential']
     
     # Train and evaluate model
     X, y, feature_names = predictor.prepare_features(feature_vectors, targets)
@@ -52,6 +87,22 @@ def main():
     logger.info(f"Average MSE: {np.mean(metrics['mse_scores']):.2f}")
     logger.info(f"Average MAE: {np.mean(metrics['mae_scores']):.2f}")
     logger.info(f"Average R2: {np.mean(metrics['r2_scores']):.3f}")
+    
+    # Train final model on all data
+    predictor.model.fit(X, y)
+    
+    # Analyze coefficients
+    coefficients = predictor.analyze_coefficients(feature_names)
+    display_feature_importance(coefficients, logger)
+    
+    # Save model and feature names
+    with open("models/spread_model.pkl", "wb") as f:
+        pickle.dump({
+            "model": predictor.model,
+            "feature_names": feature_names
+        }, f)
+    
+    logger.info("Model saved to models/spread_model.pkl")
 
 if __name__ == "__main__":
     main() 
