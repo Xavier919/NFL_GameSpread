@@ -22,5 +22,5 @@ python scripts/train_spread_model.py
 python scripts/predict_spread.py "San Francisco 49ers" "Dallas Cowboys"
 ```
 ## Disclaimer
-This project is for educational and research purposes only. This project does not claim ownership of any NFL data or statistics.
+This project is for educational and research purposes only and does not claim ownership of any NFL data.
 
