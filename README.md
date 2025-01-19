@@ -5,7 +5,6 @@ This repository contains code for modeling NFL game spreads using historical dat
 The point spread is the predicted scoring differential between two teams in a game. For example, if Team A is favored by 7 points over Team B, the spread would be written as:
 - Team A -7.0
 - Team B +7.0
-This means:
 - If Team A wins by more than 7 points, they "cover" the spread
 - If Team B loses by less than 7 points (or wins), they "cover" the spread
 - If Team A wins by exactly 7 points, it's a "push"
