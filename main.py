@@ -7,8 +7,10 @@ from nfl_data.src.utils.logger import setup_logger
 def main():
     # Set up argument parser
     parser = argparse.ArgumentParser(description='NFL Game Data Scraper')
-    parser.add_argument('--season', type=int, required=True,
-                      help='Season year to scrape (e.g., 2023)')
+    parser.add_argument('--start-season', type=int, required=True,
+                      help='Starting season year to scrape (e.g., 2023)')
+    parser.add_argument('--end-season', type=int, required=True,
+                      help='Ending season year to scrape (e.g., 2023)')
     parser.add_argument('--start-week', type=int,
                       help='Starting week number (optional)')
     parser.add_argument('--end-week', type=int,
@@ -17,7 +19,7 @@ def main():
     args = parser.parse_args()
     
     logger = setup_logger("main")
-    logger.info(f"Processing {args.season} season" + 
+    logger.info(f"Processing seasons {args.start_season}-{args.end_season}" + 
                (f" weeks {args.start_week}-{args.end_week}" if args.start_week else ""))
 
     try:
@@ -27,45 +29,49 @@ def main():
         # Convert week column to integer
         schedule_df['week'] = pd.to_numeric(schedule_df['week'], errors='coerce')
         
-        # Filter for specified season
-        season_schedule = schedule_df[schedule_df['season'] == args.season]
-        
-        if len(season_schedule) == 0:
-            logger.error(f"No games found for season {args.season}")
-            return
+        # Process each season
+        for season in range(args.start_season, args.end_season + 1):
+            logger.info(f"Processing season {season}")
             
-        # Create scraper and processor
-        scraper = GameScraper()
-        processor = NFLDataProcessor(
-            schedule_df=season_schedule,
-            scraper=scraper
-        )
-        
-        # Filter schedule by week range if specified
-        if args.start_week:
-            season_schedule = season_schedule[season_schedule['week'] >= args.start_week]
-        if args.end_week:
-            season_schedule = season_schedule[season_schedule['week'] <= args.end_week]
-        
-        # Process the games
-        games_data = []
-        for _, row in season_schedule.iterrows():
-            game_vector = processor.process_game(row)
-            if game_vector:
-                games_data.append(game_vector)
-        
-        # Save results
-        if games_data:
-            output_file = f'data/processed/game_data/nfl_boxscore_{args.season}'
+            # Filter for current season
+            season_schedule = schedule_df[schedule_df['season'] == season]
+            
+            if len(season_schedule) == 0:
+                logger.warning(f"No games found for season {season}")
+                continue
+                
+            # Create scraper and processor
+            scraper = GameScraper()
+            processor = NFLDataProcessor(
+                schedule_df=season_schedule,
+                scraper=scraper
+            )
+            
+            # Filter schedule by week range if specified
             if args.start_week:
-                output_file += f'_week_{args.start_week}'
-                if args.end_week:
-                    output_file += f'-{args.end_week}'
-            output_file += '.csv'
+                season_schedule = season_schedule[season_schedule['week'] >= args.start_week]
+            if args.end_week:
+                season_schedule = season_schedule[season_schedule['week'] <= args.end_week]
             
-            df = pd.DataFrame(games_data)
-            df.to_csv(output_file, index=False)
-            logger.info(f"Saved {len(games_data)} games to {output_file}")
+            # Process the games
+            games_data = []
+            for _, row in season_schedule.iterrows():
+                game_vector = processor.process_game(row)
+                if game_vector:
+                    games_data.append(game_vector)
+            
+            # Save results for current season
+            if games_data:
+                output_file = f'data/processed/game_data/nfl_boxscore_{season}'
+                if args.start_week:
+                    output_file += f'_week_{args.start_week}'
+                    if args.end_week:
+                        output_file += f'-{args.end_week}'
+                output_file += '.csv'
+                
+                df = pd.DataFrame(games_data)
+                df.to_csv(output_file, index=False)
+                logger.info(f"Saved {len(games_data)} games to {output_file}")
         
     except Exception as e:
         logger.error(f"Error in main execution: {str(e)}")
