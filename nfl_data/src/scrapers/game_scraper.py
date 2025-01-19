@@ -679,7 +679,7 @@ class GameScraper:
         
         # Process home and away drives
         process_drives(home_drives_df, 'home')
-        process_drives(away_drives_df, 'away')
+        process_drives(away_drives_df, 'vis')
         
         return drive_stats
         
@@ -772,7 +772,7 @@ class GameScraper:
             # Get drive statistics
             try:
                 home_drives_df = tables_dict.get('home_drives')
-                away_drives_df = tables_dict.get('away_drives')
+                away_drives_df = tables_dict.get('vis_drives')
                 drive_stats = self.parse_drive_stats(home_drives_df, away_drives_df)
                 game_vector.update(drive_stats)
             except Exception as e:
