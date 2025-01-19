@@ -67,8 +67,16 @@ def main():
         logger.error("No game data loaded")
         return
         
-    # Calculate actual point differential (this is what we want to predict)
-    game_data['point_differential'] = -(game_data['home_score'] - game_data['away_score'])
+    # Calculate actual point differential and other features all at once
+    new_columns = {
+        'point_differential': -(game_data['home_score'] - game_data['away_score'])
+    }
+
+    # Create new DataFrame with all columns at once
+    game_data = pd.concat([
+        game_data,
+        pd.DataFrame(new_columns, index=game_data.index)
+    ], axis=1)
     
     # Initialize feature engineer and compute features
     engineer = FeatureEngineer(n_games=10)
