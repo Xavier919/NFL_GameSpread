@@ -16,6 +16,10 @@ git clone https://github.com/yourusername/NFL_GameSpread.git
 pip install -r requirements.txt
 # Run the scraper to collect data
 python main --start_season 2010 --end_season 2024 
+# Train the spread model
+python scripts/train_spread_model.py
+# Use the trained model to predict future games by specifying the home and away team, respectively
+python scripts/predict_spread.py "San Francisco 49ers" "Dallas Cowboys"
 ```
 ## Disclaimer
 This project is for educational and research purposes only. This project does not claim ownership of any NFL data or statistics.
