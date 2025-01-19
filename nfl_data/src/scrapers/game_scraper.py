@@ -679,7 +679,7 @@ class GameScraper:
         
         # Process home and away drives
         process_drives(home_drives_df, 'home')
-        process_drives(away_drives_df, 'vis')
+        process_drives(away_drives_df, 'away')
         
         return drive_stats
         
