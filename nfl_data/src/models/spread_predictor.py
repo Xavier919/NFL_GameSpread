@@ -5,11 +5,13 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from sklearn.linear_model import LinearRegression
 from typing import Tuple, List, Dict
 import logging
+from nfl_data.src.processors.feature_engineering import FeatureEngineer
 
 class SpreadPredictor:
-    def __init__(self, n_splits: int = 5, random_state: int = 42):
+    def __init__(self, n_splits: int = 5, random_state: int = 42, n_games: int = 10):
         self.n_splits = n_splits
         self.random_state = random_state
+        self.n_games = n_games
         self.logger = logging.getLogger(__name__)
         self.model = LinearRegression()
         
@@ -27,13 +29,16 @@ class SpreadPredictor:
             'home_historical_points_for', 'away_historical_points_for',
             'home_historical_points_against', 'away_historical_points_against',
             
-
+            'home_sack_differential', 'away_sack_differential'
         ]
         
-    def prepare_features(self, feature_vectors: pd.DataFrame, targets: pd.Series) -> Tuple[np.ndarray, np.ndarray, List[str]]:
+    def prepare_features(self, feature_vectors: pd.DataFrame, targets: pd.Series = None) -> Tuple[np.ndarray, np.ndarray, List[str]]:
         """Convert feature DataFrame to numpy arrays and handle missing values"""
-        # Create a DataFrame with both features and target for easier handling
-        data = pd.concat([feature_vectors, targets.rename('spread')], axis=1)
+        if targets is not None:
+            # Create a DataFrame with both features and target for easier handling
+            data = pd.concat([feature_vectors, targets.rename('spread')], axis=1)
+        else:
+            data = feature_vectors.copy()
         
         # Remove rows with NaN values in either features or target
         data_clean = data.dropna()
@@ -43,26 +48,15 @@ class SpreadPredictor:
         if removed_count > 0:
             self.logger.warning(f"Removed {removed_count} rows containing NaN values")
         
-        # Print feature statistics
-        #self.logger.info("\nFeature Statistics:")
-        #for col in feature_vectors.columns:
-        #    stats = data_clean[col].describe()
-        #    self.logger.info(f"\n{col}:")
-        #    self.logger.info(f"Min: {stats['min']:.2f}")
-        #    self.logger.info(f"Max: {stats['max']:.2f}")
-        #    self.logger.info(f"Mean: {stats['mean']:.2f}")
-        #    
-        #    # Check for infinity
-        #    inf_count = np.isinf(data_clean[col]).sum()
-        #    if inf_count > 0:
-        #        self.logger.warning(f"Found {inf_count} infinity values in {col}")
+        # Split back into features and target if targets were provided
+        feature_names = self.get_feature_columns()
+        X = data_clean[feature_names].to_numpy()
+        y = data_clean['spread'].to_numpy() if targets is not None else None
         
-        # Split back into features and target
-        X = data_clean[feature_vectors.columns].to_numpy()
-        y = data_clean['spread'].to_numpy()
-        feature_names = feature_vectors.columns.tolist()
-        
-        return X, y, feature_names
+        if targets is not None:
+            return X, y, feature_names
+        else:
+            return X, feature_names
         
     def train_and_evaluate(self, X: np.ndarray, y: np.ndarray) -> Dict:
         """Perform cross-validation and return metrics"""

@@ -8,12 +8,6 @@ class FeatureEngineer:
     def __init__(self, n_games: int = 10):
         self.n_games = n_games
         self.logger = logging.getLogger(__name__)
-            
-    def add_margin_of_victory(self, df: pd.DataFrame) -> pd.DataFrame:
-        df = df.copy()
-        df['home_margin'] = df['home_score'] - df['away_score']
-        df['away_margin'] = df['away_score'] - df['home_score']
-        return df
         
     def add_yards_per_play(self, df):
         df = df.copy()
@@ -174,19 +168,71 @@ class FeatureEngineer:
         
         return df
     
+    def add_sacks_per_game(self, df):
+        """Add sacks per game metrics for both teams based on historical games."""
+        df = df.copy()
+        df = df.sort_values('date')
+        
+        def calculate_sacks_per_game(team, current_date):
+            # Get previous games where team was either home or away
+            mask = ((df['date'] < current_date) & 
+                   ((df['home_team'] == team) | (df['away_team'] == team)))
+            prev_games = df[mask].tail(self.n_games)
+            
+            if prev_games.empty:
+                return None, None, None
+                
+            sacks_for = 0
+            sacks_against = 0
+            
+            for _, game in prev_games.iterrows():
+                if game['home_team'] == team:
+                    sacks_for += game['away_sacked']  # Sacks by the home team
+                    sacks_against += game['home_sacked']  # Sacks against the home team
+                else:
+                    sacks_for += game['home_sacked']  # Sacks by the away team
+                    sacks_against += game['away_sacked']  # Sacks against the away team
+            
+            n_games = len(prev_games)
+            if n_games == 0:
+                return None, None, None
+            
+            return sacks_for, sacks_against, (sacks_for - sacks_against)  # Return sack differential
+        
+        # Calculate for home teams
+        home_stats = df.apply(lambda row: 
+            calculate_sacks_per_game(row['home_team'], row['date']), axis=1)
+        df['home_sacks_per_game'] = [stats[0] if stats else None for stats in home_stats]
+        df['home_sacks_against_per_game'] = [stats[1] if stats else None for stats in home_stats]
+        df['home_sack_differential'] = [stats[2] if stats else None for stats in home_stats]  # Add sack differential for home team
+        
+        # Calculate for away teams
+        away_stats = df.apply(lambda row: 
+            calculate_sacks_per_game(row['away_team'], row['date']), axis=1)
+        df['away_sacks_per_game'] = [stats[0] if stats else None for stats in away_stats]
+        df['away_sacks_against_per_game'] = [stats[1] if stats else None for stats in away_stats]
+        df['away_sack_differential'] = [stats[2] if stats else None for stats in away_stats]  # Add sack differential for away team
+        
+        # Remove rows where either team has no historical data
+        df = df.dropna(subset=[
+            'home_sacks_per_game', 'home_sacks_against_per_game', 'home_sack_differential',
+            'away_sacks_per_game', 'away_sacks_against_per_game', 'away_sack_differential'
+        ])
+        
+        return df
+    
     def compute_all_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """Compute all game features in sequence"""
         try:
-            #df = self.add_margin_of_victory(df)
             df = self.add_yards_per_play(df)
             df = self.add_completion_pct(df)
             df = self.add_critical_down_rate(df)
             df = self.add_turnover_differential(df)
             #df = self.add_binary_roof(df)
             #df = self.add_binary_surface(df)
-            #df = self.handle_weather_nulls(df)
             df = self.add_historical_win_pct(df)
             df = self.add_historical_scoring(df)
+            df = self.add_sacks_per_game(df)
             return df
         except Exception as e:
             self.logger.error(f"Error computing features: {str(e)}")
