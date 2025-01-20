@@ -29,7 +29,10 @@ class SpreadPredictor:
             'home_historical_points_for', 'away_historical_points_for',
             'home_historical_points_against', 'away_historical_points_against',
             
-            'home_sack_differential', 'away_sack_differential'
+            'home_sack_differential', 'away_sack_differential',
+            'home_strength_of_schedule', 'away_strength_of_schedule',
+            'home_interaction_term', 'away_interaction_term',
+            'home_defense_ypp', 'away_defense_ypp'
         ]
         
     def prepare_features(self, feature_vectors: pd.DataFrame, targets: pd.Series = None) -> Tuple[np.ndarray, np.ndarray, List[str]]:

@@ -221,6 +221,70 @@ class FeatureEngineer:
         
         return df
     
+    def add_strength_of_schedule(self, df):
+        df = df.copy()
+        df = df.sort_values('date')
+
+        def calculate_strength_of_schedule(team, current_date):
+            # Get all previous games for this team
+            mask = ((df['date'] < current_date) & 
+                   ((df['home_team'] == team) | (df['away_team'] == team)))
+            prev_games = df[mask]
+
+            if prev_games.empty:
+                return None
+
+            # Take up to n_games most recent games
+            prev_games = prev_games.tail(self.n_games)
+            opponent_records = []
+
+            for _, game in prev_games.iterrows():
+                opponent = game['away_team'] if game['home_team'] == team else game['home_team']
+                opponent_games = df[(df['home_team'] == opponent) | (df['away_team'] == opponent)]
+                opponent_wins = len(opponent_games[
+                    ((opponent_games['home_team'] == opponent) & (opponent_games['home_score'] > opponent_games['away_score'])) |
+                    ((opponent_games['away_team'] == opponent) & (opponent_games['away_score'] > opponent_games['home_score']))
+                ])
+                opponent_records.append(opponent_wins / len(opponent_games) if len(opponent_games) > 0 else 0)
+
+            strength_of_schedule = sum(opponent_records) / len(opponent_records) if opponent_records else 0
+            return strength_of_schedule
+
+        # Calculate for home team
+        df['home_strength_of_schedule'] = df.apply(lambda row: 
+            calculate_strength_of_schedule(row['home_team'], row['date']), axis=1)
+
+        # Calculate for away team
+        df['away_strength_of_schedule'] = df.apply(lambda row: 
+            calculate_strength_of_schedule(row['away_team'], row['date']), axis=1)
+
+        # Remove rows where either team has no strength of schedule data
+        df = df.dropna(subset=['home_strength_of_schedule', 'away_strength_of_schedule'])
+
+        return df
+
+    def add_interaction_terms(self, df):
+        df = df.copy()
+        # Calculate interaction terms
+        df['home_interaction_term'] = df['home_historical_win_pct'] * df['home_strength_of_schedule']
+        df['away_interaction_term'] = df['away_historical_win_pct'] * df['away_strength_of_schedule']
+        return df
+    
+    def add_defense_yards_per_play(self, df):
+        df = df.copy()
+        
+        # Home team defense YPP
+        total_home_defensive_plays = df['away_rush_attempts'] + df['away_pass_attempts']
+        total_home_defensive_yards = df['away_rush_yards'] + df['away_pass_yards']
+        df['home_defense_ypp'] = total_home_defensive_yards / total_home_defensive_plays.replace(0, 1)
+        
+        # Away team defense YPP
+        total_away_defensive_plays = df['home_rush_attempts'] + df['home_pass_attempts']
+        total_away_defensive_yards = df['home_rush_yards'] + df['home_pass_yards']
+        df['away_defense_ypp'] = total_away_defensive_yards / total_away_defensive_plays.replace(0, 1)
+        
+        return df
+
     def compute_all_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """Compute all game features in sequence"""
         try:
@@ -232,7 +296,10 @@ class FeatureEngineer:
             #df = self.add_binary_surface(df)
             df = self.add_historical_win_pct(df)
             df = self.add_historical_scoring(df)
+            df = self.add_strength_of_schedule(df)
+            df = self.add_interaction_terms(df)
             df = self.add_sacks_per_game(df)
+            df = self.add_defense_yards_per_play(df)
             return df
         except Exception as e:
             self.logger.error(f"Error computing features: {str(e)}")
