@@ -41,7 +41,7 @@ def get_team_stats(df: pd.DataFrame, team: str, n_games: int = 10) -> dict:
     if len(team_games) == 0:
         logger.error(f"No games found for {team}")
         return None
-        
+    
     # Calculate win percentage and points
     wins = len(team_games[
         ((team_games['home_team'] == team) & (team_games['home_score'] > team_games['away_score'])) |
@@ -49,9 +49,24 @@ def get_team_stats(df: pd.DataFrame, team: str, n_games: int = 10) -> dict:
     ])
     win_pct = wins / len(team_games)
     
+    # Calculate strength of schedule
+    opponent_records = []
+    for _, game in team_games.iterrows():
+        opponent = game['away_team'] if game['home_team'] == team else game['home_team']
+        opponent_games = df[(df['home_team'] == opponent) | (df['away_team'] == opponent)]
+        opponent_wins = len(opponent_games[
+            ((opponent_games['home_team'] == opponent) & (opponent_games['home_score'] > opponent_games['away_score'])) |
+            ((opponent_games['away_team'] == opponent) & (opponent_games['away_score'] > opponent_games['home_score']))
+        ])
+        opponent_records.append(opponent_wins / len(opponent_games) if len(opponent_games) > 0 else 0)
+    
+    strength_of_schedule = sum(opponent_records) / len(opponent_records) if opponent_records else 0
+    
     # Calculate all required stats
     stats = {
         'win_pct': win_pct,
+        'strength_of_schedule': strength_of_schedule,
+        'interaction_term': win_pct * strength_of_schedule,
         'points_for': 0,
         'points_against': 0,
         'ypp': 0,
@@ -60,7 +75,8 @@ def get_team_stats(df: pd.DataFrame, team: str, n_games: int = 10) -> dict:
         'turnover_differential': 0,
         'sacks_per_game': 0,
         'sacks_against_per_game': 0,
-        'sack_differential': 0
+        'sack_differential': 0,
+        'defense_ypp': 0
     }
     
     # Calculate stats when team was home vs away
@@ -108,13 +124,17 @@ def get_team_stats(df: pd.DataFrame, team: str, n_games: int = 10) -> dict:
         
         sack_differential = game['away_sacked'] - game['home_sacked']
         stats['sack_differential'] += sack_differential
+        
+        # Calculate defense YPP
+        total_defensive_plays = game['away_rush_attempts'] + game['away_pass_attempts'] if is_home else game['home_rush_attempts'] + game['home_pass_attempts']
+        total_defensive_yards = game['away_total_yds'] if is_home else game['home_total_yds']
+        stats['defense_ypp'] += total_defensive_yards / total_defensive_plays if total_defensive_plays > 0 else 0
     
+
     # Convert sums to averages
     n = len(team_games)
-    for stat in ['points_for', 'points_against', 'ypp', 'completion_pct', 'critical_down_rate']:
+    for stat in ['points_for', 'points_against', 'completion_pct', 'critical_down_rate', 'sack_differential', 'ypp', 'turnover_differential', 'defense_ypp']:
         stats[stat] /= n
-    stats['turnover_differential'] /= n
-    stats['sack_differential'] /= n
     
     return stats
 
@@ -150,6 +170,9 @@ def predict_spread(home_team: str, away_team: str):
     logger.info(f"  Critical Down Rate: {home_stats['critical_down_rate']:.3f}")
     logger.info(f"  Turnover Differential: {home_stats['turnover_differential']:.2f}")
     logger.info(f"  Sack Differential: {home_stats['sack_differential']:.1f}")
+    logger.info(f"  Strength of Schedule: {home_stats['strength_of_schedule']:.3f}")
+    logger.info(f"  Interaction Term (Win Pct * Strength of Schedule): {home_stats['interaction_term']:.3f}")
+    logger.info(f"  Defense Yards Per Play: {home_stats['defense_ypp']:.2f}")
 
     logger.info(f"\n{away_team} (Away):")
     logger.info(f"  Win Percentage: {away_stats['win_pct']:.3f}")
@@ -160,6 +183,9 @@ def predict_spread(home_team: str, away_team: str):
     logger.info(f"  Critical Down Rate: {away_stats['critical_down_rate']:.3f}")
     logger.info(f"  Turnover Differential: {away_stats['turnover_differential']:.2f}")
     logger.info(f"  Sack Differential: {away_stats['sack_differential']:.1f}")
+    logger.info(f"  Strength of Schedule: {away_stats['strength_of_schedule']:.3f}")
+    logger.info(f"  Interaction (Win Pct * Strength of Schedule): {away_stats['interaction_term']:.3f}")
+    logger.info(f"  Defense Yards Per Play: {away_stats['defense_ypp']:.2f}")
     logger.info("\n")
 
     # Create feature vector with all required features
@@ -179,7 +205,13 @@ def predict_spread(home_team: str, away_team: str):
         'home_historical_points_against': home_stats['points_against'],
         'away_historical_points_against': away_stats['points_against'],
         'home_sack_differential': home_stats['sack_differential'],
-        'away_sack_differential': away_stats['sack_differential']
+        'away_sack_differential': away_stats['sack_differential'],
+        'home_strength_of_schedule': home_stats['strength_of_schedule'],
+        'away_strength_of_schedule': away_stats['strength_of_schedule'],
+        'home_interaction_term': home_stats['interaction_term'],
+        'away_interaction_term': away_stats['interaction_term'],
+        'home_defense_ypp': home_stats['defense_ypp'],
+        'away_defense_ypp': away_stats['defense_ypp']
     }])
     
     # Make prediction
