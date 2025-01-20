@@ -8,13 +8,6 @@ class FeatureEngineer:
     def __init__(self, n_games: int = 10):
         self.n_games = n_games
         self.logger = logging.getLogger(__name__)
-        
-    def _convert_time_to_seconds(self, time_str: str) -> Optional[int]:
-        try:
-            minutes, seconds = map(int, time_str.split(':'))
-            return minutes * 60 + seconds
-        except:
-            return None
             
     def add_margin_of_victory(self, df: pd.DataFrame) -> pd.DataFrame:
         df = df.copy()
@@ -89,22 +82,6 @@ class FeatureEngineer:
         df['is_grass'] = (df['surface'].str.lower() == 'grass').astype(int)
         return df
 
-    def handle_weather_nulls(self, df):
-        df = df.copy()
-        
-        # Calculate means for outdoor games only
-        #outdoor_mask = df['roof'].str.lower() == 'outdoors'
-        #temp_mean = df.loc[outdoor_mask, 'degrees'].mean()
-        #humidity_mean = df.loc[outdoor_mask, 'humidity'].mean()
-        #wind_mean = df.loc[outdoor_mask, 'wind'].mean()
-        
-        # Fill NaN values
-        #df['degrees'] = df['degrees'].fillna(temp_mean)
-        #df['humidity'] = df['humidity'].fillna(humidity_mean)
-        #df['wind'] = df['wind'].fillna(wind_mean)
-        
-        return df
-
     def add_historical_win_pct(self, df, n_games=None):
         n_games = self.n_games
         df = df.copy()
@@ -175,12 +152,6 @@ class FeatureEngineer:
             avg_points_for = points_for / n
             avg_points_against = points_against / n
             
-            # Add logging
-            #self.logger.info(f"\nTeam: {team}")
-            #self.logger.info(f"Games used: {n}")
-            #self.logger.info(f"Points for: {points_for}, avg: {avg_points_for:.2f}")
-            #self.logger.info(f"Points against: {points_against}, avg: {avg_points_against:.2f}")
-            
             return avg_points_for, avg_points_against
         
         # Calculate for home team
@@ -206,14 +177,14 @@ class FeatureEngineer:
     def compute_all_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """Compute all game features in sequence"""
         try:
-            df = self.add_margin_of_victory(df)
+            #df = self.add_margin_of_victory(df)
             df = self.add_yards_per_play(df)
             df = self.add_completion_pct(df)
             df = self.add_critical_down_rate(df)
             df = self.add_turnover_differential(df)
-            df = self.add_binary_roof(df)
-            df = self.add_binary_surface(df)
-            df = self.handle_weather_nulls(df)
+            #df = self.add_binary_roof(df)
+            #df = self.add_binary_surface(df)
+            #df = self.handle_weather_nulls(df)
             df = self.add_historical_win_pct(df)
             df = self.add_historical_scoring(df)
             return df
