@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 def load_model():
     with open("models/spread_model.pkl", "rb") as f:
         model_data = pickle.load(f)
-    return model_data["model"], model_data["feature_names"]
+    return model_data["model"], model_data["feature_names"], model_data["n_games"]
 
 def load_recent_game_data():
     """Load the most recent season's data available"""
@@ -57,7 +57,10 @@ def get_team_stats(df: pd.DataFrame, team: str, n_games: int = 10) -> dict:
         'ypp': 0,
         'completion_pct': 0,
         'critical_down_rate': 0,
-        'turnover_differential': 0
+        'turnover_differential': 0,
+        'sacks_per_game': 0,
+        'sacks_against_per_game': 0,
+        'sack_differential': 0
     }
     
     # Calculate stats when team was home vs away
@@ -95,19 +98,30 @@ def get_team_stats(df: pd.DataFrame, team: str, n_games: int = 10) -> dict:
         stats['critical_down_rate'] += critical_conversions / critical_attempts if critical_attempts > 0 else 0
         
         stats['turnover_differential'] += opp_turnovers - my_turnovers
+        
+        if is_home:
+            stats['sacks_per_game'] += game['away_sacked']
+            stats['sacks_against_per_game'] += game['home_sacked']
+        else:
+            stats['sacks_per_game'] += game['home_sacked']
+            stats['sacks_against_per_game'] += game['away_sacked']
+        
+        sack_differential = game['away_sacked'] - game['home_sacked']
+        stats['sack_differential'] += sack_differential
     
     # Convert sums to averages
     n = len(team_games)
     for stat in ['points_for', 'points_against', 'ypp', 'completion_pct', 'critical_down_rate']:
         stats[stat] /= n
     stats['turnover_differential'] /= n
+    stats['sack_differential'] /= n
     
     return stats
 
 def predict_spread(home_team: str, away_team: str):
     # Load model and feature names
     try:
-        model, feature_names = load_model()
+        model, feature_names, n_games = load_model()
     except FileNotFoundError:
         logger.error("Model file not found. Please train the model first.")
         return
@@ -119,12 +133,35 @@ def predict_spread(home_team: str, away_team: str):
         return
     
     # Get stats for both teams
-    home_stats = get_team_stats(recent_data, home_team)
-    away_stats = get_team_stats(recent_data, away_team)
+    home_stats = get_team_stats(recent_data, home_team, n_games)
+    away_stats = get_team_stats(recent_data, away_team, n_games)
     
     if home_stats is None or away_stats is None:
         return
     
+    # Display team statistics
+    logger.info("\nTeam Statistics:")
+    logger.info(f"\n{home_team} (Home):")
+    logger.info(f"  Win Percentage: {home_stats['win_pct']:.3f}")
+    logger.info(f"  Points For: {home_stats['points_for']:.1f}")
+    logger.info(f"  Points Against: {home_stats['points_against']:.1f}")
+    logger.info(f"  Yards Per Play: {home_stats['ypp']:.2f}")
+    logger.info(f"  Completion Percentage: {home_stats['completion_pct']:.3f}")
+    logger.info(f"  Critical Down Rate: {home_stats['critical_down_rate']:.3f}")
+    logger.info(f"  Turnover Differential: {home_stats['turnover_differential']:.2f}")
+    logger.info(f"  Sack Differential: {home_stats['sack_differential']:.1f}")
+
+    logger.info(f"\n{away_team} (Away):")
+    logger.info(f"  Win Percentage: {away_stats['win_pct']:.3f}")
+    logger.info(f"  Points For: {away_stats['points_for']:.1f}")
+    logger.info(f"  Points Against: {away_stats['points_against']:.1f}")
+    logger.info(f"  Yards Per Play: {away_stats['ypp']:.2f}")
+    logger.info(f"  Completion Percentage: {away_stats['completion_pct']:.3f}")
+    logger.info(f"  Critical Down Rate: {away_stats['critical_down_rate']:.3f}")
+    logger.info(f"  Turnover Differential: {away_stats['turnover_differential']:.2f}")
+    logger.info(f"  Sack Differential: {away_stats['sack_differential']:.1f}")
+    logger.info("\n")
+
     # Create feature vector with all required features
     features = pd.DataFrame([{
         'home_ypp': home_stats['ypp'],
@@ -140,7 +177,9 @@ def predict_spread(home_team: str, away_team: str):
         'home_historical_points_for': home_stats['points_for'],
         'away_historical_points_for': away_stats['points_for'],
         'home_historical_points_against': home_stats['points_against'],
-        'away_historical_points_against': away_stats['points_against']
+        'away_historical_points_against': away_stats['points_against'],
+        'home_sack_differential': home_stats['sack_differential'],
+        'away_sack_differential': away_stats['sack_differential']
     }])
     
     # Make prediction
