@@ -21,6 +21,31 @@ python scripts/train_spread_model.py --n-games 15 # Use 15 historical games
 # Use the trained model to predict future games by specifying the home and away team, respectively
 python scripts/predict_spread.py "San Francisco 49ers" "Dallas Cowboys"
 ```
+## Variable Descriptions
+- **home_interaction_term**: Interaction term for home team performance.
+- **away_interaction_term**: Interaction term for away team performance.
+- **away_historical_win_pct**: Historical winning percentage of the away team.
+- **home_historical_win_pct**: Historical winning percentage of the home team.
+- **home_strength_of_schedule**: Strength of schedule metric for the home team.
+- **away_strength_of_schedule**: Strength of schedule metric for the away team.
+- **home_turnover_differential**: Turnover differential for the home team.
+- **away_turnover_differential**: Turnover differential for the away team.
+- **home_ypp**: Yards per play for the home team.
+- **away_defense_ypp**: Yards per play allowed by the away team's defense.
+- **away_ypp**: Yards per play for the away team.
+- **home_defense_ypp**: Yards per play allowed by the home team's defense.
+- **away_critical_down_rate**: Critical down conversion rate for the away team.
+- **home_critical_down_rate**: Critical down conversion rate for the home team.
+- **home_historical_points_for**: Historical points scored by the home team.
+- **away_historical_points_for**: Historical points scored by the away team.
+- **away_completion_pct**: Completion percentage for the away team.
+- **home_completion_pct**: Completion percentage for the home team.
+- **home_historical_points_against**: Historical points allowed by the home team.
+- **away_historical_points_against**: Historical points allowed by the away team.
+- **away_sack_differential**: Sack differential for the away team.
+- **home_sack_differential**: Sack differential for the home team.
+- **Intercept**: The intercept term of the model, representing the home field advantage.
+
 ## Disclaimer
 This project is for educational and research purposes only and does not claim ownership of any NFL data.
 
