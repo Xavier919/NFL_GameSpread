@@ -27,22 +27,22 @@ def load_game_data(years: List[int]) -> pd.DataFrame:
     return pd.concat(dfs, ignore_index=True) if dfs else None
 
 def display_feature_importance(coefficients: Dict[str, float], logger: logging.Logger):
-    """Display the importance of each feature based on coefficients"""
+    """Display the importance of each feature based on coefficients and p-values"""
     # Sort coefficients by absolute value to show most influential features
     sorted_coefs = sorted(
-        [(k, v) for k, v in coefficients.items() if k != 'intercept'],
+        [(k, v['coef'], v['pval']) for k, v in coefficients.items() if k != 'intercept'],
         key=lambda x: abs(x[1]),
         reverse=True
     )
     
-    logger.info("\nFeature Coefficients (sorted by importance):")
-    logger.info("-" * 50)
-    for feature, coef in sorted_coefs:
-        logger.info(f"{feature:30} {coef:>10.4f}")
+    logger.info("\nFeature Coefficients and P-values (sorted by importance):")
+    logger.info("-" * 70)
+    for feature, coef, pval in sorted_coefs:
+        logger.info(f"{feature:30} {coef:>10.4f} {pval:>10.4f}")
         
     if 'intercept' in coefficients:
-        logger.info("-" * 50)
-        logger.info(f"{'Intercept':30} {coefficients['intercept']:>10.4f}")
+        logger.info("-" * 70)
+        logger.info(f"{'Intercept':30} {coefficients['intercept']['coef']:>10.4f} {coefficients['intercept']['pval']:>10.4f}")
 
 def find_available_years(start_year: int = 2010, end_year: int = 2024) -> List[int]:
     """Find all years that have available data files"""
@@ -108,7 +108,7 @@ def main():
     predictor.model.fit(X, y)
     
     # Analyze coefficients
-    coefficients = predictor.analyze_coefficients(feature_names)
+    coefficients = predictor.analyze_coefficients(feature_names, X, y)
     display_feature_importance(coefficients, logger)
     
     # Save model and feature names

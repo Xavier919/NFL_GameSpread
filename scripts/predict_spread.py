@@ -162,7 +162,7 @@ def predict_spread(home_team: str, away_team: str):
     # Display team statistics
     logger.info("\nTeam Statistics:")
     logger.info(f"\n{home_team} (Home):")
-    logger.info(f"  Win Percentage: {home_stats['win_pct']:.3f}")
+    #logger.info(f"  Win Percentage: {home_stats['win_pct']:.3f}")
     logger.info(f"  Points For: {home_stats['points_for']:.1f}")
     logger.info(f"  Points Against: {home_stats['points_against']:.1f}")
     logger.info(f"  Yards Per Play: {home_stats['ypp']:.2f}")
@@ -170,12 +170,12 @@ def predict_spread(home_team: str, away_team: str):
     logger.info(f"  Critical Down Rate: {home_stats['critical_down_rate']:.3f}")
     logger.info(f"  Turnover Differential: {home_stats['turnover_differential']:.2f}")
     logger.info(f"  Sack Differential: {home_stats['sack_differential']:.1f}")
-    logger.info(f"  Strength of Schedule: {home_stats['strength_of_schedule']:.3f}")
+    #logger.info(f"  Strength of Schedule: {home_stats['strength_of_schedule']:.3f}")
     logger.info(f"  Interaction Term (Win Pct * Strength of Schedule): {home_stats['interaction_term']:.3f}")
     logger.info(f"  Defense Yards Per Play: {home_stats['defense_ypp']:.2f}")
 
     logger.info(f"\n{away_team} (Away):")
-    logger.info(f"  Win Percentage: {away_stats['win_pct']:.3f}")
+    #logger.info(f"  Win Percentage: {away_stats['win_pct']:.3f}")
     logger.info(f"  Points For: {away_stats['points_for']:.1f}")
     logger.info(f"  Points Against: {away_stats['points_against']:.1f}")
     logger.info(f"  Yards Per Play: {away_stats['ypp']:.2f}")
@@ -183,7 +183,7 @@ def predict_spread(home_team: str, away_team: str):
     logger.info(f"  Critical Down Rate: {away_stats['critical_down_rate']:.3f}")
     logger.info(f"  Turnover Differential: {away_stats['turnover_differential']:.2f}")
     logger.info(f"  Sack Differential: {away_stats['sack_differential']:.1f}")
-    logger.info(f"  Strength of Schedule: {away_stats['strength_of_schedule']:.3f}")
+    #logger.info(f"  Strength of Schedule: {away_stats['strength_of_schedule']:.3f}")
     logger.info(f"  Interaction (Win Pct * Strength of Schedule): {away_stats['interaction_term']:.3f}")
     logger.info(f"  Defense Yards Per Play: {away_stats['defense_ypp']:.2f}")
     logger.info("\n")
@@ -198,16 +198,16 @@ def predict_spread(home_team: str, away_team: str):
         'away_critical_down_rate': away_stats['critical_down_rate'],
         'home_turnover_differential': home_stats['turnover_differential'],
         'away_turnover_differential': away_stats['turnover_differential'],
-        'home_historical_win_pct': home_stats['win_pct'],
-        'away_historical_win_pct': away_stats['win_pct'],
+        #'home_historical_win_pct': home_stats['win_pct'],
+        #'away_historical_win_pct': away_stats['win_pct'],
         'home_historical_points_for': home_stats['points_for'],
         'away_historical_points_for': away_stats['points_for'],
         'home_historical_points_against': home_stats['points_against'],
         'away_historical_points_against': away_stats['points_against'],
         'home_sack_differential': home_stats['sack_differential'],
         'away_sack_differential': away_stats['sack_differential'],
-        'home_strength_of_schedule': home_stats['strength_of_schedule'],
-        'away_strength_of_schedule': away_stats['strength_of_schedule'],
+        #'home_strength_of_schedule': home_stats['strength_of_schedule'],
+        #'away_strength_of_schedule': away_stats['strength_of_schedule'],
         'home_interaction_term': home_stats['interaction_term'],
         'away_interaction_term': away_stats['interaction_term'],
         'home_defense_ypp': home_stats['defense_ypp'],
