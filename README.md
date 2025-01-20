@@ -22,8 +22,8 @@ python scripts/train_spread_model.py --n-games 15 # Use 15 historical games
 python scripts/predict_spread.py "San Francisco 49ers" "Dallas Cowboys"
 ```
 ## Variable Descriptions
-- **home_interaction_term**: Interaction term for home team performance.
-- **away_interaction_term**: Interaction term for away team performance.
+- **home_interaction_term**: Interaction term for home team performance (Win Pct * Strength of Schedule).
+- **away_interaction_term**: Interaction term for away team performance (Win Pct * Strength of Schedule).
 - **away_historical_win_pct**: Historical winning percentage of the away team.
 - **home_historical_win_pct**: Historical winning percentage of the home team.
 - **home_strength_of_schedule**: Strength of schedule metric for the home team.
