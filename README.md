@@ -17,7 +17,7 @@ pip install -r requirements.txt
 # Run the scraper to collect data
 python main --start_season 2010 --end_season 2024 
 # Train the spread model
-python scripts/train_spread_model.py
+python scripts/train_spread_model.py --n-games 15 # Use 15 historical games
 # Use the trained model to predict future games by specifying the home and away team, respectively
 python scripts/predict_spread.py "San Francisco 49ers" "Dallas Cowboys"
 ```
